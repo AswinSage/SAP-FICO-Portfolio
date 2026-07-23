@@ -5,12 +5,15 @@ SAP S/4HANA FICO portfolio showcasing end-to-end finance business processes, con
 
 ## MBA Finance | Aspiring SAP S/4HANA FICO Consultant
 
+![MBA Finance](https://img.shields.io/badge/MBA-Finance-blue)
 ![SAP S/4HANA](https://img.shields.io/badge/SAP-S%2F4HANA-0FAAFF?logo=sap&logoColor=white)
 ![SAP FICO](https://img.shields.io/badge/Module-FICO-blue)
-![Excel](https://img.shields.io/badge/Microsoft-Excel-217346?logo=microsoft-excel&logoColor=white)
+![Microsoft Excel](https://img.shields.io/badge/Microsoft-Excel-217346?logo=microsoft-excel&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Microsoft-Power%20BI-F2C811?logo=powerbi&logoColor=black)
-![Finance](https://img.shields.io/badge/Finance-MBA-darkgreen)
-![GitHub](https://img.shields.io/badge/GitHub-Portfolio-black?logo=github)
+![NPTEL Top 2%](https://img.shields.io/badge/NPTEL-Top%202%25-success)
+![NPTEL Top 5%](https://img.shields.io/badge/NPTEL-Top%205%25-success)
+![BSmart Brand Canvas](https://img.shields.io/badge/BSmart_Brand_Canvas-National_5th_Place-success)
+
 
 I'm an MBA Finance student passionate about Financial Accounting, Management Accounting, and SAP S/4HANA FICO. I enjoy learning how finance processes are transformed into efficient business solutions through SAP.
 
