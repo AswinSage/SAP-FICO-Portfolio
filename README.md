@@ -78,12 +78,6 @@ Currently, I'm building a public portfolio of SAP FICO projects, business proces
 
 Coming Soon...
 
-- SAP-FICO-Portfolio
-- SAP-Procure-to-Pay
-- SAP-Order-to-Cash
-- SAP-Asset-Accounting
-
----
 
 ## Goals
 
