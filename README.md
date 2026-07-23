@@ -87,5 +87,5 @@ My goal is to become an SAP S/4HANA FICO Consultant with strong business process
 
 ## Connect With Me
 
-- LinkedIn: (linkedin.com/in/aswinsn)
+- LinkedIn: (www.linkedin.com/in/aswinsn)
 - Email: (s.n.aswin.004@gmail.com)
