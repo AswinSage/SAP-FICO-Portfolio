@@ -9,7 +9,7 @@
 | Source procedure page | 126 |
 | Source screenshot pages | 127–129 |
 | Scenario category | Master data validation |
-| Execution status | Executed – Completed (project completion confirmed by project owner) |
+| Execution status | Executed – Completed |
 
 ## Objective
 
