@@ -8,8 +8,8 @@
 | 12 | [Vendor Payment](12-Vendor-Payment.md) |
 | 13 | [Vendor Line-item Report](13-Vendor-Line-Item-Report.md) |
 
-## Evidence Standard
-Capture vendor master data, invoice posting, payment/clearing, and vendor/G/L line-item reports. Record partial or residual payment only if the corresponding scenario was actually tested.
+## Screenshot Page References
 
+See the [Screenshot Page Index](../../00-Project-Overview/Screenshot-Page-Index.md) for the source PDF screenshot pages for each process.
 ## Source Note
 Business Processes document, Processes 9–13, pages 39–53.
