@@ -35,6 +35,8 @@ Report stated in source: Internal Order Actual Line Items (`KOB1`).
 - [ ] Actual line-item report can be reviewed after posting.
 
 ## 7. Evidence
+
+**Source PDF screenshot pages:** 86-87 in *SAP FICO BUSINESS PROCESSES (1).pdf*. See the [Screenshot Page Index](../../00-Project-Overview/Screenshot-Page-Index.md).
 Suggested: `25-Create-Internal-Order-Business-Event.png`.
 
 ## 8. Implementation Notes
