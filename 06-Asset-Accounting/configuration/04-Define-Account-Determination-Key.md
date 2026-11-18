@@ -17,11 +17,13 @@ The source explains that the key determines the G/L accounts used for asset acqu
 5. Save.
 
 ## 5. Project Values
-| Field | Project value |
+| Account Determination Key | Description visible in SRC-01, PDF page 99 |
 |---|---|
-| Account Determination Key | Record from SAP |
-| Description / Name | Record from SAP |
-| Asset Class assignment | Record from SAP |
+| HM11 | Machine |
+| HM12 | Building |
+| HM13 | Vehicle |
+
+The same screenshot shows Chart of Depreciation HM11 and Chart of Accounts HM11. Additional keys are visible lower in the on-screen list; this table records only the first three clearly legible entries. Confirm the full list and asset-class assignments in the target system.
 
 ## 6. Validation
 - [ ] Key is created.
