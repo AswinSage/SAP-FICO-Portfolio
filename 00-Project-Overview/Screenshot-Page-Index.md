@@ -39,16 +39,3 @@ This index covers the 27 numbered processes in the Business Processes PDF. It do
 | 25 | Create Internal Order Master Data | 86-87 | Internal Order master creation for Business Event and related displayed evidence. |
 | 26 | Create Cost Centre Master Data | 89-90 | Cost Centre master creation for Production, HR and Marketing departments. |
 | 27 | Create Profit Centre Master Data | 91-92 | Profit Centre master creation for Custom Product and report screen. |
-
-## How to Use the Index
-
-1. Open **SAP FICO BUSINESS PROCESSES (1).pdf**.
-2. Navigate to the page number listed for the required process.
-3. Use the process title and screenshot subject to identify the relevant screen capture.
-4. For multiple-page ranges, review all pages in the range because one process may include creation, display, and report-output screens.
-5. When transferring screenshots to GitHub, use redacted screenshots from your own SAP practice system where possible. The source-PDF page references are for reference and do not prove that the process has been executed in your target tenant.
-
-## Evidence Status
-
-The page numbers above are source-document references. They are not screenshots uploaded into the repository. For actual project evidence, add your own SAP screenshots under the relevant module's `screenshots/` folder and link them from the matching process document.
-
