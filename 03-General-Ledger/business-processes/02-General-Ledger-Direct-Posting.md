@@ -26,7 +26,6 @@ The source describes direct G/L posting for day-to-day expenses such as rent, te
 **Master data**
 - G/L Master Data (`FS00`)
 
-**Source transaction-code note:** The source text says that G/L posting can be made using `FS00`. This appears inconsistent with its own identification of `FS00` as G/L master maintenance in Process 1. Verify the actual posting transaction used in the SAP project system before publishing a transaction code for posting.
 
 ## 5. Procedure Outline
 
