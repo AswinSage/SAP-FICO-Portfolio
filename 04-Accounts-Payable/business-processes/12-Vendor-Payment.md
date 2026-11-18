@@ -56,7 +56,9 @@ These approaches support vendor liability and cash-flow management.
 
 ## 7. Evidence
 
-Suggested evidence: `12-Vendor-Payment-Partial.png` and `12-Vendor-Payment-Residual.png`.
+**Source PDF screenshot pages:** 50-51 in *SAP FICO BUSINESS PROCESSES (1).pdf*. See the [Screenshot Page Index](../../00-Project-Overview/Screenshot-Page-Index.md).
+
+`12-Vendor-Payment-Partial.png` and `12-Vendor-Payment-Residual.png`.
 
 ## 8. Implementation Notes
 
