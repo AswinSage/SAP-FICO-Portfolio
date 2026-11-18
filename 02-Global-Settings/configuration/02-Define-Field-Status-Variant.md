@@ -34,13 +34,13 @@ The Field Status Variant controls whether fields are required, optional, suppres
 
 ## 5. Project Configuration Values
 
-| Field | Project value |
+| Field | Value visible in SRC-01 |
 |---|---|
-| Field Status Variant | To be recorded from SAP |
-| Description | To be recorded from SAP |
-| Field Status Group | To be recorded from SAP |
-| Field Status Group description | To be recorded from SAP |
-| Field control settings | To be recorded from SAP |
+| Field Status Variant | HM11 |
+| Description | Field Status Variant-HM11 |
+| Field Status Groups / field-control settings | Not fully transcribed from the screenshot; inspect the actual variant details before use |
+
+Source: implementation report, PDF page 20. The source screenshot shows the variant identifier and description, but does not provide a sufficiently complete view of every Field Status Group setting.
 
 ## 6. Validation
 
