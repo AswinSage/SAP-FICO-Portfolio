@@ -12,7 +12,7 @@ Phase 8 validates the SAP FICO master-data records and accounting transactions e
 | [Test Case Register](Test-Case-Register.md) | Nine Phase 8 scenarios with source screenshot references and target-environment status |
 | [Test Strategy](Test-Strategy.md) | Test levels, controls, evidence classes and result definitions |
 | [Test Execution Record Standard](Test-Execution-Template.md) | Structure and data fields for a traceable execution record |
-| [Cutover Readiness and Scope Matrix](Cutover-Checklist.md) | Source-backed readiness areas and gaps not defined by the source reports |
+| [Cutover Readiness and Scope Matrix](Cutover-Readiness-Matrix.md) | Source-backed readiness areas and gaps not defined by the source reports |
 
 ## Process Scenario Documents
 
