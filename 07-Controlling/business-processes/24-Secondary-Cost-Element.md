@@ -31,6 +31,8 @@ Report stated in source: Cost Element Line Items (`KSB1`).
 - [ ] Allocation/posting evidence is recorded if performed.
 
 ## 7. Evidence
+
+**Source PDF screenshot pages:** 84-85 in *SAP FICO BUSINESS PROCESSES (1).pdf*. See the [Screenshot Page Index](../../00-Project-Overview/Screenshot-Page-Index.md).
 Suggested: `24-Secondary-Cost-Element.png`.
 
 ## 8. Implementation Notes
