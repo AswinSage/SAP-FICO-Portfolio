@@ -50,7 +50,7 @@ The source examples include Unisoft Infotech Pvt Ltd and Zyple Software Solution
 
 ## 7. Evidence
 
-**Source PDF screenshot pages:** 54-57 in *SAP FICO BUSINESS PROCESSES (1).pdf*. See the [Screenshot Page Index](../../00-Project-Overview/Screenshot-Page-Index.md).
+**Source PDF screenshot pages:** [PDF p.54](https://github.com/AswinSage/SAP-FICO-Portfolio/blob/main/source-documents/SAP%20FICO%20BUSINESS%20PROCESSES.pdf#page=54) · [PDF p.55](https://github.com/AswinSage/SAP-FICO-Portfolio/blob/main/source-documents/SAP%20FICO%20BUSINESS%20PROCESSES.pdf#page=55) · [PDF p.56](https://github.com/AswinSage/SAP-FICO-Portfolio/blob/main/source-documents/SAP%20FICO%20BUSINESS%20PROCESSES.pdf#page=56) · [PDF p.57](https://github.com/AswinSage/SAP-FICO-Portfolio/blob/main/source-documents/SAP%20FICO%20BUSINESS%20PROCESSES.pdf#page=57). See the [Screenshot Page Index](../../00-Project-Overview/Screenshot-Page-Index.md).
 
 `14-Create-Customer-Master.png`.
 
