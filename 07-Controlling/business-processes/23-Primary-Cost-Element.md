@@ -33,6 +33,8 @@ Report stated in source: Cost Element Line Items (`KSB1`).
 - [ ] Report can be reviewed after posting.
 
 ## 7. Evidence
+
+**Source PDF screenshot pages:** 82-83 in *SAP FICO BUSINESS PROCESSES (1).pdf*. See the [Screenshot Page Index](../../00-Project-Overview/Screenshot-Page-Index.md).
 Suggested: `23-Primary-Cost-Element.png`.
 
 ## 8. Implementation Notes
