@@ -40,12 +40,6 @@ The source describes this control as restricting postings to a G/L account acros
 
 **Source PDF screenshot pages:** 29 in *SAP FICO BUSINESS PROCESSES (1).pdf*. See the [Screenshot Page Index](../../00-Project-Overview/Screenshot-Page-Index.md).
 
-`03-Block-GL-Chart-of-Accounts-Level.png`.
-
-## 8. Implementation Notes
-
-Record the actual G/L account identifier and the exact block indicator used. Do not claim that a posting rejection was tested unless a test result is available.
-
-## 9. Source Note
+## 8. Source Note
 
 Business Processes document, Process 3, pages 28–29.
