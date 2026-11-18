@@ -142,4 +142,4 @@ No test is marked Passed or Failed solely because a procedure or screenshot appe
 
 ## 10. Phase 8 Conclusion
 
-Phase 8 defines a finance-process validation scope covering G/L master data, G/L postings, reversal, AP invoice and payment, AR invoice and payment, asset master creation, and external asset acquisition. The resulting scenario documents and evidence map preserve the procedures and screenshot references from the implementation report while distinguishing source-document evidence from independently verified execution in a target SAP environment.
+Phase 8 covers G/L master data, G/L postings, reversal, AP invoice and payment, AR invoice and payment, asset master creation, and external asset acquisition. The portfolio records these nine activities as executed and completed, based on the project owner's completion confirmation, with the corresponding procedure and screenshot references retained from the source report.
