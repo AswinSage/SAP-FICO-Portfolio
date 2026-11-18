@@ -23,12 +23,22 @@ The source describes vendor master data as containing name, address, communicati
 ## 5. Project Values
 | Field | Project value |
 |---|---|
-| Vendor Account Group | Record from SAP |
-| Company Code | Record from SAP |
-| Purchasing Organization | Record if applicable |
-| Vendor name / number | Use approved or redacted data |
-| Reconciliation Account | Record from SAP |
-| Payment Terms | Record from SAP |
+| Field | Value visible in SRC-01, PDF page 60 |
+|---|---|
+| Vendor name | Infineon Technologies |
+| Vendor number | 2026202601 |
+| Company Code | HM11 - Hindustan Motors Ltd |
+| Reconciliation Account | 1002 |
+| Sort Key | 001 |
+| City / Country | Chennai / IN |
+| Postal Code | 600018 |
+| Region | 22 |
+| Language | EN - English |
+| Vendor Account Group | Not visible in the screenshot |
+| Purchasing Organization | Not visible in the screenshot |
+| Payment Terms | Not visible in the screenshot |
+
+The implementation report also names Analog Devices Ltd as a foreign vendor example for HM12 (SRC-01, PDF page 61). The separate business-process PDF uses BE Solution Pvt Ltd and Sun IT Solutions in its vendor examples; do not merge these sample records. Use vendor details in public only when permitted.
 
 ## 6. Validation
 - [ ] Vendor master is created.
