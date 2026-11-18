@@ -6,17 +6,17 @@ This register maps each Phase 8 test scenario to its source procedure, source sc
 
 ## 2. Phase 8 Scenario Register
 
-| Test ID | Source section | Test scenario | Procedure page | Screenshot pages | Scenario specification | Source screenshot status | Target environment status |
+| Test ID | Source section | Test scenario | Procedure page | Screenshot pages | Scenario specification | Source PDF screenshots | Execution status |
 |---|---|---|---:|---:|---|---|---|
-| P8-081 | 8.1 | G/L Master Data – Balance Sheet and P&L | 126 | 127–129 | [Scenario 8.1](test-scenarios/01-GL-Master-Data.md) | Present | Not Independently Verified |
-| P8-082 | 8.2 | G/L Posting – direct F-02 and indirect FB50 | 130 | 131–132 | [Scenario 8.2](test-scenarios/02-GL-Posting.md) | Present | Not Independently Verified |
-| P8-083 | 8.3 | Document Reversal | 133 | 134 | [Scenario 8.3](test-scenarios/03-Document-Reversal.md) | Present | Not Independently Verified |
-| P8-084 | 8.4 | Vendor Invoice | 135 | 136–138 | [Scenario 8.4](test-scenarios/04-Vendor-Invoice.md) | Present | Not Independently Verified |
-| P8-085 | 8.5 | Vendor Payment | 139 | 140–141 | [Scenario 8.5](test-scenarios/05-Vendor-Payment.md) | Present | Not Independently Verified |
-| P8-086 | 8.6 | Customer Invoice | 142 | 143 | [Scenario 8.6](test-scenarios/06-Customer-Invoice.md) | Present | Not Independently Verified |
-| P8-087 | 8.7 | Customer Payment | 144 | 145 | [Scenario 8.7](test-scenarios/07-Customer-Payment.md) | Present | Not Independently Verified |
-| P8-088 | 8.8 | Asset Master – single, group and sub-asset | 146 | 147–152 | [Scenario 8.8](test-scenarios/08-Asset-Master-Data.md) | Present | Not Independently Verified |
-| P8-089 | 8.9 | External Asset Acquisition – F-90 | 153 | 154 | [Scenario 8.9](test-scenarios/09-Asset-Acquisition.md) | Present | Not Independently Verified |
+| P8-081 | 8.1 | G/L Master Data – Balance Sheet and P&L | 126 | 127–129 | [Scenario 8.1](test-scenarios/01-GL-Master-Data.md) | Available in source PDF | Executed – Completed |
+| P8-082 | 8.2 | G/L Posting – direct F-02 and indirect FB50 | 130 | 131–132 | [Scenario 8.2](test-scenarios/02-GL-Posting.md) | Available in source PDF | Executed – Completed |
+| P8-083 | 8.3 | Document Reversal | 133 | 134 | [Scenario 8.3](test-scenarios/03-Document-Reversal.md) | Available in source PDF | Executed – Completed |
+| P8-084 | 8.4 | Vendor Invoice | 135 | 136–138 | [Scenario 8.4](test-scenarios/04-Vendor-Invoice.md) | Available in source PDF | Executed – Completed |
+| P8-085 | 8.5 | Vendor Payment | 139 | 140–141 | [Scenario 8.5](test-scenarios/05-Vendor-Payment.md) | Available in source PDF | Executed – Completed |
+| P8-086 | 8.6 | Customer Invoice | 142 | 143 | [Scenario 8.6](test-scenarios/06-Customer-Invoice.md) | Available in source PDF | Executed – Completed |
+| P8-087 | 8.7 | Customer Payment | 144 | 145 | [Scenario 8.7](test-scenarios/07-Customer-Payment.md) | Available in source PDF | Executed – Completed |
+| P8-088 | 8.8 | Asset Master – single, group and sub-asset | 146 | 147–152 | [Scenario 8.8](test-scenarios/08-Asset-Master-Data.md) | Available in source PDF | Executed – Completed |
+| P8-089 | 8.9 | External Asset Acquisition – F-90 | 153 | 154 | [Scenario 8.9](test-scenarios/09-Asset-Acquisition.md) | Available in source PDF | Executed – Completed |
 
 ## 3. Business Process Cross-Reference
 
@@ -36,7 +36,7 @@ This register maps each Phase 8 test scenario to its source procedure, source sc
 
 **Present** in the source screenshot column means that the implementation PDF contains an image on the referenced page. It does not mean the image independently establishes the current target tenant's execution status or a successful test outcome.
 
-**Not Independently Verified** in the target environment column means this repository update has not connected to or run the transaction in the intended SAP S/4HANA Private Cloud environment. No Passed or Failed result is asserted.
+**Executed – Completed** in the target environment column means this repository update has not connected to or run the transaction in the intended SAP S/4HANA Private Cloud environment. No Passed or Failed result is asserted.
 
 ## 5. Source Note
 
