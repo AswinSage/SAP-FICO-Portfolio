@@ -15,6 +15,11 @@
 
 Validate outgoing vendor payment against an outstanding vendor invoice, including bank/cash posting, open-item selection, payment assignment, and clearing.
 
+## Direct PDF Page Links
+
+- **Procedure:** [PDF p.139](https://github.com/AswinSage/SAP-FICO-Portfolio/blob/main/source-documents/SAP%20FICO%20IMPLEMENTATION%20PROJECT%20DOCUMENT%201.pdf#page=139)
+- **Screenshots:** [PDF p.140](https://github.com/AswinSage/SAP-FICO-Portfolio/blob/main/source-documents/SAP%20FICO%20IMPLEMENTATION%20PROJECT%20DOCUMENT%201.pdf#page=140) · [PDF p.141](https://github.com/AswinSage/SAP-FICO-Portfolio/blob/main/source-documents/SAP%20FICO%20IMPLEMENTATION%20PROJECT%20DOCUMENT%201.pdf#page=141)
+
 ## Source Procedure
 
 1. Enter the Company Code, Document Date, Posting Date, and Currency.
