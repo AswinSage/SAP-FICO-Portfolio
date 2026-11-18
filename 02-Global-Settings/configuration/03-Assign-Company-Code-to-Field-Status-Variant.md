@@ -30,9 +30,9 @@ The assignment determines the field status controls applied during G/L account p
 
 | Field | Project value |
 |---|---|
-| Company Code | To be recorded from SAP |
-| Field Status Variant | To be recorded from SAP |
-| Assignment result | Pending verification |
+| Company Code | HM11 is defined in SRC-01, PDF page 4 |
+| Field Status Variant | HM11 is defined in SRC-01, PDF page 20 |
+| Assignment result | The source describes the assignment activity but does not show a saved company-code assignment result. Confirm HM11 is assigned to HM11 in the target system; do not treat the matching identifiers alone as execution evidence. |
 
 ## 6. Validation
 
