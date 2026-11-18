@@ -54,7 +54,7 @@ The source example is a service invoice to Unisoft Infotech Pvt Ltd.
 
 ## 7. Evidence
 
-**Source PDF screenshot pages:** 62-65 in *SAP FICO BUSINESS PROCESSES (1).pdf*. See the [Screenshot Page Index](../../00-Project-Overview/Screenshot-Page-Index.md).
+**Source PDF screenshot pages:** [PDF p.62](https://github.com/AswinSage/SAP-FICO-Portfolio/blob/main/source-documents/SAP%20FICO%20BUSINESS%20PROCESSES.pdf#page=62) · [PDF p.63](https://github.com/AswinSage/SAP-FICO-Portfolio/blob/main/source-documents/SAP%20FICO%20BUSINESS%20PROCESSES.pdf#page=63) · [PDF p.64](https://github.com/AswinSage/SAP-FICO-Portfolio/blob/main/source-documents/SAP%20FICO%20BUSINESS%20PROCESSES.pdf#page=64) · [PDF p.65](https://github.com/AswinSage/SAP-FICO-Portfolio/blob/main/source-documents/SAP%20FICO%20BUSINESS%20PROCESSES.pdf#page=65). See the [Screenshot Page Index](../../00-Project-Overview/Screenshot-Page-Index.md).
 
 `17-Customer-Service-Invoice.png`, plus customer and G/L line-item reports.
 
