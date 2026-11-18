@@ -9,7 +9,7 @@ This project is based on two source PDFs supplied for the SAP FICO implementatio
 | SRC-01 | SAP FICO IMPLEMENTATION PROJECT DOCUMENT 1(1).pdf | 155 pages | Implementation Phases 1–8 |
 | SRC-02 | SAP FICO BUSINESS PROCESSES (1).pdf | 92 pages | 27 detailed business processes across G/L, AP, AR, Asset Accounting and Controlling |
 
-**Repository file status:** The source PDFs are referenced by this index and the phase documentation, but the PDF binary attachments themselves have not been committed to this repository. The connected GitHub file-writing interface currently available for this project supports UTF-8 text file changes only, not binary PDF attachment uploads.
+**Repository note:** The source PDFs are the reference materials for this project. This repository contains their page map and phase-wise references; the original PDF binaries are not embedded in the repository.
 
 ## SRC-01 – Implementation Project Document
 
