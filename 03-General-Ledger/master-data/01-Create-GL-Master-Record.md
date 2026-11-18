@@ -36,17 +36,16 @@ A G/L Account Master contains the account information and control settings requi
 
 ## 5. Project Master Data Record
 
-| Field | Project value |
-|---|---|
-| G/L Account Number | To be recorded from SAP |
-| Company Code | To be recorded from SAP |
-| Chart of Accounts | To be recorded from SAP |
-| Account Group | To be recorded from SAP |
-| G/L Account Description | To be recorded from SAP |
-| Account Type | To be recorded from SAP |
-| Currency | To be recorded from SAP |
-| Field Status Group | To be recorded from SAP |
-| Control Data | Record relevant actual settings |
+### Sample account values visible in the implementation report
+
+| G/L account | Company Code | Description | Account Group | Account type | Source |
+|---:|---|---|---|---|---|
+| 1 | HM11 | Machine | AST ASSET | Balance Sheet | SRC-01, PDF page 35 |
+| 2 | HM11 | Cash Account | AST ASSET | Balance Sheet | SRC-01, PDF page 37 |
+| 1001 | HM11 | Loan / Loan Account | LIAB LIABILITY | Balance Sheet | SRC-01, PDF page 39 |
+| 2001 | HM11 | Rent Account | EXP EXPENSES | P&L Statement | SRC-01, PDF page 41 |
+
+The screenshots show INR account currency, line-item display selected, and sort key 001 for these sample records. Confirm each account's full company-code settings and Field Status Group in the live system; do not infer fields that are not visible.
 
 ## 6. Validation
 
