@@ -267,12 +267,13 @@ The source reports are not perfectly consistent. These points are intentionally 
 1. **Different vendor examples:** SRC-01 names Infineon Technologies (HM11) and Analog Devices Ltd (HM12). SRC-02 uses BE Solution Pvt Ltd and Sun IT Solutions for vendor master examples, and BE Solution Pvt Ltd for the rent invoice scenario.
 2. **Different customer examples:** SRC-01 names Mahindra Pvt Ltd and Berkshire Hathaway Ltd. SRC-02 uses Unisoft Infotech Pvt Ltd and Zyple Software Solutions Pvt Ltd in its customer master and transaction examples.
 3. **Cost Centre examples:** SRC-01 shows Production and Marketing cost centres. SRC-02 also refers to an HR Department cost-centre example.
-4. **Vendor account-group assignment navigation:** SRC-01 section 4.3.1 is vendor-specific, but its navigation text refers to Customer Accounts / Customer Master Data. Verify the vendor-specific activity in the target SAP system.
-5. **Segment procedure:** SRC-01 section 1.8 is titled Define Segment, but its steps refer to entering a Functional Area code and name. Verify the correct Segment object and field names.
-6. **Direct G/L posting transaction:** SRC-02 Process 2 states FS00 for G/L posting, although SRC-01 Phase 8 names F-02 and FB50 for direct and indirect G/L posting. FS00 is identified elsewhere in SRC-02 for G/L master maintenance. Confirm the transaction used in the actual system.
-7. **Customer line-item report:** SRC-02 Process 19 lists FS00 next to the G/L Line-item Report label. Other sections identify FBL3N for the G/L line-item report. Confirm the report code.
-8. **Profit Centre prerequisite:** SRC-02 Process 27 lists Internal Order under Configuration Needed for Profit Centre creation. Confirm whether this is a project-specific dependency or a source-document error.
-9. **Classic SAP GUI navigation:** The PDFs show classic SAP GUI procedures and transaction references. They do not establish that every screen or step was executed and verified in SAP S/4HANA Private Cloud 2025 or newer.
+4. **Fiscal Year Variant reference:** The Credit Control Area screenshot shows fiscal-year-variant field value H1 (SRC-01, PDF page 7), while the company-code fiscal-year example and Controlling Area use HM (SRC-01, PDF pages 23 and 112). Confirm whether H1 is intentionally a separate setting or a source inconsistency.
+5. **Vendor account-group assignment navigation:** SRC-01 section 4.3.1 is vendor-specific, but its navigation text refers to Customer Accounts / Customer Master Data. Verify the vendor-specific activity in the target SAP system.
+6. **Segment procedure:** SRC-01 section 1.8 is titled Define Segment, but its steps refer to entering a Functional Area code and name. Verify the correct Segment object and field names.
+7. **Direct G/L posting transaction:** SRC-02 Process 2 states FS00 for G/L posting, although SRC-01 Phase 8 names F-02 and FB50 for direct and indirect G/L posting. FS00 is identified elsewhere in SRC-02 for G/L master maintenance. Confirm the transaction used in the actual system.
+8. **Customer line-item report:** SRC-02 Process 19 lists FS00 next to the G/L Line-item Report label. Other sections identify FBL3N for the G/L line-item report. Confirm the report code.
+9. **Profit Centre prerequisite:** SRC-02 Process 27 lists Internal Order under Configuration Needed for Profit Centre creation. Confirm whether this is a project-specific dependency or a source-document error.
+10. **Classic SAP GUI navigation:** The PDFs show classic SAP GUI procedures and transaction references. They do not establish that every screen or step was executed and verified in SAP S/4HANA Private Cloud 2025 or newer.
 
 ## 11. Evidence and Publication Rules
 
