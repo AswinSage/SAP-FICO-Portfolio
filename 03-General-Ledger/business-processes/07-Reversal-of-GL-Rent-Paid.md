@@ -50,6 +50,8 @@ The source implementation report separately describes document reversal fields i
 
 ## 7. Evidence
 
+**Source PDF screenshot pages:** 36 in [SAP FICO BUSINESS PROCESSES (1).pdf](../../../../SAP%20FICO%20BUSINESS%20PROCESSES%20(1).pdf). See the [Screenshot Page Index](../../../00-Project-Overview/Screenshot-Page-Index.md) for the process-wise page map.
+
 Suggested evidence: `07-Reversal-GL-Rent-Paid.png` and the related line-item report.
 
 ## 8. Implementation Notes
