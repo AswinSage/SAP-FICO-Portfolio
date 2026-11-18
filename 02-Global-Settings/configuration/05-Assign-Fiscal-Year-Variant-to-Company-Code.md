@@ -30,9 +30,9 @@ The assignment establishes the accounting calendar used by the company code. It 
 
 | Field | Project value |
 |---|---|
-| Company Code | To be recorded from SAP |
-| Fiscal Year Variant | To be recorded from SAP |
-| Assignment result | Pending verification |
+| Company Code | HM11 is defined in SRC-01, PDF page 4 |
+| Fiscal Year Variant | HM (Jan-Dec) is defined in SRC-01, PDF page 23 |
+| Assignment result | The PDF describes the assignment procedure but does not show a saved assignment result. Verify the company-code assignment in the target system. |
 
 ## 6. Validation
 
