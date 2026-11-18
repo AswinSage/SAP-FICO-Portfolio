@@ -21,13 +21,15 @@ The source describes the Chart of Depreciation as containing depreciation areas 
 9. Save.
 
 ## 5. Project Values
-| Field | Project value |
+| Field | Value visible in SRC-01 |
 |---|---|
-| Reference Chart of Depreciation | Record from SAP |
-| Target Chart of Depreciation | Record from SAP |
-| Description | Record from SAP |
-| Country | Record from SAP |
-| Depreciation Areas retained | Record from SAP |
+| Reference Chart of Depreciation | OIN |
+| Target Chart of Depreciation | HM11 |
+| Description | Chart of Depreciation - HM11 |
+| Country | Not clearly visible in the copied-chart screenshot |
+| Depreciation Areas retained | Verify the actual target chart after copy |
+
+The screenshot shows HM11 selected in the Chart of Depreciation list and a copy operation from reference chart OIN to target chart HM11. Source: implementation report, PDF page 85. Validate the complete copied structure and country settings in the target system.
 
 ## 6. Validation
 - [ ] Target chart exists.
