@@ -38,7 +38,7 @@ The source describes this control as restricting postings to a G/L account acros
 
 ## 7. Evidence
 
-**Source PDF screenshot pages:** 29 in *SAP FICO BUSINESS PROCESSES (1).pdf*. See the [Screenshot Page Index](../../00-Project-Overview/Screenshot-Page-Index.md).
+**Source PDF screenshot pages:** [PDF p.29](https://github.com/AswinSage/SAP-FICO-Portfolio/blob/main/source-documents/SAP%20FICO%20BUSINESS%20PROCESSES.pdf#page=29). See the [Screenshot Page Index](../../00-Project-Overview/Screenshot-Page-Index.md).
 
 ## 8. Source Note
 
