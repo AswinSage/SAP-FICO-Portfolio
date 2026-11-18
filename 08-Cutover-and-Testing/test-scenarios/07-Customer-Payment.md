@@ -9,7 +9,7 @@
 | Source procedure page | 144 |
 | Source screenshot page | 145 |
 | Scenario category | Accounts Receivable receipt and clearing |
-| Execution status | Executed – Completed (project completion confirmed by project owner) |
+| Execution status | Executed – Completed |
 
 ## Objective
 
