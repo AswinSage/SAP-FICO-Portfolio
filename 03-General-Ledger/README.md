@@ -23,7 +23,7 @@ See the [G/L Business Process Index](business-processes/README.md) for all eight
 8. G/L Line-item Report
 
 ## 4. Validation
-Configuration validation and transaction validation must be recorded separately. A saved configuration entry is not proof that a complete business transaction has been tested.
+The module documentation covers configuration, master data, business processes and related reporting.
 
 ## 5. Source Note
 Implementation project document, Phase 3 and Phase 8 G/L master data; Business Processes document, Processes 1–8.
