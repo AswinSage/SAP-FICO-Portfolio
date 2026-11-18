@@ -16,7 +16,7 @@ The source describes unblocking as the action taken when a previously restricted
 
 ## 4. Prerequisites
 
-- Configuration required: Nil, according to the source.
+- Configuration required: None.
 - Master data required: G/L Master — Loan Account.
 - Transaction code stated in source: `FS00`.
 
