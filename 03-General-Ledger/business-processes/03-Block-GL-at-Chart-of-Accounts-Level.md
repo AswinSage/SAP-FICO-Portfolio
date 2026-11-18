@@ -16,7 +16,7 @@ The source describes this control as restricting postings to a G/L account acros
 
 ## 4. Prerequisites
 
-- Configuration required: Nil, according to the source.
+- Configuration required: None.
 - Master data required: G/L Master — Loan Account.
 - Transaction code stated in source: `FS00`.
 
