@@ -71,7 +71,7 @@ Validate an external asset acquisition from a vendor, including capitalisation o
 ## Related Portfolio Scenarios
 
 - [Create Single Asset Master](../../06-Asset-Accounting/business-processes/20-Create-Single-Asset-Master.md)
-- [Asset Acquisition / External Acquisition](../../06-Asset-Accounting/business-processes/20-Create-Single-Asset-Master.md)
+- [Vendor Rent Invoice](../../04-Accounts-Payable/business-processes/11-Vendor-Invoice-Rent.md)
 - [Vendor Payment](../../04-Accounts-Payable/business-processes/12-Vendor-Payment.md)
 
 ## Source Note
