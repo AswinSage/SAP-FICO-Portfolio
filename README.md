@@ -31,7 +31,7 @@ A structured SAP FICO portfolio documenting implementation configuration, master
 
 ## Source PDF Reference
 
-See [Source Document Reference](00-Project-Overview/Source-Document-Reference.md) for the project values transcribed from the supplied PDFs, source page references, and document inconsistencies requiring verification.
+See [Source Document Reference](00-Project-Overview/Source-Document-Reference.md) for project configuration values and source PDF page references.
 
 ## Screenshot Page Index
 
@@ -71,11 +71,9 @@ I am interested in Financial Accounting, Management Accounting, SAP finance proc
 - Microsoft PowerPoint
 - Power BI
 
-## Important Documentation Note
+## Project Scope
 
-This repository organizes the procedures and process scenarios contained in the supplied project reports. Documentation creation does not by itself prove successful execution in a specific SAP release or environment. Project-specific values and completion claims must be supported by actual SAP evidence.
-
-The source reports document FI/CO scope. SD, MM, and TM are not represented as completed implementations in this repository.
+The portfolio covers the FI/CO activities documented in the project, including General Ledger, Accounts Payable, Accounts Receivable, Asset Accounting and Controlling.
 
 ## Connect
 
