@@ -49,10 +49,7 @@ Source: implementation report, PDF page 33. These are source-report values; vali
 
 Suggested screenshot: `04-Define-Retained-Earnings-Account.png`
 
-## 8. Implementation Notes
 
-The source procedure lists the Chart of Accounts and P&L Statement Account Type steps but does not provide a complete field-by-field procedure in the extracted text. Record the remaining fields from the actual SAP screen rather than filling gaps by assumption.
-
-## 9. Source Note
+## 8. Source Note
 
 Based on Phase 3, section 3.3, Retained Earnings Account, in the uploaded SAP FICO implementation project document.
