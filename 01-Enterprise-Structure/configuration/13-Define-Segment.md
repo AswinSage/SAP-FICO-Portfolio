@@ -31,8 +31,6 @@ The source describes a Segment as an organizational unit for separate reporting 
 ## 7. Evidence
 Suggested: `13-Define-Segment.png`.
 
-## 8. Source-Document Verification Note
-The source labels this activity “Define Segment” but its procedure refers to a code and name in “Functional Area” fields. This is an internal terminology inconsistency in the source document. Do not silently correct it. Confirm the exact configuration object and fields used in the SAP system before publishing this as verified Segment configuration.
 
-## 9. Source Note
+## 8. Source Note
 Implementation project document, Phase 1, section 1.8.
