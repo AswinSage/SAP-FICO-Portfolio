@@ -24,8 +24,8 @@ The companion process document contains 27 numbered processes:
 - 3 Asset Accounting processes
 - 5 Controlling processes
 
-## 4. Out of Scope / Not Evidenced
-The supplied reports do not establish completed implementation of Sales and Distribution (SD), Materials Management (MM), Transportation Management (TM), or Production Planning (PP). They may be relevant integration areas in a broader SAP landscape, but they are not presented as completed project modules in this portfolio.
+## 4. Other SAP Modules
+Sales and Distribution (SD), Materials Management (MM), Transportation Management (TM), and Production Planning (PP) are outside the documented FI/CO project scope.
 
 ## 5. Assumptions and Verification
 Project-specific identifiers, configuration values, transaction results, and environment details must be populated from actual SAP evidence. Source-document inconsistencies are flagged in the relevant files rather than silently corrected.
