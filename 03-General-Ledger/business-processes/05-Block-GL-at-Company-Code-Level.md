@@ -39,6 +39,8 @@ The source describes this control as restricting use of a G/L account within a s
 
 ## 7. Evidence
 
+**Source PDF screenshot pages:** 32 in [SAP FICO BUSINESS PROCESSES (1).pdf](../../../../SAP%20FICO%20BUSINESS%20PROCESSES%20(1).pdf). See the [Screenshot Page Index](../../../00-Project-Overview/Screenshot-Page-Index.md) for the process-wise page map.
+
 Suggested evidence: `05-Block-GL-Company-Code-Level.png`.
 
 ## 8. Implementation Notes
