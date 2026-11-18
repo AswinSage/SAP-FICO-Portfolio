@@ -32,7 +32,6 @@ The assignment determines which Chart of Accounts provides the G/L account defin
 |---|---|
 | Company Code | HM11 is defined in SRC-01, PDF page 4 |
 | Chart of Accounts | HM11 is defined in SRC-01, PDF page 29 |
-| Assignment result | The PDF describes the assignment procedure but does not show a saved assignment result. Verify the company-code assignment in the target system. |
 
 ## 6. Validation
 
