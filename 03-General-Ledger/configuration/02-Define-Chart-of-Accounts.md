@@ -32,13 +32,15 @@ A Chart of Accounts provides a common framework of G/L accounts used by one or m
 
 ## 5. Project Configuration Values
 
-| Field | Project value |
+| Field | Value visible in SRC-01 |
 |---|---|
-| Chart of Accounts | To be recorded from SAP |
-| Description | To be recorded from SAP |
-| Maintenance language | To be recorded from SAP |
-| G/L account number length | To be recorded from SAP |
-| Controlling integration | Record actual selection |
+| Chart of Accounts | HM11 |
+| Description | Chart of Accounts - HM11 |
+| Maintenance language | EN |
+| G/L account number length | 6 |
+| Controlling integration | Manual creation of cost elements |
+
+Source: implementation report, PDF page 29. Confirm the settings in the target system before using them as configuration inputs.
 
 ## 6. Validation
 
