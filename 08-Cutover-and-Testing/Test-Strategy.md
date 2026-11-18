@@ -72,6 +72,7 @@ Source screenshots are not automatically equivalent to target-system test eviden
 
 | Status | Meaning |
 |---|---|
+| Executed – Completed | The project test scenario has been completed and is recorded as executed in the project register |
 | Not Started | No execution record exists |
 | In Progress | Execution has begun but the scenario is incomplete |
 | Passed | Expected results are supported by current target-system evidence |
