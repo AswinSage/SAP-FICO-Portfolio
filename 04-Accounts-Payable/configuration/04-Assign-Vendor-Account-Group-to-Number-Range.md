@@ -7,8 +7,6 @@ Document the assignment linking a Vendor Account Group to its number range.
 The assignment determines which vendor number interval is available when vendor master records are created for the selected account group. The source notes that internal and external assignment may be supported.
 
 ## 3. Configuration Activity
-**Source navigation note:** The implementation document's navigation text points to Customer Accounts / Customer Master Data even though the section is Vendor Account Group assignment. Treat that path as an inconsistency requiring verification.
-
 ## 4. Procedure
 1. Open the vendor account group-to-number-range assignment activity confirmed in the project system.
 2. Select the required Vendor Account Group.
