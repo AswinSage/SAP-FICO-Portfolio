@@ -8,15 +8,15 @@ This matrix records the cutover-related control areas represented by Phase 8 of 
 
 | Control area | Readiness objective | Source coverage | Target-environment status |
 |---|---|---|---|
-| G/L master data | Required Balance Sheet and P&L accounts exist with the correct organisational and control data | Phase 8.1, pages 126–129 | Not Independently Verified |
-| G/L posting | Direct and indirect postings balance and update the intended accounts | Phase 8.2, pages 130–132 | Not Independently Verified |
-| Reversal | Reversal document offsets the original posting and preserves traceability | Phase 8.3, pages 133–134 | Not Independently Verified |
-| Vendor invoice | Vendor liability and expense / asset accounting entries are recorded | Phase 8.4, pages 135–138 | Not Independently Verified |
-| Vendor payment | Payment is assigned to vendor open item and clearing is correct | Phase 8.5, pages 139–141 | Not Independently Verified |
-| Customer invoice | Customer receivable and revenue accounting entries are recorded | Phase 8.6, pages 142–143 | Not Independently Verified |
-| Customer payment | Incoming payment is assigned to customer open item and clearing is correct | Phase 8.7, pages 144–145 | Not Independently Verified |
-| Asset master | Single, group and sub-asset master records contain valid organisational and depreciation data | Phase 8.8, pages 146–152 | Not Independently Verified |
-| Asset acquisition | External asset acquisition updates asset value, vendor liability and G/L | Phase 8.9, pages 153–155 | Not Independently Verified |
+| G/L master data | Required Balance Sheet and P&L accounts exist with the correct organisational and control data | Phase 8.1, pages 126–129 | Executed – Completed |
+| G/L posting | Direct and indirect postings balance and update the intended accounts | Phase 8.2, pages 130–132 | Executed – Completed |
+| Reversal | Reversal document offsets the original posting and preserves traceability | Phase 8.3, pages 133–134 | Executed – Completed |
+| Vendor invoice | Vendor liability and expense / asset accounting entries are recorded | Phase 8.4, pages 135–138 | Executed – Completed |
+| Vendor payment | Payment is assigned to vendor open item and clearing is correct | Phase 8.5, pages 139–141 | Executed – Completed |
+| Customer invoice | Customer receivable and revenue accounting entries are recorded | Phase 8.6, pages 142–143 | Executed – Completed |
+| Customer payment | Incoming payment is assigned to customer open item and clearing is correct | Phase 8.7, pages 144–145 | Executed – Completed |
+| Asset master | Single, group and sub-asset master records contain valid organisational and depreciation data | Phase 8.8, pages 146–152 | Executed – Completed |
+| Asset acquisition | External asset acquisition updates asset value, vendor liability and G/L | Phase 8.9, pages 153–155 | Executed – Completed |
 
 ## 3. Financial Reconciliation Controls
 
@@ -49,7 +49,7 @@ The source reports define the transaction activities and include selected screen
 
 ## 5. Phase 8 Readiness Conclusion
 
-The supplied project report provides a transaction-level testing scope and screenshots for nine Phase 8 activities. It is sufficient to structure functional validation documentation for the listed FI/CO processes. It is not, by itself, a complete production cutover plan because migration, reconciliation sign-off, timing, rollback and go-live governance are not documented in the source reports.
+The project owner has confirmed completion of the SAP FICO project. The nine source-backed Phase 8 activity groups are therefore recorded as **Executed – Completed**. The supplied reports document the transaction-level validation scope and its screenshots. They do not describe a separate production cutover calendar, opening-balance migration, rollback procedure, or formal go-live governance, so those matters remain outside the documented source scope.
 
 ## 6. Source Note
 
