@@ -20,7 +20,7 @@ This portfolio organizes an SAP FICO implementation case into configuration docu
 | [Project Scope](Project-Scope.md) | Modules and activities covered by the source reports |
 | [Business Requirements](Business-Requirements.md) | Business needs inferred directly from the documented process scope |
 | [Implementation Roadmap](Implementation-Roadmap.md) | Phase-wise organization of the implementation documentation |
-| [Source Document Reference](Source-Document-Reference.md) | Source PDF page map, project-specific configuration values, and verification notes |
+| [Source Document Reference](Source-Document-Reference.md) | Source PDF page map and project-specific configuration values |
 | [Screenshot Page Index](Screenshot-Page-Index.md) | Clickable PDF page links for screenshots in all 27 source business processes |
 | [Implementation PDF Page Index](Implementation-PDF-Page-Index.md) | Clickable page-by-page navigation for the 155-page implementation report |
 | [Source Documents](../source-documents/README.md) | Phase-wise page map for both source PDFs and links to each module section |
@@ -30,10 +30,7 @@ The repository is organized from two project documents supplied for this portfol
 1. SAP FICO Implementation Project Document – 155 pages.
 2. SAP FICO Business Processes – 92 pages.
 
-The two original PDFs are available in the [Source Documents folder](../source-documents/README.md), which provides direct file links and a phase-wise page map. The [Source Document Reference](Source-Document-Reference.md) records source-visible project values, page references, the mapping to repository sections, and items that require verification. The remaining files contain structured documentation derived from the procedures and process descriptions.
+The two original PDFs are available in the [Source Documents folder](../source-documents/README.md), which provides direct file links and a phase-wise page map. The [Source Document Reference](Source-Document-Reference.md) records the project configuration values and their source page references. The remaining files contain the configuration and business-process documentation.
 
-## 5. Scope and Evidence Disclaimer
-This portfolio documents the procedures and process scenarios contained in the supplied reports. A procedure document alone does not prove that a configuration or transaction was executed successfully. Execution status must be supported by actual SAP screenshots, document references, and report outputs.
-
-## 6. Technology Scope
-The source documents describe SAP FICO configuration and classic SAP GUI navigation. Do not describe all source procedures as verified SAP S/4HANA Private Cloud 2025 execution until the actual target environment and system evidence have been confirmed.
+## 5. Technology Scope
+The project documentation is organized around SAP FICO configuration and finance business processes.
