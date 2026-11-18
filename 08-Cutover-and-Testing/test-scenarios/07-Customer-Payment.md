@@ -15,6 +15,11 @@
 
 Validate receipt of a customer payment against an outstanding customer invoice, including bank/cash posting, open-item assignment, and clearing.
 
+## Direct PDF Page Links
+
+- **Procedure:** [PDF p.144](https://github.com/AswinSage/SAP-FICO-Portfolio/blob/main/source-documents/SAP%20FICO%20IMPLEMENTATION%20PROJECT%20DOCUMENT%201.pdf#page=144)
+- **Screenshots:** [PDF p.145](https://github.com/AswinSage/SAP-FICO-Portfolio/blob/main/source-documents/SAP%20FICO%20IMPLEMENTATION%20PROJECT%20DOCUMENT%201.pdf#page=145)
+
 ## Source Procedure
 
 1. Enter the Company Code, Document Date, Posting Date, and Currency.
