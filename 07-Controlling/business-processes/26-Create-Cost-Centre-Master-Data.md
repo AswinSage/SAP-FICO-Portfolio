@@ -36,6 +36,8 @@ Report stated in source: Cost Centre Actual Line Items (`KSB1`).
 - [ ] Cost Centre can be used in relevant postings.
 
 ## 7. Evidence
+
+**Source PDF screenshot pages:** 89-90 in *SAP FICO BUSINESS PROCESSES (1).pdf*. See the [Screenshot Page Index](../../00-Project-Overview/Screenshot-Page-Index.md).
 Suggested: `26-Create-Cost-Centre-Production.png`, `26-Create-Cost-Centre-HR.png`, `26-Create-Cost-Centre-Marketing.png`.
 
 ## 8. Implementation Notes
