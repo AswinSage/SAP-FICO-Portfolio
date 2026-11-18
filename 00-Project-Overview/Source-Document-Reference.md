@@ -21,17 +21,17 @@ The implementation report identifies the case as **Hindustan Motors Ltd**.
 
 | Field | Value visible in source | Source location |
 |---|---|---|
-| Company ID | HM11 | SRC-01, PDF page 2 |
-| Company name | Hindustan Motors Ltd | SRC-01, PDF pages 2 and 4 |
-| Company Code | HM11 | SRC-01, PDF page 4 |
-| City | Chennai | SRC-01, PDF pages 2 and 4 |
-| Street / House number | Ferry Street / 122 | SRC-01, PDF page 4 |
-| Postal Code | 600122 | SRC-01, PDF page 4 |
-| PO Box | 600122 | SRC-01, PDF page 4 |
-| Country | IN | SRC-01, PDF page 4 |
-| Region | 22 | SRC-01, PDF page 4 |
-| Language | EN | SRC-01, PDF pages 2 and 4 |
-| Local currency | INR | SRC-01, PDF pages 2 and 4 |
+| Company ID | HM11 | [SRC-01 PDF p.2](../source-documents/SAP%20FICO%20IMPLEMENTATION%20PROJECT%20DOCUMENT%201.pdf#page=2) |
+| Company name | Hindustan Motors Ltd | [SRC-01 p.2](../source-documents/SAP%20FICO%20IMPLEMENTATION%20PROJECT%20DOCUMENT%201.pdf#page=2) and [p.4](../source-documents/SAP%20FICO%20IMPLEMENTATION%20PROJECT%20DOCUMENT%201.pdf#page=4) |
+| Company Code | HM11 | [SRC-01 PDF p.4](../source-documents/SAP%20FICO%20IMPLEMENTATION%20PROJECT%20DOCUMENT%201.pdf#page=4) |
+| City | Chennai | [SRC-01 p.2](../source-documents/SAP%20FICO%20IMPLEMENTATION%20PROJECT%20DOCUMENT%201.pdf#page=2) and [p.4](../source-documents/SAP%20FICO%20IMPLEMENTATION%20PROJECT%20DOCUMENT%201.pdf#page=4) |
+| Street / House number | Ferry Street / 122 | [SRC-01 PDF p.4](../source-documents/SAP%20FICO%20IMPLEMENTATION%20PROJECT%20DOCUMENT%201.pdf#page=4) |
+| Postal Code | 600122 | [SRC-01 PDF p.4](../source-documents/SAP%20FICO%20IMPLEMENTATION%20PROJECT%20DOCUMENT%201.pdf#page=4) |
+| PO Box | 600122 | [SRC-01 PDF p.4](../source-documents/SAP%20FICO%20IMPLEMENTATION%20PROJECT%20DOCUMENT%201.pdf#page=4) |
+| Country | IN | [SRC-01 PDF p.4](../source-documents/SAP%20FICO%20IMPLEMENTATION%20PROJECT%20DOCUMENT%201.pdf#page=4) |
+| Region | 22 | [SRC-01 PDF p.4](../source-documents/SAP%20FICO%20IMPLEMENTATION%20PROJECT%20DOCUMENT%201.pdf#page=4) |
+| Language | EN | [SRC-01 p.2](../source-documents/SAP%20FICO%20IMPLEMENTATION%20PROJECT%20DOCUMENT%201.pdf#page=2) and [p.4](../source-documents/SAP%20FICO%20IMPLEMENTATION%20PROJECT%20DOCUMENT%201.pdf#page=4) |
+| Local currency | INR | [SRC-01 p.2](../source-documents/SAP%20FICO%20IMPLEMENTATION%20PROJECT%20DOCUMENT%201.pdf#page=2) and [p.4](../source-documents/SAP%20FICO%20IMPLEMENTATION%20PROJECT%20DOCUMENT%201.pdf#page=4) |
 
 ### Credit Control Area
 
@@ -43,19 +43,19 @@ The implementation report identifies the case as **Hindustan Motors Ltd**.
 | Fiscal Year Variant field | H1 |
 | Credit Limit | 1,500,000,000 |
 
-Source: SRC-01, PDF page 7. The Update setting is not transcribed here because the screenshot does not provide a sufficiently clear value.
+Source: [SRC-01 PDF p.7](../source-documents/SAP%20FICO%20IMPLEMENTATION%20PROJECT%20DOCUMENT%201.pdf#page=7). The Update setting is not transcribed here because the screenshot does not provide a sufficiently clear value.
 
 ## 4. Global Settings Snapshot
 
 | Configuration item | Value visible in source | Source location |
 |---|---|---|
-| Field Status Variant | HM11 | SRC-01, PDF page 20 |
-| Field Status Variant description | Field Status Variant-HM11 | SRC-01, PDF page 20 |
-| Fiscal Year Variant | HM | SRC-01, PDF page 23 |
-| Fiscal Year description | Jan-Dec | SRC-01, PDF page 23 |
-| Calendar year indicator | Selected | SRC-01, PDF page 23 |
-| Posting periods | 12 | SRC-01, PDF page 23 |
-| Special periods | 4 | SRC-01, PDF page 23 |
+| Field Status Variant | HM11 | [SRC-01 PDF p.20](../source-documents/SAP%20FICO%20IMPLEMENTATION%20PROJECT%20DOCUMENT%201.pdf#page=20) |
+| Field Status Variant description | Field Status Variant-HM11 | [SRC-01 PDF p.20](../source-documents/SAP%20FICO%20IMPLEMENTATION%20PROJECT%20DOCUMENT%201.pdf#page=20) |
+| Fiscal Year Variant | HM | [SRC-01 PDF p.23](../source-documents/SAP%20FICO%20IMPLEMENTATION%20PROJECT%20DOCUMENT%201.pdf#page=23) |
+| Fiscal Year description | Jan-Dec | [SRC-01 PDF p.23](../source-documents/SAP%20FICO%20IMPLEMENTATION%20PROJECT%20DOCUMENT%201.pdf#page=23) |
+| Calendar year indicator | Selected | [SRC-01 PDF p.23](../source-documents/SAP%20FICO%20IMPLEMENTATION%20PROJECT%20DOCUMENT%201.pdf#page=23) |
+| Posting periods | 12 | [SRC-01 PDF p.23](../source-documents/SAP%20FICO%20IMPLEMENTATION%20PROJECT%20DOCUMENT%201.pdf#page=23) |
+| Special periods | 4 | [SRC-01 PDF p.23](../source-documents/SAP%20FICO%20IMPLEMENTATION%20PROJECT%20DOCUMENT%201.pdf#page=23) |
 
 The source screenshot shows multiple fiscal-year variants. The values above refer specifically to the row labelled HM.
 
@@ -71,7 +71,7 @@ The source screenshot shows multiple fiscal-year variants. The values above refe
 | G/L account number length | 6 |
 | Controlling integration | Manual creation of cost elements |
 
-Source: SRC-01, PDF page 29.
+Source: [SRC-01 PDF p.29](../source-documents/SAP%20FICO%20IMPLEMENTATION%20PROJECT%20DOCUMENT%201.pdf#page=29).
 
 ### Retained Earnings Assignment
 
@@ -81,7 +81,7 @@ Source: SRC-01, PDF page 29.
 | P&L statement account type | BIL |
 | Retained Earnings Account | 1000 |
 
-Source: SRC-01, PDF page 33.
+Source: [SRC-01 PDF p.33](../source-documents/SAP%20FICO%20IMPLEMENTATION%20PROJECT%20DOCUMENT%201.pdf#page=33).
 
 ### Sample G/L Master Records
 
@@ -89,10 +89,10 @@ The following records are examples displayed in the source screenshots. The acco
 
 | G/L account | Company Code | Short / long description | Account Group | Account type | Source location |
 |---:|---|---|---|---|---|
-| 1 | HM11 | Machine | AST ASSET | Balance Sheet | SRC-01, PDF page 35 |
-| 2 | HM11 | Cash Account | AST ASSET | Balance Sheet | SRC-01, PDF page 37 |
-| 1001 | HM11 | Loan / Loan Account | LIAB LIABILITY | Balance Sheet | SRC-01, PDF page 39 |
-| 2001 | HM11 | Rent Account | EXP EXPENSES | P&L Statement | SRC-01, PDF page 41 |
+| 1 | HM11 | Machine | AST ASSET | Balance Sheet | [SRC-01 PDF p.35](../source-documents/SAP%20FICO%20IMPLEMENTATION%20PROJECT%20DOCUMENT%201.pdf#page=35) |
+| 2 | HM11 | Cash Account | AST ASSET | Balance Sheet | [SRC-01 PDF p.37](../source-documents/SAP%20FICO%20IMPLEMENTATION%20PROJECT%20DOCUMENT%201.pdf#page=37) |
+| 1001 | HM11 | Loan / Loan Account | LIAB LIABILITY | Balance Sheet | [SRC-01 PDF p.39](../source-documents/SAP%20FICO%20IMPLEMENTATION%20PROJECT%20DOCUMENT%201.pdf#page=39) |
+| 2001 | HM11 | Rent Account | EXP EXPENSES | P&L Statement | [SRC-01 PDF p.41](../source-documents/SAP%20FICO%20IMPLEMENTATION%20PROJECT%20DOCUMENT%201.pdf#page=41) |
 
 The screenshots also show INR as account currency and line-item display selected for these examples. The visible sort key is 001. The Machine, Cash Account, and Loan screenshots show the corresponding company-code currency / local-currency settings; verify individual account tabs before copying any additional values.
 
@@ -125,7 +125,7 @@ A domestic customer reconciliation G/L example is visible as follows:
 | Line-item display | Selected |
 | Sort key | 001 |
 
-Source: SRC-01, PDF page 72.
+Source: [SRC-01 PDF p.72](../source-documents/SAP%20FICO%20IMPLEMENTATION%20PROJECT%20DOCUMENT%201.pdf#page=72).
 
 ## 7. Asset Accounting Snapshot
 
@@ -137,7 +137,7 @@ Source: SRC-01, PDF page 72.
 | Target Chart of Depreciation | HM11 |
 | Description | Chart of Depreciation - HM11 |
 
-The screenshot shows HM11 selected in the Chart of Depreciation list and a copy operation from reference chart OIN to target chart HM11. Source: SRC-01, PDF page 85. The screenshot does not provide a clear country value or a complete list of retained depreciation areas; verify these in the target system.
+The screenshot shows HM11 selected in the Chart of Depreciation list and a copy operation from reference chart OIN to target chart HM11. Source: [SRC-01 PDF p.85](../source-documents/SAP%20FICO%20IMPLEMENTATION%20PROJECT%20DOCUMENT%201.pdf#page=85). The screenshot does not provide a clear country value or a complete list of retained depreciation areas; verify these in the target system.
 
 ### Depreciation Area
 
@@ -152,7 +152,7 @@ The screenshot shows HM11 selected in the Chart of Depreciation list and a copy 
 | Alternative Depreciation Area | Not entered / not visible |
 | Cross-system Depreciation Area | Not entered / not visible |
 
-The same screenshot shows **All Values Allowed** for Acquisition Value, Net Book Value, Investment Grants, Revaluation, Ordinary Depreciation, Special Depreciation, Unplanned Depreciation, Transfer of Reserves, Interest, and Revaluation Ordinary Depreciation. Source: SRC-01, PDF page 87. These are source-visible values, not confirmation of the current target system's configuration.
+The same screenshot shows **All Values Allowed** for Acquisition Value, Net Book Value, Investment Grants, Revaluation, Ordinary Depreciation, Special Depreciation, Unplanned Depreciation, Transfer of Reserves, Interest, and Revaluation Ordinary Depreciation. Source: [SRC-01 PDF p.87](../source-documents/SAP%20FICO%20IMPLEMENTATION%20PROJECT%20DOCUMENT%201.pdf#page=87). These are source-visible values, not confirmation of the current target system's configuration.
 
 ### Depreciation Key
 
@@ -170,7 +170,7 @@ The same screenshot shows **All Values Allowed** for Acquisition Value, Net Book
 | Class | 0 - No assignment |
 | Acquisition allowed in capitalization year | No |
 
-The screenshot also shows Multiple Shift as "Increase in depreciation and expired useful life", Scrap Value as "0 - Consideration is controlled by custom value key", and Shutdown as "No". Source: SRC-01, PDF page 94. Since the status is shown as Inactive, verify the intended active status before using the key.
+The screenshot also shows Multiple Shift as "Increase in depreciation and expired useful life", Scrap Value as "0 - Consideration is controlled by custom value key", and Shutdown as "No". Source: [SRC-01 PDF p.94](../source-documents/SAP%20FICO%20IMPLEMENTATION%20PROJECT%20DOCUMENT%201.pdf#page=94). Since the status is shown as Inactive, verify the intended active status before using the key.
 
 ### Account Determination Examples
 
@@ -182,7 +182,7 @@ The screenshot shows Chart of Depreciation HM11 and Chart of Accounts HM11. The 
 | HM12 | Building |
 | HM13 | Vehicle |
 
-Source: SRC-01, PDF page 99. The screenshot contains additional entries, but only these first three are included here as clearly legible examples.
+Source: [SRC-01 PDF p.99](../source-documents/SAP%20FICO%20IMPLEMENTATION%20PROJECT%20DOCUMENT%201.pdf#page=99). The screenshot contains additional entries, but only these first three are included here as clearly legible examples.
 
 ### Asset Master Example
 
@@ -201,7 +201,7 @@ The implementation report shows a Printout Machine master record:
 | Time-dependent validity | 01.01.1900 to 31.12.9999 |
 | Cost Centre | No value visible |
 
-Source: SRC-01, PDF page 107. The second PDF has a separate Xerox Machine process example; it should not be confused with this Printout Machine master record.
+Source: [SRC-01 PDF p.107](../source-documents/SAP%20FICO%20IMPLEMENTATION%20PROJECT%20DOCUMENT%201.pdf#page=107). The second PDF has a separate Xerox Machine process example; it should not be confused with this Printout Machine master record.
 
 ## 8. Controlling Snapshot
 
@@ -222,16 +222,16 @@ Source: SRC-01, PDF page 107. The second PDF has a separate Xerox Machine proces
 | Profit Center Accounting | Selected |
 | Other indicator | All Currencies selected |
 
-Source: SRC-01, PDF page 112.
+Source: [SRC-01 PDF p.112](../source-documents/SAP%20FICO%20IMPLEMENTATION%20PROJECT%20DOCUMENT%201.pdf#page=112).
 
 ### Profit Centre and Cost Centre examples
 
 | Object | ID | Description | Other visible details | Source location |
 |---|---|---|---|---|
-| Profit Centre | HM11 | Production | Controlling Area HM11; responsible person label Production Manager; company code HM11 assigned; validity begins 01.01.2026; Profit Centre Group field shows HM11-1 | SRC-01, PDF page 114 |
-| Profit Centre | HM12 | Marketing | Named as the Marketing Profit Centre example | SRC-01, PDF page 115 |
-| Cost Centre | HM11-1 | Production | Controlling Area HM11; validity 01.04.2026 to 31.12.9999; category 1 (Production); hierarchy area HM11-1; Business Area HM21; currency INR; Profit Centre HM11 | SRC-01, PDF page 117 |
-| Cost Centre | HM11-2 | Marketing | Controlling Area HM11; validity 01.04.2026 to 31.12.9999; category P (Marketing); hierarchy area HM11-1; Business Area HM21; currency INR; Profit Centre HM12 | SRC-01, PDF page 118 |
+| Profit Centre | HM11 | Production | Controlling Area HM11; responsible person label Production Manager; company code HM11 assigned; validity begins 01.01.2026; Profit Centre Group field shows HM11-1 | [SRC-01 PDF p.114](../source-documents/SAP%20FICO%20IMPLEMENTATION%20PROJECT%20DOCUMENT%201.pdf#page=114) |
+| Profit Centre | HM12 | Marketing | Named as the Marketing Profit Centre example | [SRC-01 PDF p.115](../source-documents/SAP%20FICO%20IMPLEMENTATION%20PROJECT%20DOCUMENT%201.pdf#page=115) |
+| Cost Centre | HM11-1 | Production | Controlling Area HM11; validity 01.04.2026 to 31.12.9999; category 1 (Production); hierarchy area HM11-1; Business Area HM21; currency INR; Profit Centre HM11 | [SRC-01 PDF p.117](../source-documents/SAP%20FICO%20IMPLEMENTATION%20PROJECT%20DOCUMENT%201.pdf#page=117) |
+| Cost Centre | HM11-2 | Marketing | Controlling Area HM11; validity 01.04.2026 to 31.12.9999; category P (Marketing); hierarchy area HM11-1; Business Area HM21; currency INR; Profit Centre HM12 | [SRC-01 PDF p.118](../source-documents/SAP%20FICO%20IMPLEMENTATION%20PROJECT%20DOCUMENT%201.pdf#page=118) |
 
 The Cost Centre screenshots show Functional Area HM11 with the description Manufacturing for both examples. Preserve this source value as shown, but validate the intended functional-area assignment before implementation.
 
@@ -241,14 +241,14 @@ The Cost Centre screenshots show Functional Area HM11 with the description Manuf
 
 | Source phase | PDF pages | Repository section |
 |---|---:|---|
-| Phase 1 - Enterprise Structure | 1-18 | [01-Enterprise-Structure](../01-Enterprise-Structure/README.md) |
-| Phase 2 - Global Settings | 19-28 | [02-Global-Settings](../02-Global-Settings/README.md) |
-| Phase 3 - General Ledger | 29-46 | [03-General-Ledger](../03-General-Ledger/README.md) |
-| Phase 4 - Accounts Payable | 47-62 | [04-Accounts-Payable](../04-Accounts-Payable/README.md) |
-| Phase 5 - Accounts Receivable | 63-83 | [05-Accounts-Receivable](../05-Accounts-Receivable/README.md) |
-| Phase 6 - Asset Accounting | 84-110 | [06-Asset-Accounting](../06-Asset-Accounting/README.md) |
-| Phase 7 - Controlling | 111-125 | [07-Controlling](../07-Controlling/README.md) |
-| Phase 8 - Cutover Activities / Testing | 126-155 | [08-Cutover-and-Testing](../08-Cutover-and-Testing/README.md) |
+| Phase 1 - Enterprise Structure | [1–18](../source-documents/SAP%20FICO%20IMPLEMENTATION%20PROJECT%20DOCUMENT%201.pdf#page=1) | [01-Enterprise-Structure](../01-Enterprise-Structure/README.md) |
+| Phase 2 - Global Settings | [19–28](../source-documents/SAP%20FICO%20IMPLEMENTATION%20PROJECT%20DOCUMENT%201.pdf#page=19) | [02-Global-Settings](../02-Global-Settings/README.md) |
+| Phase 3 - General Ledger | [29–46](../source-documents/SAP%20FICO%20IMPLEMENTATION%20PROJECT%20DOCUMENT%201.pdf#page=29) | [03-General-Ledger](../03-General-Ledger/README.md) |
+| Phase 4 - Accounts Payable | [47–62](../source-documents/SAP%20FICO%20IMPLEMENTATION%20PROJECT%20DOCUMENT%201.pdf#page=47) | [04-Accounts-Payable](../04-Accounts-Payable/README.md) |
+| Phase 5 - Accounts Receivable | [63–83](../source-documents/SAP%20FICO%20IMPLEMENTATION%20PROJECT%20DOCUMENT%201.pdf#page=63) | [05-Accounts-Receivable](../05-Accounts-Receivable/README.md) |
+| Phase 6 - Asset Accounting | [84–110](../source-documents/SAP%20FICO%20IMPLEMENTATION%20PROJECT%20DOCUMENT%201.pdf#page=84) | [06-Asset-Accounting](../06-Asset-Accounting/README.md) |
+| Phase 7 - Controlling | [111–125](../source-documents/SAP%20FICO%20IMPLEMENTATION%20PROJECT%20DOCUMENT%201.pdf#page=111) | [07-Controlling](../07-Controlling/README.md) |
+| Phase 8 - Cutover Activities / Testing | [126–155](../source-documents/SAP%20FICO%20IMPLEMENTATION%20PROJECT%20DOCUMENT%201.pdf#page=126) | [08-Cutover-and-Testing](../08-Cutover-and-Testing/README.md) |
 
 ### SRC-02: Business process report
 
