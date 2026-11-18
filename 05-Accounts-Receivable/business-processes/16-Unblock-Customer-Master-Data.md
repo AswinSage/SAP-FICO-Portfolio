@@ -16,7 +16,7 @@ The source describes unblocking as the action taken when a customer becomes elig
 
 ## 4. Prerequisites
 
-- Configuration required: Nil, according to the source.
+- Configuration required: None.
 - Master data required: Customer Master Data (`XD01`).
 
 ## 5. Procedure Outline
