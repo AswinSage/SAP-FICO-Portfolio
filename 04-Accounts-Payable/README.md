@@ -27,3 +27,9 @@ Validate vendor master data, invoice posting, payment/clearing status, reconcili
 
 ## 6. Source Note
 Implementation project document, Phase 4; Business Processes document, Processes 9–13.
+
+## Source PDF References
+
+- **SRC-01 – Implementation Project Document:** Phase 4, Accounts Payable configuration, pages 47–62; Phase 8 vendor invoice and payment testing, pages 135–141.
+- **SRC-02 – Business Processes:** Processes 9–13, pages 39–53.
+- Central index: [Source Documents](../source-documents/README.md).
