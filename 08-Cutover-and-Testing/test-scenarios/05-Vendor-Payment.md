@@ -9,7 +9,7 @@
 | Source procedure page | 139 |
 | Source screenshot pages | 140–141 |
 | Scenario category | Accounts Payable payment and clearing |
-| Execution status | Executed – Completed (project completion confirmed by project owner) |
+| Execution status | Executed – Completed |
 
 ## Objective
 
