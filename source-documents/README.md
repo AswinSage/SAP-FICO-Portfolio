@@ -36,7 +36,7 @@ This project is based on two source PDFs supplied for the SAP FICO implementatio
 
 ## Screenshot and Configuration References
 
-The [Screenshot Page Index](../00-Project-Overview/Screenshot-Page-Index.md) lists page references for all 27 business processes in SRC-02.
+The [Screenshot Page Index](../00-Project-Overview/Screenshot-Page-Index.md) provides clickable PDF page links for the screenshot pages of all 27 business processes in SRC-02.
 
 The [Source Document Reference](../00-Project-Overview/Source-Document-Reference.md) records source-visible project configuration values, sample master-data values, phase page mapping, and discrepancies that require interpretation.
 
