@@ -30,12 +30,13 @@ The Retained Earnings Account is used to carry forward the balances of profit an
 
 ## 5. Project Configuration Values
 
-| Field | Project value |
+| Field | Value visible in SRC-01 |
 |---|---|
-| Chart of Accounts | To be recorded from SAP |
-| P&L Statement Account Type | To be recorded from SAP |
-| Retained Earnings G/L Account | Record the actual configured account, if displayed |
-| Configuration result | Pending verification |
+| Chart of Accounts | HM11 |
+| P&L Statement Account Type | BIL |
+| Retained Earnings G/L Account | 1000 |
+
+Source: implementation report, PDF page 33. These are source-report values; validate the account assignment in the target SAP system.
 
 ## 6. Validation
 
