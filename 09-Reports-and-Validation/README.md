@@ -22,10 +22,7 @@ This section consolidates the reports referenced across the SAP FICO implementat
 ## 3. Validation Standard
 For each report, record the transaction or app actually used, selection parameters, company code or controlling context, date range, expected source documents, actual result, and evidence.
 
-## 4. Source-Document Inconsistencies
-The Business Processes document labels the G/L Line-item Report as `FBL3N` in multiple places but includes `FS00` in the Process 19 report list next to a G/L Line-item Report label. Verify this against the project system before publishing the Process 19 report code as final.
-
-## 5. Source Note
+## 4. Source Note
 Compiled from the report references in the SAP FICO Business Processes document, Processes 1–27, and the implementation project document.
 
 ## Source PDF References
