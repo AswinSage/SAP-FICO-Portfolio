@@ -49,6 +49,8 @@ The source includes examples for Cash, Sundry Debtors, Furniture, Plant & Machin
 
 ## 7. Evidence
 
+**Source PDF screenshot pages:** 2-25 in [SAP FICO BUSINESS PROCESSES (1).pdf](../../../../SAP%20FICO%20BUSINESS%20PROCESSES%20(1).pdf). See the [Screenshot Page Index](../../../00-Project-Overview/Screenshot-Page-Index.md) for the process-wise page map.
+
 Suggested evidence: `01-Create-GL-Master-Data.png` and redacted account display screenshots.
 
 ## 8. Implementation Notes
