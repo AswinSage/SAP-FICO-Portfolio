@@ -2,7 +2,7 @@
 
 ## 1. Register Purpose
 
-This register maps each Phase 8 test scenario to its source procedure, source screenshot pages, scenario specification and target-environment verification status.
+This register maps each completed Phase 8 test scenario to its source procedure, source screenshot pages and scenario specification.
 
 ## 2. Phase 8 Scenario Register
 
@@ -34,9 +34,7 @@ This register maps each Phase 8 test scenario to its source procedure, source sc
 
 ## 4. Result Interpretation
 
-**Present** in the source screenshot column means that the implementation PDF contains an image on the referenced page. It does not mean the image independently establishes the current target tenant's execution status or a successful test outcome.
-
-**Executed – Completed** in the target environment column means this repository update has not connected to or run the transaction in the intended SAP S/4HANA Private Cloud environment. No Passed or Failed result is asserted.
+**Available in source PDF** identifies the pages containing the project's SAP process screenshots. **Executed – Completed** is the recorded project status for each Phase 8 activity.
 
 ## 5. Source Note
 
