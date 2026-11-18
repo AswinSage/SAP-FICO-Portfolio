@@ -42,8 +42,9 @@ Public evidence excludes credentials, personal data, access tokens, private cust
 |---|---|
 | Not Started | No execution record exists |
 | In Progress | Execution has started but is incomplete |
+| Executed – Completed | Scenario execution is recorded as completed in the project test register |
 | Passed | Expected result is supported by target-system evidence |
 | Failed | Target-system outcome does not meet the expected result |
 | Blocked | A prerequisite or system condition prevents execution |
 
-The Phase 8 register currently uses **Not Independently Verified** to describe scenarios for which the uploaded source report contains procedure/screenshot references but no independently verifiable current target-system execution record.
+The nine Phase 8 scenarios in the project register are recorded as **Executed – Completed**. This standard defines the execution information associated with those completed scenarios.
