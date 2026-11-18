@@ -29,6 +29,6 @@ Implementation project document, Phase 6; Business Processes document, Processes
 
 ## Source PDF References
 
-- **SRC-01 – Implementation Project Document:** Phase 6, Asset Accounting configuration, pages 84–110; Phase 8 asset master and acquisition testing, pages 146–155.
-- **SRC-02 – Business Processes:** Processes 20–22, pages 70–80.
+- **[SRC-01 – Implementation Project Document](../source-documents/SAP%20FICO%20IMPLEMENTATION%20PROJECT%20DOCUMENT%201.pdf):** Phase 6, Asset Accounting configuration, pages 84–110; Phase 8 asset master and acquisition testing, pages 146–155.
+- **[SRC-02 – Business Processes](../source-documents/SAP%20FICO%20BUSINESS%20PROCESSES.pdf):** Processes 20–22, pages 70–80.
 - Central index: [Source Documents](../source-documents/README.md).
