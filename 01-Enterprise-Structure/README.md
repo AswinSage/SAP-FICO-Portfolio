@@ -53,3 +53,8 @@ The source document's Segment procedure refers to Functional Area fields. This i
 
 ## 7. Source Note
 Implementation project document, Phase 1, sections 1.1–1.8.
+
+## Source PDF References
+
+- **SRC-01 – Implementation Project Document:** Phase 1, Enterprise Structure, pages 1–18.
+- Central index: [Source Documents](../source-documents/README.md).
