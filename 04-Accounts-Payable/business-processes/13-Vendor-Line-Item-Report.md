@@ -16,7 +16,7 @@ The source describes the Vendor Line-item Report as displaying invoices, payment
 
 ## 4. Prerequisites
 
-- Configuration required: Nil, according to the source.
+- Configuration required: None.
 - Master data required: Vendor Master (`XK01`).
 - Report stated in source: `FBL1N`.
 
