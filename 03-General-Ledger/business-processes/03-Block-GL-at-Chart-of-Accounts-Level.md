@@ -38,6 +38,8 @@ The source describes this control as restricting postings to a G/L account acros
 
 ## 7. Evidence
 
+**Source PDF screenshot pages:** 29 in [SAP FICO BUSINESS PROCESSES (1).pdf](../../../../SAP%20FICO%20BUSINESS%20PROCESSES%20(1).pdf). See the [Screenshot Page Index](../../../00-Project-Overview/Screenshot-Page-Index.md) for the process-wise page map.
+
 Suggested evidence: `03-Block-GL-Chart-of-Accounts-Level.png`.
 
 ## 8. Implementation Notes
