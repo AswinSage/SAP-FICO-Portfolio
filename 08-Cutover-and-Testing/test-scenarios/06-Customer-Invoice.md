@@ -15,6 +15,11 @@
 
 Validate customer invoice posting for goods or services, including customer receivable recognition, revenue posting, optional tax, and the customer / General Ledger integration.
 
+## Direct PDF Page Links
+
+- **Procedure:** [PDF p.142](https://github.com/AswinSage/SAP-FICO-Portfolio/blob/main/source-documents/SAP%20FICO%20IMPLEMENTATION%20PROJECT%20DOCUMENT%201.pdf#page=142)
+- **Screenshots:** [PDF p.143](https://github.com/AswinSage/SAP-FICO-Portfolio/blob/main/source-documents/SAP%20FICO%20IMPLEMENTATION%20PROJECT%20DOCUMENT%201.pdf#page=143)
+
 ## Source Procedure
 
 1. Enter the Company Code and Customer Account.
