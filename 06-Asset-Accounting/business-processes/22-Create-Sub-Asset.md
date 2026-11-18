@@ -34,6 +34,8 @@ Reports stated in source: `AW01N`, `AR01`, `S_ALR_87011964`, `S_ALR_87011990`.
 - [ ] Asset reports display the records.
 
 ## 7. Evidence
+
+**Source PDF screenshot pages:** 77-80 in *SAP FICO BUSINESS PROCESSES (1).pdf*. See the [Screenshot Page Index](../../00-Project-Overview/Screenshot-Page-Index.md).
 Suggested: `22-Create-Sub-Asset-Keyboard.png`, `22-Create-Sub-Asset-Mouse.png`.
 
 ## 8. Implementation Notes
