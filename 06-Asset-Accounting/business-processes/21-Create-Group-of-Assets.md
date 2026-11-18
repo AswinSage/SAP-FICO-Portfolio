@@ -33,7 +33,7 @@ Reports stated in source: Asset Explorer (`AW01N`), Asset List (`AR01`), Asset B
 
 ## 7. Evidence
 
-**Source PDF screenshot pages:** 74-75 in *SAP FICO BUSINESS PROCESSES (1).pdf*. See the [Screenshot Page Index](../../00-Project-Overview/Screenshot-Page-Index.md).
+**Source PDF screenshot pages:** [PDF p.74](https://github.com/AswinSage/SAP-FICO-Portfolio/blob/main/source-documents/SAP%20FICO%20BUSINESS%20PROCESSES.pdf#page=74) · [PDF p.75](https://github.com/AswinSage/SAP-FICO-Portfolio/blob/main/source-documents/SAP%20FICO%20BUSINESS%20PROCESSES.pdf#page=75). See the [Screenshot Page Index](../../00-Project-Overview/Screenshot-Page-Index.md).
 Suggested: `21-Create-Group-of-Assets.png`.
 
 ## 8. Implementation Notes
