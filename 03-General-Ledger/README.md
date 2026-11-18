@@ -30,6 +30,6 @@ Implementation project document, Phase 3 and Phase 8 G/L master data; Business P
 
 ## Source PDF References
 
-- **[SRC-01 – Implementation Project Document](../source-documents/SAP%20FICO%20IMPLEMENTATION%20PROJECT%20DOCUMENT%201.pdf):** Phase 3, General Ledger configuration, pages 29–46; Phase 8 G/L testing, pages 126–134.
-- **[SRC-02 – Business Processes](../source-documents/SAP%20FICO%20BUSINESS%20PROCESSES.pdf):** Processes 1–8, pages 1–38.
+- **[SRC-01 – Implementation Project Document](../source-documents/SAP%20FICO%20IMPLEMENTATION%20PROJECT%20DOCUMENT%201.pdf):** Phase 3, General Ledger configuration, [pages 29–46](../source-documents/SAP%20FICO%20IMPLEMENTATION%20PROJECT%20DOCUMENT%201.pdf#page=29); Phase 8 G/L testing, [pages 126–134](../source-documents/SAP%20FICO%20IMPLEMENTATION%20PROJECT%20DOCUMENT%201.pdf#page=126).
+- **[SRC-02 – Business Processes](../source-documents/SAP%20FICO%20BUSINESS%20PROCESSES.pdf):** Processes 1–8, [pages 1–38](../source-documents/SAP%20FICO%20BUSINESS%20PROCESSES.pdf#page=1).
 - Central index: [Source Documents](../source-documents/README.md).
