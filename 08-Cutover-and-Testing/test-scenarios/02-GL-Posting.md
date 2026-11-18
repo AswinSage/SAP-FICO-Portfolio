@@ -15,6 +15,11 @@
 
 Validate direct and indirect G/L posting, including document header data, debit and credit line items, optional cost object assignments, document balancing, and successful posting.
 
+## Direct PDF Page Links
+
+- **Procedure:** [PDF p.130](https://github.com/AswinSage/SAP-FICO-Portfolio/blob/main/source-documents/SAP%20FICO%20IMPLEMENTATION%20PROJECT%20DOCUMENT%201.pdf#page=130)
+- **Screenshots:** [PDF p.131](https://github.com/AswinSage/SAP-FICO-Portfolio/blob/main/source-documents/SAP%20FICO%20IMPLEMENTATION%20PROJECT%20DOCUMENT%201.pdf#page=131) · [PDF p.132](https://github.com/AswinSage/SAP-FICO-Portfolio/blob/main/source-documents/SAP%20FICO%20IMPLEMENTATION%20PROJECT%20DOCUMENT%201.pdf#page=132)
+
 ## Source Procedure
 
 1. Enter the Company Code.
