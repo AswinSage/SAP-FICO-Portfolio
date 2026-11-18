@@ -24,7 +24,18 @@ The source describes Profit Centres as units for evaluating revenues, costs, and
 5. Save and display the Profit Centre.
 6. Record its assignment to the relevant Cost Centre when that subsequent activity is performed.
 
-Source example: Custom Product.
+Source example in SRC-02: **Custom Product**.
+
+### Additional project examples in the implementation report (SRC-01)
+
+The implementation report shows two Profit Centre master examples:
+
+| Profit Centre | Description | Controlling Area | Company Code assignment | Other source details |
+|---|---|---|---|---|
+| HM11 | Production | HM11 | HM11 assigned | Validity begins 01.01.2026; Profit Centre Group field shows HM11-1; responsible-person label shown as Production Manager |
+| HM12 | Marketing | Not fully visible in the example caption | Not fully visible | Named as the Marketing Profit Centre example |
+
+Sources: SRC-01, PDF pages 114-115. These examples are from the implementation report and are distinct from the Custom Product scenario in the 92-page business-process PDF. Confirm all assignments and validity dates in the target SAP system.
 
 ## 6. Validation and Reporting
 Reports stated in source: Profit Centre Line Items (`KE5Z`); Profit Centre Actual Line Items (`KE5Y`).
