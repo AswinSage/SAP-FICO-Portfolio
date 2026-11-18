@@ -38,4 +38,4 @@ This register maps each completed Phase 8 test scenario to its source procedure,
 
 ## 5. Source Note
 
-*SAP FICO Implementation Project Document*, Phase 8, pages 126–155; *SAP FICO Business Processes*, Processes 1–27, pages 1–92.
+*SAP FICO Implementation Project Document*, Phase 8, [pages 126–155](../source-documents/SAP%20FICO%20IMPLEMENTATION%20PROJECT%20DOCUMENT%201.pdf#page=126); *SAP FICO Business Processes*, Processes 1–27, [pages 1–92](../source-documents/SAP%20FICO%20BUSINESS%20PROCESSES.pdf#page=1).
