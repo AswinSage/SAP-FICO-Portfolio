@@ -24,7 +24,7 @@ A structured SAP FICO portfolio documenting implementation configuration, master
 | [05 – Accounts Receivable](05-Accounts-Receivable/README.md) | Customer setup, invoices, receipts, and dunning |
 | [06 – Asset Accounting](06-Asset-Accounting/README.md) | Depreciation setup and asset master processes |
 | [07 – Controlling](07-Controlling/README.md) | Cost elements, cost centres, profit centres, and orders |
-| [08 – Cutover and Testing](08-Cutover-and-Testing/README.md) | Test strategy, case register, and cutover checklist |
+| [08 – Cutover and Testing](08-Cutover-and-Testing/README.md) | Phase 8 test plan, nine test scenarios, result register, readiness matrix, and source-page evidence map |
 | [09 – Reports and Validation](09-Reports-and-Validation/README.md) | Financial and controlling report references |
 
 ## Source PDF Reference
