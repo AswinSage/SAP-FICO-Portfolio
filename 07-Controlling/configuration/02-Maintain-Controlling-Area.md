@@ -23,15 +23,21 @@ The source describes the Controlling Area as an organizational unit grouping one
 11. Save.
 
 ## 5. Project Values
-| Field | Project value |
+| Field | Value visible in SRC-01 |
 |---|---|
-| Controlling Area | Record from SAP |
-| Name | Record from SAP |
-| Currency Type | Record from SAP |
-| Currency | Record from SAP |
-| Fiscal Year Variant | Record from SAP |
-| Chart of Accounts | Record from SAP |
-| Company Codes assigned | Record from SAP |
+| Controlling Area | HM11 |
+| Name | Controlling Area for HM11 |
+| Validity shown | 2026 to 9999 |
+| Company Code assignment | 1 - Controlling area same as company code |
+| Currency Type | 10 - Company Code Currency |
+| Currency | INR |
+| Fiscal Year Variant | HM (Jan-Dec) |
+| Chart of Accounts | HM11 |
+| Standard Hierarchy field | HM11-1 (as legible in the screenshot) |
+| Active components | Cost Centers; Profit Center Accounting selected |
+| Other indicator | All Currencies selected |
+
+Source: implementation report, PDF page 112. Revalidate the fiscal-year and standard-hierarchy assignments in the target system.
 
 ## 6. Validation
 - [ ] Controlling Area exists.
