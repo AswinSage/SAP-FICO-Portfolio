@@ -30,8 +30,9 @@ The source describes vendor master data as containing name, address, communicati
 | Company Code | HM11 - Hindustan Motors Ltd |
 | Reconciliation Account | 1002 |
 | Sort Key | 001 |
+| Street / House number | Harpy Street / 512 |
 | City / Country | Chennai / IN |
-| Postal Code | 600018 |
+| Postal Code / PO Box | 600018 / 600018 |
 | Region | 22 |
 | Language | EN - English |
 | Vendor Account Group | Not visible in the screenshot |
