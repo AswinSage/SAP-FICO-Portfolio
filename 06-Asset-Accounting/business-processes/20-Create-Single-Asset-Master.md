@@ -39,7 +39,24 @@ The source describes asset master data as containing the asset class, depreciati
 6. Save the asset master and record its asset number.
 7. Display the asset master to verify the saved details.
 
-The source example is a Xerox Machine.
+The business-process PDF (SRC-02, Process 20) uses **Xerox Machine** as its single-asset example.
+
+The implementation report (SRC-01) separately shows a Printout Machine asset master on PDF page 107:
+
+| Field | Value visible in screenshot |
+|---|---|
+| Asset number / subnumber | 2 / 0 |
+| Asset class | HM11 |
+| Description | Printout Machine |
+| Asset class description | Machine |
+| Company Code | HM11 |
+| Account Determination | HM11 - Machine |
+| Business Area | HM21 |
+| Location shown | Chennai |
+| Time-dependent validity | 01.01.1900 to 31.12.9999 |
+| Cost Centre | No value visible |
+
+These are two different source examples; do not treat the Xerox Machine process scenario and Printout Machine master screenshot as the same record. Verify the asset number and organizational assignments in the target SAP system.
 
 ## 6. Validation and Reporting
 
