@@ -38,7 +38,9 @@ The source describes the Vendor Line-item Report as displaying invoices, payment
 
 ## 7. Evidence
 
-Suggested evidence: `13-Vendor-Line-Item-Report.png`.
+**Source PDF screenshot pages:** 53 in *SAP FICO BUSINESS PROCESSES (1).pdf*. See the [Screenshot Page Index](../../00-Project-Overview/Screenshot-Page-Index.md).
+
+`13-Vendor-Line-Item-Report.png`.
 
 ## 8. Implementation Notes
 
