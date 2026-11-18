@@ -24,16 +24,21 @@ The source describes Cost Centre Accounting as supporting identification, collec
 12. Save.
 
 ## 5. Project Values
-| Field | Project value |
-|---|---|
-| Controlling Area | Record from SAP |
-| Cost Centre | Record from SAP |
-| Validity Date | Record from SAP |
-| Name / Description | Record from SAP |
-| Person Responsible | Redact personal details in public portfolio |
-| Cost Centre Category | Record from SAP |
-| Profit Centre | Record if applicable |
-| Functional Area | Record if applicable |
+| Cost Centre | HM11-1 | HM11-2 |
+|---|---|---|
+| Description | Production | Marketing |
+| Controlling Area | HM11 | HM11 |
+| Valid From | 01.04.2026 | 01.04.2026 |
+| Valid To | 31.12.9999 | 31.12.9999 |
+| Person Responsible label | Production Manager | Marketing Manager |
+| Cost Centre Category | 1 - Production | P - Marketing |
+| Hierarchy Area | HM11-1 | HM11-1 |
+| Business Area | HM21 | HM21 |
+| Functional Area | HM11 - Manufacturing | HM11 - Manufacturing |
+| Currency | INR | INR |
+| Profit Centre | HM11 | HM12 |
+
+Source: implementation report, PDF pages 117-118. The responsible-person fields are role labels shown in the screenshots, not verified employee identities. Validate the Functional Area assignment because both examples display the same Manufacturing functional area.
 
 ## 6. Validation
 - [ ] Cost Centre exists for the intended validity period.
