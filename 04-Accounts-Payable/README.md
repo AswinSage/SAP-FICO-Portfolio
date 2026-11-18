@@ -30,6 +30,6 @@ Implementation project document, Phase 4; Business Processes document, Processes
 
 ## Source PDF References
 
-- **SRC-01 – Implementation Project Document:** Phase 4, Accounts Payable configuration, pages 47–62; Phase 8 vendor invoice and payment testing, pages 135–141.
-- **SRC-02 – Business Processes:** Processes 9–13, pages 39–53.
+- **[SRC-01 – Implementation Project Document](../source-documents/SAP%20FICO%20IMPLEMENTATION%20PROJECT%20DOCUMENT%201.pdf):** Phase 4, Accounts Payable configuration, pages 47–62; Phase 8 vendor invoice and payment testing, pages 135–141.
+- **[SRC-02 – Business Processes](../source-documents/SAP%20FICO%20BUSINESS%20PROCESSES.pdf):** Processes 9–13, pages 39–53.
 - Central index: [Source Documents](../source-documents/README.md).
