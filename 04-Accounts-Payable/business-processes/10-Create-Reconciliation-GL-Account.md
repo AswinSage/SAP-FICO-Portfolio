@@ -56,12 +56,6 @@ The source illustrates Sundry Debtors and Sundry Creditors reconciliation accoun
 
 **Source PDF screenshot pages:** 44-46 in *SAP FICO BUSINESS PROCESSES (1).pdf*. See the [Screenshot Page Index](../../00-Project-Overview/Screenshot-Page-Index.md).
 
-`10-Create-Reconciliation-GL-Debtors.png` and `10-Create-Reconciliation-GL-Creditors.png`.
-
-## 8. Implementation Notes
-
-Keep vendor and customer reconciliation accounts distinct if the project uses separate accounts. Record the actual account category and assignment evidence.
-
-## 9. Source Note
+## 8. Source Note
 
 Business Processes document, Process 10, pages 43–46.
