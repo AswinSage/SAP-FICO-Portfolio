@@ -15,6 +15,11 @@
 
 Validate cancellation of an incorrectly posted accounting document through a corresponding reversal document while preserving the original document for audit traceability.
 
+## Direct PDF Page Links
+
+- **Procedure:** [PDF p.133](https://github.com/AswinSage/SAP-FICO-Portfolio/blob/main/source-documents/SAP%20FICO%20IMPLEMENTATION%20PROJECT%20DOCUMENT%201.pdf#page=133)–[PDF p.134](https://github.com/AswinSage/SAP-FICO-Portfolio/blob/main/source-documents/SAP%20FICO%20IMPLEMENTATION%20PROJECT%20DOCUMENT%201.pdf#page=134)
+- **Screenshots:** [PDF p.134](https://github.com/AswinSage/SAP-FICO-Portfolio/blob/main/source-documents/SAP%20FICO%20IMPLEMENTATION%20PROJECT%20DOCUMENT%201.pdf#page=134)
+
 ## Source Procedure
 
 1. Enter the original Document Number.
