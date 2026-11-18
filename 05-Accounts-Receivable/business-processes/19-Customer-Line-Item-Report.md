@@ -38,7 +38,9 @@ The source describes the Customer Line-item Report as displaying invoices, incom
 
 ## 7. Evidence
 
-Suggested evidence: `19-Customer-Line-Item-Report.png`.
+**Source PDF screenshot pages:** 69 in *SAP FICO BUSINESS PROCESSES (1).pdf*. See the [Screenshot Page Index](../../00-Project-Overview/Screenshot-Page-Index.md).
+
+`19-Customer-Line-Item-Report.png`.
 
 ## 8. Implementation Notes
 
