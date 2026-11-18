@@ -1,52 +1,55 @@
 # Enterprise Structure
 
-> The foundation of SAP S/4HANA Financial Accounting. This module explains how organizational units are defined, structured, and configured to support business operations and financial reporting.
+## 1. Overview
+Enterprise Structure defines the organizational framework used by the SAP FICO project. It establishes the company, company code, and related organizational units and assignments that provide the foundation for financial accounting and reporting.
 
----
+## 2. Configuration Scope
+The source implementation report identifies the following activities:
 
-## 📖 Overview
+1. Define Company
+2. Define Company Code
+3. Assign Company Code to Company
+4. Define Credit Control Area
+5. Assign Company Code to Credit Control Area
+6. Define Business Area
+7. Assign Business Area to Consolidation Business Area
+8. Define Functional Area
+9. Define Consolidation Business Area
+10. Define Financial Management Area
+11. Assign Company Code to Financial Management Area
+12. Define Segment
 
-Enterprise Structure defines the organizational framework within SAP S/4HANA. It determines how financial data is recorded, managed, and reported across different legal entities and business units.
+## 3. Configuration Documentation
+| File | Activity |
+|---|---|
+| [Configuration Overview](configuration/01-Enterprise-Structure-Configuration-Overview.md) | Full activity register and validation checklist |
+| [Define Company](configuration/02-Define-Company.md) | Company definition |
+| [Define Company Code](configuration/03-Define-Company-Code.md) | Company Code definition |
+| [Assign Company Code to Company](configuration/04-Assign-Company-Code-to-Company.md) | Company / company code relationship |
+| [Define Credit Control Area](configuration/05-Define-Credit-Control-Area.md) | Credit management organizational unit |
+| [Assign Company Code to Credit Control Area](configuration/06-Assign-Company-Code-to-Credit-Control-Area.md) | Credit control assignment |
+| [Define Business Area](configuration/07-Define-Business-Area.md) | Business Area definition |
+| [Assign Business Area to Consolidation Business Area](configuration/08-Assign-Business-Area-to-Consolidation-Business-Area.md) | Consolidation assignment |
+| [Define Functional Area](configuration/09-Define-Functional-Area.md) | Functional reporting unit |
+| [Define Consolidation Business Area](configuration/10-Define-Consolidation-Business-Area.md) | Consolidation unit definition |
+| [Define Financial Management Area](configuration/11-Define-Financial-Management-Area.md) | Funds management organizational unit |
+| [Assign Company Code to Financial Management Area](configuration/12-Assign-Company-Code-to-Financial-Management-Area.md) | Financial Management assignment |
+| [Define Segment](configuration/13-Define-Segment.md) | Segment configuration procedure as written in source |
 
-A well-designed Enterprise Structure is essential for integrating Finance (FI) with other SAP modules such as Controlling (CO), Materials Management (MM), Sales and Distribution (SD), and Production Planning (PP).
+## 4. Supporting Material
+- `notes/`: Conceptual notes
+- `diagrams/`: Organizational diagrams
+- `business-scenarios/`: Business examples
+- `screenshots/`: Redacted SAP evidence
 
+## 5. Validation
+- [ ] Organizational unit definitions are saved.
+- [ ] Company code assignments are verified.
+- [ ] Relationships match the project design.
+- [ ] Screenshots or configuration evidence are attached.
 
-## 🎯 Learning Objectives
+## 6. Source-Document Verification
+The source document's Segment procedure refers to Functional Area fields. This is flagged in the corresponding configuration file and must be checked against the actual SAP system.
 
-By completing this module, I aim to:
-
-- Understand SAP Enterprise Structure concepts.
-- Identify and explain organizational units.
-- Learn Enterprise Structure configuration.
-- Relate SAP organizational units to business requirements.
-- Apply concepts using practical scenarios.
-
-
-## 📂 Module Structure
-
-| Folder | Description |
-|--------|-------------|
-| `notes` | Concepts, definitions, and theory |
-| `configuration` | SPRO paths, configuration steps, and T-codes |
-| `diagrams` | Enterprise Structure diagrams and flowcharts |
-| `scenarios` | Real-world business examples |
-| `screenshots` | SAP GUI screenshots from practice |
-
-
-## 📚 Topics Covered
-
-- Client
-- Company
-- Company Code
-- Business Area
-- Credit Control Area
-- Organizational Relationships
-- Enterprise Structure Design
-
-
-## 👤 Author
-
-**S.N.ASWIN**
-
-MBA (Finance & Digital Marketing)  
-Aspiring SAP S/4HANA FICO Consultant
+## 7. Source Note
+Implementation project document, Phase 1, sections 1.1–1.8.
