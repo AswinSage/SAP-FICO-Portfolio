@@ -15,6 +15,11 @@
 
 Validate the creation of General Ledger master records with their Chart of Accounts and company-code segments, account classification, control data, currency, and field status.
 
+## Direct PDF Page Links
+
+- **Procedure:** [PDF p.126](https://github.com/AswinSage/SAP-FICO-Portfolio/blob/main/source-documents/SAP%20FICO%20IMPLEMENTATION%20PROJECT%20DOCUMENT%201.pdf#page=126)
+- **Screenshots:** [PDF p.127](https://github.com/AswinSage/SAP-FICO-Portfolio/blob/main/source-documents/SAP%20FICO%20IMPLEMENTATION%20PROJECT%20DOCUMENT%201.pdf#page=127) · [PDF p.128](https://github.com/AswinSage/SAP-FICO-Portfolio/blob/main/source-documents/SAP%20FICO%20IMPLEMENTATION%20PROJECT%20DOCUMENT%201.pdf#page=128) · [PDF p.129](https://github.com/AswinSage/SAP-FICO-Portfolio/blob/main/source-documents/SAP%20FICO%20IMPLEMENTATION%20PROJECT%20DOCUMENT%201.pdf#page=129)
+
 ## Source Procedure
 
 1. Enter the G/L Account Number and Company Code.
