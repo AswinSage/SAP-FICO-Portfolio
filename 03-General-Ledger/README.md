@@ -27,3 +27,9 @@ Configuration validation and transaction validation must be recorded separately.
 
 ## 5. Source Note
 Implementation project document, Phase 3 and Phase 8 G/L master data; Business Processes document, Processes 1–8.
+
+## Source PDF References
+
+- **SRC-01 – Implementation Project Document:** Phase 3, General Ledger configuration, pages 29–46; Phase 8 G/L testing, pages 126–134.
+- **SRC-02 – Business Processes:** Processes 1–8, pages 1–38.
+- Central index: [Source Documents](../source-documents/README.md).
