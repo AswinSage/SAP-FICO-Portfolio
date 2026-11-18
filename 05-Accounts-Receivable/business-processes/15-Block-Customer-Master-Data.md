@@ -16,7 +16,7 @@ The source identifies customer blocking as a control that may be used for credit
 
 ## 4. Prerequisites
 
-- Configuration required: Nil, according to the source.
+- Configuration required: None.
 - Master data / transaction stated in source: Customer Block Screen (`FD05`).
 
 ## 5. Procedure Outline
