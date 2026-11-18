@@ -40,12 +40,6 @@ The source describes the G/L Line-item Report as a report used to display transa
 
 **Source PDF screenshot pages:** 38 in *SAP FICO BUSINESS PROCESSES (1).pdf*. See the [Screenshot Page Index](../../00-Project-Overview/Screenshot-Page-Index.md).
 
-`08-GL-Line-Item-Report-Cash.png` and `08-GL-Line-Item-Report-Rent.png`.
-
-## 8. Implementation Notes
-
-Record the selection parameters used. Redact company identifiers, document numbers, and amounts if they are confidential.
-
-## 9. Source Note
+## 8. Source Note
 
 Business Processes document, Process 8, pages 37–38.
