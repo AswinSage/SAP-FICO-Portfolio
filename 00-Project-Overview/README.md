@@ -29,7 +29,7 @@ The repository is organized from two project documents supplied for this portfol
 1. SAP FICO Implementation Project Document – 155 pages.
 2. SAP FICO Business Processes – 92 pages.
 
-The original PDFs are not reproduced in this repository. The [Source Document Reference](Source-Document-Reference.md) records source-visible project values, page references, the mapping to repository sections, and items that require verification. The remaining files contain structured documentation derived from the procedures and process descriptions.
+The two original PDFs are available in the [Source Documents folder](../source-documents/README.md), which provides direct file links and a phase-wise page map. The [Source Document Reference](Source-Document-Reference.md) records source-visible project values, page references, the mapping to repository sections, and items that require verification. The remaining files contain structured documentation derived from the procedures and process descriptions.
 
 ## 5. Scope and Evidence Disclaimer
 This portfolio documents the procedures and process scenarios contained in the supplied reports. A procedure document alone does not prove that a configuration or transaction was executed successfully. Execution status must be supported by actual SAP screenshots, document references, and report outputs.
