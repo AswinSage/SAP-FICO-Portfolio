@@ -10,7 +10,7 @@
 | Source screenshot page | 154 |
 | Transaction reference in source | F-90 |
 | Scenario category | Asset acquisition and Accounts Payable integration |
-| Execution in current target environment | Not independently verified |
+| Execution status | Executed – Completed (project completion confirmed by project owner) |
 
 ## Objective
 
