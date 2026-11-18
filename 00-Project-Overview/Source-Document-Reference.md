@@ -259,6 +259,3 @@ The Cost Centre screenshots show Functional Area HM11 with the description Manuf
 | 14-19 | Accounts Receivable | 54-69 | [AR business processes](../05-Accounts-Receivable/business-processes/README.md) |
 | 20-22 | Asset Accounting | 70-80 | [Asset business processes](../06-Asset-Accounting/business-processes/README.md) |
 | 23-27 | Controlling | 81-92 | [CO business processes](../07-Controlling/business-processes/README.md) |
-
-evidence are attached.
-- Do not claim FI/CO integration with SD, MM, or TM as completed; the supplied PDFs substantiate FI/CO only.
