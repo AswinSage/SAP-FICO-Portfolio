@@ -26,3 +26,9 @@ Check asset class, asset number, depreciation terms, account determination, asse
 
 ## 6. Source Note
 Implementation project document, Phase 6; Business Processes document, Processes 20–22.
+
+## Source PDF References
+
+- **SRC-01 – Implementation Project Document:** Phase 6, Asset Accounting configuration, pages 84–110; Phase 8 asset master and acquisition testing, pages 146–155.
+- **SRC-02 – Business Processes:** Processes 20–22, pages 70–80.
+- Central index: [Source Documents](../source-documents/README.md).
