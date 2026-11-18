@@ -12,8 +12,8 @@
 - Asset Balances: `S_ALR_87011964`
 - Asset History Sheet: `S_ALR_87011990`
 
-## Evidence Standard
-Capture asset master records, parent/sub-asset relationships where applicable, and report output. Acquisition or depreciation execution must be evidenced separately.
+## Screenshot Page References
 
+See the [Screenshot Page Index](../../00-Project-Overview/Screenshot-Page-Index.md) for the source PDF screenshot pages for each process.
 ## Source Note
 Business Processes document, Processes 20–22, pages 69–80.
