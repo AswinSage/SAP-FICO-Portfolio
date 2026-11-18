@@ -14,8 +14,8 @@
 - Profit Centre Line Items: `KE5Z`
 - Profit Centre Actual Line Items: `KE5Y`
 
-## Evidence Standard
-Capture cost element and cost object master records, assignments, posting results, and the report outputs referenced by the source.
+## Screenshot Page References
 
+See the [Screenshot Page Index](../../00-Project-Overview/Screenshot-Page-Index.md) for the source PDF screenshot pages for each process.
 ## Source Note
 Business Processes document, Processes 23–27, pages 81–92.
