@@ -15,8 +15,8 @@ This folder documents the eight G/L business processes in the uploaded SAP FICO 
 | 7 | [Reversal of G/L Rent Posting](07-Reversal-of-GL-Rent-Paid.md) |
 | 8 | [G/L Line-item Report](08-GL-Line-Item-Report.md) |
 
-## Evidence Standard
-For each process, retain a redacted screenshot of the relevant SAP screen, document number where appropriate, and report output. Record actual transaction codes and results from the system.
+## Screenshot Page References
 
+See the [Screenshot Page Index](../../00-Project-Overview/Screenshot-Page-Index.md) for the source PDF screenshot pages for each process.
 ## Source Note
 Business Processes document, Processes 1–8, pages 1–38.
