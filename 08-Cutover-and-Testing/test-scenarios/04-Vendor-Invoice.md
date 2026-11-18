@@ -15,6 +15,11 @@
 
 Validate vendor invoice posting, including liability recognition, corresponding expense or asset entry, tax where applicable, and the resulting vendor and General Ledger line items.
 
+## Direct PDF Page Links
+
+- **Procedure:** [PDF p.135](https://github.com/AswinSage/SAP-FICO-Portfolio/blob/main/source-documents/SAP%20FICO%20IMPLEMENTATION%20PROJECT%20DOCUMENT%201.pdf#page=135)
+- **Screenshots:** [PDF p.136](https://github.com/AswinSage/SAP-FICO-Portfolio/blob/main/source-documents/SAP%20FICO%20IMPLEMENTATION%20PROJECT%20DOCUMENT%201.pdf#page=136) · [PDF p.137](https://github.com/AswinSage/SAP-FICO-Portfolio/blob/main/source-documents/SAP%20FICO%20IMPLEMENTATION%20PROJECT%20DOCUMENT%201.pdf#page=137) · [PDF p.138](https://github.com/AswinSage/SAP-FICO-Portfolio/blob/main/source-documents/SAP%20FICO%20IMPLEMENTATION%20PROJECT%20DOCUMENT%201.pdf#page=138)
+
 ## Source Procedure
 
 1. Enter the Company Code and Vendor Account.
