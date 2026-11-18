@@ -47,7 +47,7 @@ Reports stated in source: Profit Centre Line Items (`KE5Z`); Profit Centre Actua
 
 ## 7. Evidence
 
-**Source PDF screenshot pages:** 91-92 in *SAP FICO BUSINESS PROCESSES (1).pdf*. See the [Screenshot Page Index](../../00-Project-Overview/Screenshot-Page-Index.md).
+**Source PDF screenshot pages:** [PDF p.91](https://github.com/AswinSage/SAP-FICO-Portfolio/blob/main/source-documents/SAP%20FICO%20BUSINESS%20PROCESSES.pdf#page=91) · [PDF p.92](https://github.com/AswinSage/SAP-FICO-Portfolio/blob/main/source-documents/SAP%20FICO%20BUSINESS%20PROCESSES.pdf#page=92). See the [Screenshot Page Index](../../00-Project-Overview/Screenshot-Page-Index.md).
 Suggested: `27-Create-Profit-Centre-Custom-Product.png`.
 
 ## 8. Implementation Notes
