@@ -93,14 +93,6 @@ For this portfolio, all nine Phase 8 scenarios are recorded as **Executed – Co
 
 These are transaction/report references appearing in the project documents. Availability and compatibility depend on the target SAP release and configuration.
 
-## 9. Source Limitations
-
-- Phase 8 does not specify a complete defect severity model or defect resolution workflow.
-- Phase 8 does not provide a formal test data catalogue or expected numeric balances for every scenario.
-- The Sub-Asset section has limited extractable procedure text.
-- The Vendor Invoice screenshots include captions F-02 and FB60; these source labels are preserved without treating them as a verified current-system mapping.
-- The test strategy does not imply production go-live approval or successful execution in a target SAP tenant.
-
-## 10. Source Note
+## 9. Source Note
 
 Based on Phase 8, pages 126–155 of the *SAP FICO Implementation Project Document*, cross-referenced with the 27 process descriptions in *SAP FICO Business Processes*.
