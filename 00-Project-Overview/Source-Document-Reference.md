@@ -10,10 +10,10 @@ This document records the project-specific information visible in the two suppli
 
 | Source ID | Source document | Length | Coverage |
 |---|---|---:|---|
-| SRC-01 | SAP FICO Implementation Project for Hindustan Motors Ltd | 155 PDF pages | Eight implementation phases covering Enterprise Structure, Global Settings, G/L, AP, AR, Asset Accounting, Controlling, and cutover/testing |
-| SRC-02 | Business Process for SAP FICO | 92 PDF pages | 27 numbered processes covering G/L, AP, AR, Asset Accounting, and CO |
+| SRC-01 | [SAP FICO Implementation Project for Hindustan Motors Ltd](../source-documents/SAP%20FICO%20IMPLEMENTATION%20PROJECT%20DOCUMENT%201.pdf) | 155 PDF pages | Eight implementation phases covering Enterprise Structure, Global Settings, G/L, AP, AR, Asset Accounting, Controlling, and cutover/testing |
+| SRC-02 | [Business Process for SAP FICO](../source-documents/SAP%20FICO%20BUSINESS%20PROCESSES.pdf) | 92 PDF pages | 27 numbered processes covering G/L, AP, AR, Asset Accounting, and CO |
 
-The repository contains structured Markdown documentation derived from these documents. The original PDFs themselves are not stored in this GitHub repository.
+The repository contains both original PDF files in [source-documents](../source-documents/README.md), along with structured Markdown documentation derived from them.
 
 ## 3. Project Identity and Enterprise Structure
 
