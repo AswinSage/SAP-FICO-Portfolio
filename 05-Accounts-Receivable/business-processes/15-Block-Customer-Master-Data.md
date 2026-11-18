@@ -41,7 +41,9 @@ The source identifies customer blocking as a control that may be used for credit
 
 ## 7. Evidence
 
-Suggested evidence: `15-Block-Customer-Master.png`.
+**Source PDF screenshot pages:** 59 in *SAP FICO BUSINESS PROCESSES (1).pdf*. See the [Screenshot Page Index](../../00-Project-Overview/Screenshot-Page-Index.md).
+
+`15-Block-Customer-Master.png`.
 
 ## 8. Implementation Notes
 
