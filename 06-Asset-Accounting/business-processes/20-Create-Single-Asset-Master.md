@@ -72,7 +72,7 @@ These are two different source examples; do not treat the Xerox Machine process 
 
 ## 7. Evidence
 
-**Source PDF screenshot pages:** 71-72 in *SAP FICO BUSINESS PROCESSES (1).pdf*. See the [Screenshot Page Index](../../00-Project-Overview/Screenshot-Page-Index.md).
+**Source PDF screenshot pages:** [PDF p.71](https://github.com/AswinSage/SAP-FICO-Portfolio/blob/main/source-documents/SAP%20FICO%20BUSINESS%20PROCESSES.pdf#page=71) · [PDF p.72](https://github.com/AswinSage/SAP-FICO-Portfolio/blob/main/source-documents/SAP%20FICO%20BUSINESS%20PROCESSES.pdf#page=72). See the [Screenshot Page Index](../../00-Project-Overview/Screenshot-Page-Index.md).
 
 `20-Create-Single-Asset-Xerox.png`.
 
