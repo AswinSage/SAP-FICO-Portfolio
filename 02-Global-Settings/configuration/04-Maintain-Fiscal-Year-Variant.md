@@ -32,13 +32,15 @@ The Fiscal Year Variant determines the number of posting periods and special per
 
 ## 5. Project Configuration Values
 
-| Field | Project value |
+| Field | Value visible in SRC-01 |
 |---|---|
-| Fiscal Year Variant | To be recorded from SAP |
-| Description | To be recorded from SAP |
-| Number of posting periods | To be recorded from SAP |
-| Number of special periods | To be recorded from SAP |
-| Period start and end dates | To be recorded from SAP, if applicable |
+| Fiscal Year Variant | HM |
+| Description | Jan-Dec |
+| Calendar year indicator | Selected |
+| Number of posting periods | 12 |
+| Number of special periods | 4 |
+
+Source: implementation report, PDF page 23. The screenshot lists several fiscal-year variants; these values refer to the row labelled HM. Revalidate the selected variant and period definitions in the target SAP system.
 
 ## 6. Validation
 
