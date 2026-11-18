@@ -37,7 +37,6 @@ Validate direct and indirect G/L posting, including document header data, debit 
 | 131 | Direct Posting | F-02 |
 | 132 | Indirect Posting | FB50 |
 
-The companion Business Processes PDF contains a conflicting reference to FS00 for direct G/L posting. In the implementation report, Phase 8 explicitly labels the posting screens F-02 and FB50. FS00 is identified elsewhere as G/L master maintenance, so the discrepancy is not adopted as a Phase 8 posting reference.
 
 ## Preconditions
 
