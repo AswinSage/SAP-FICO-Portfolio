@@ -29,11 +29,17 @@ A company represents a corporate entity in the organizational structure. In the 
 
 ## 5. Project Configuration Values
 
-| Field | Project value | Notes |
+| Field | Value visible in SRC-01 | Source |
 |---|---|---|
-| Company ID | To be entered from project evidence | Do not invent |
-| Company name | To be entered from project evidence | Redact confidential information before publication |
-| Additional attributes | As shown in SAP evidence | Record only fields used |
+| Company ID | HM11 | PDF page 2 |
+| Company name | Hindustan Motors Ltd | PDF pages 2 and 4 |
+| Street / House number | Ferry Street / 122 | PDF page 4 |
+| City | Chennai | PDF pages 2 and 4 |
+| Postal Code / PO Box | 600122 / 600122 | PDF pages 2 and 4 |
+| Country / Region | IN / 22 | PDF page 4 |
+| Language / Currency | EN / INR | PDF pages 2 and 4 |
+
+These are values visible in the supplied implementation report. Reconfirm them in the target SAP tenant before reuse.
 
 ## 6. Validation
 
