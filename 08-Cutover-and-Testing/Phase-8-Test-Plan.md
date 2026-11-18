@@ -10,15 +10,15 @@ The scope and sequence in this section follow **Phase 8: Cutover Activities – 
 
 | Phase 8 activity | Source section | Source PDF pages | Test scenario |
 |---|---|---:|---|
-| G/L Master Data | 8.1 | 126–129 | Master record creation for Balance Sheet and Profit & Loss account types |
-| G/L Posting | 8.2 | 130–132 | Direct posting (F-02) and indirect posting (FB50) |
-| Reversal | 8.3 | 133–134 | Reverse an accounting document and retain the reversal reference |
-| Vendor Invoice | 8.4 | 135–138 | Vendor liability and expense / asset posting |
-| Vendor Payment | 8.5 | 139–141 | Payment and clearing of a vendor open item |
-| Customer Invoice | 8.6 | 142–143 | Customer receivable and revenue posting |
-| Customer Payment | 8.7 | 144–145 | Incoming payment and clearing of a customer open item |
-| Asset Master Data | 8.8 | 146–152 | Single asset, group asset, and sub-asset master records |
-| Asset Acquisition | 8.9 | 153–155 | External asset acquisition from a vendor using F-90 |
+| G/L Master Data | 8.1 | [126](../source-documents/SAP%20FICO%20IMPLEMENTATION%20PROJECT%20DOCUMENT%201.pdf#page=126)–[129](../source-documents/SAP%20FICO%20IMPLEMENTATION%20PROJECT%20DOCUMENT%201.pdf#page=129) | Master record creation for Balance Sheet and Profit & Loss account types |
+| G/L Posting | 8.2 | [130](../source-documents/SAP%20FICO%20IMPLEMENTATION%20PROJECT%20DOCUMENT%201.pdf#page=130)–[132](../source-documents/SAP%20FICO%20IMPLEMENTATION%20PROJECT%20DOCUMENT%201.pdf#page=132) | Direct posting (F-02) and indirect posting (FB50) |
+| Reversal | 8.3 | [133](../source-documents/SAP%20FICO%20IMPLEMENTATION%20PROJECT%20DOCUMENT%201.pdf#page=133)–[134](../source-documents/SAP%20FICO%20IMPLEMENTATION%20PROJECT%20DOCUMENT%201.pdf#page=134) | Reverse an accounting document and retain the reversal reference |
+| Vendor Invoice | 8.4 | [135](../source-documents/SAP%20FICO%20IMPLEMENTATION%20PROJECT%20DOCUMENT%201.pdf#page=135)–[138](../source-documents/SAP%20FICO%20IMPLEMENTATION%20PROJECT%20DOCUMENT%201.pdf#page=138) | Vendor liability and expense / asset posting |
+| Vendor Payment | 8.5 | [139](../source-documents/SAP%20FICO%20IMPLEMENTATION%20PROJECT%20DOCUMENT%201.pdf#page=139)–[141](../source-documents/SAP%20FICO%20IMPLEMENTATION%20PROJECT%20DOCUMENT%201.pdf#page=141) | Payment and clearing of a vendor open item |
+| Customer Invoice | 8.6 | [142](../source-documents/SAP%20FICO%20IMPLEMENTATION%20PROJECT%20DOCUMENT%201.pdf#page=142)–[143](../source-documents/SAP%20FICO%20IMPLEMENTATION%20PROJECT%20DOCUMENT%201.pdf#page=143) | Customer receivable and revenue posting |
+| Customer Payment | 8.7 | [144](../source-documents/SAP%20FICO%20IMPLEMENTATION%20PROJECT%20DOCUMENT%201.pdf#page=144)–[145](../source-documents/SAP%20FICO%20IMPLEMENTATION%20PROJECT%20DOCUMENT%201.pdf#page=145) | Incoming payment and clearing of a customer open item |
+| Asset Master Data | 8.8 | [146](../source-documents/SAP%20FICO%20IMPLEMENTATION%20PROJECT%20DOCUMENT%201.pdf#page=146)–[152](../source-documents/SAP%20FICO%20IMPLEMENTATION%20PROJECT%20DOCUMENT%201.pdf#page=152) | Single asset, group asset, and sub-asset master records |
+| Asset Acquisition | 8.9 | [153](../source-documents/SAP%20FICO%20IMPLEMENTATION%20PROJECT%20DOCUMENT%201.pdf#page=153)–[155](../source-documents/SAP%20FICO%20IMPLEMENTATION%20PROJECT%20DOCUMENT%201.pdf#page=155) | External asset acquisition from a vendor using F-90 |
 
 ## 3. Test Workstreams and Dependencies
 
@@ -114,14 +114,14 @@ The implementation report contains screenshot pages for the Phase 8 activities:
 
 | Activity | Screenshot pages | Source content |
 |---|---:|---|
-| G/L master | 127–129 | Balance Sheet and Profit & Loss account master screens |
-| G/L posting | 131–132 | Direct posting screen labelled F-02 and indirect posting screen labelled FB50 |
+| G/L master | [127](../source-documents/SAP%20FICO%20IMPLEMENTATION%20PROJECT%20DOCUMENT%201.pdf#page=127)–[129](../source-documents/SAP%20FICO%20IMPLEMENTATION%20PROJECT%20DOCUMENT%201.pdf#page=129) | Balance Sheet and Profit & Loss account master screens |
+| G/L posting | [131](../source-documents/SAP%20FICO%20IMPLEMENTATION%20PROJECT%20DOCUMENT%201.pdf#page=131)–[132](../source-documents/SAP%20FICO%20IMPLEMENTATION%20PROJECT%20DOCUMENT%201.pdf#page=132) | Direct posting screen labelled F-02 and indirect posting screen labelled FB50 |
 | Reversal | 134 | Reversal entry and document display screens |
-| Vendor invoice | 136–138 | Screens labelled Direct Posting – F-02 and Indirect Posting – FB60, with document display |
-| Vendor payment | 140–141 | Outgoing payment and resulting posting screens |
+| Vendor invoice | [136](../source-documents/SAP%20FICO%20IMPLEMENTATION%20PROJECT%20DOCUMENT%201.pdf#page=136)–[138](../source-documents/SAP%20FICO%20IMPLEMENTATION%20PROJECT%20DOCUMENT%201.pdf#page=138) | Screens labelled Direct Posting – F-02 and Indirect Posting – FB60, with document display |
+| Vendor payment | [140](../source-documents/SAP%20FICO%20IMPLEMENTATION%20PROJECT%20DOCUMENT%201.pdf#page=140)–[141](../source-documents/SAP%20FICO%20IMPLEMENTATION%20PROJECT%20DOCUMENT%201.pdf#page=141) | Outgoing payment and resulting posting screens |
 | Customer invoice | 143 | Customer invoice entry screens |
 | Customer payment | 145 | Incoming payment and resulting posting screens |
-| Asset master | 147–152 | Single asset, group asset, and sub-asset screens |
+| Asset master | [147](../source-documents/SAP%20FICO%20IMPLEMENTATION%20PROJECT%20DOCUMENT%201.pdf#page=147)–[152](../source-documents/SAP%20FICO%20IMPLEMENTATION%20PROJECT%20DOCUMENT%201.pdf#page=152) | Single asset, group asset, and sub-asset screens |
 | Asset acquisition | 154 | Screenshot page identified by the source as Asset Acquisition |
 
 The text procedure pages are 126, 130, 133–135, 139, 142, 144, 146, and 153 respectively. Page 155 is the end of the source PDF.
