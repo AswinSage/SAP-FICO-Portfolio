@@ -50,7 +50,7 @@ The source implementation report separately describes document reversal fields i
 
 ## 7. Evidence
 
-**Source PDF screenshot pages:** 36 in *SAP FICO BUSINESS PROCESSES (1).pdf*. See the [Screenshot Page Index](../../00-Project-Overview/Screenshot-Page-Index.md).
+**Source PDF screenshot pages:** [PDF p.36](https://github.com/AswinSage/SAP-FICO-Portfolio/blob/main/source-documents/SAP%20FICO%20BUSINESS%20PROCESSES.pdf#page=36). See the [Screenshot Page Index](../../00-Project-Overview/Screenshot-Page-Index.md).
 
 ## 8. Source Note
 
