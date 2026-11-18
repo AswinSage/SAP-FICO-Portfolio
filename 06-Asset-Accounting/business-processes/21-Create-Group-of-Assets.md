@@ -32,6 +32,8 @@ Reports stated in source: Asset Explorer (`AW01N`), Asset List (`AR01`), Asset B
 - [ ] Asset reports display the records.
 
 ## 7. Evidence
+
+**Source PDF screenshot pages:** 74-75 in *SAP FICO BUSINESS PROCESSES (1).pdf*. See the [Screenshot Page Index](../../00-Project-Overview/Screenshot-Page-Index.md).
 Suggested: `21-Create-Group-of-Assets.png`.
 
 ## 8. Implementation Notes
