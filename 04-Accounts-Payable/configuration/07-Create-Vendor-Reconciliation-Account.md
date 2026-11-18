@@ -24,12 +24,14 @@ The source explains that reconciliation accounts maintain synchronization betwee
 ## 5. Project Values
 | Field | Project value |
 |---|---|
-| Chart of Accounts | Record from SAP |
-| G/L Account | Record from SAP |
-| Account Group | Record from SAP |
-| Description | Record from SAP |
-| Reconciliation category | Vendors |
-| Company Code | Record from SAP |
+| Chart of Accounts | HM11 is shown for the project G/L structure (SRC-01, PDF page 29) |
+| G/L Account | 1002 is displayed as the reconciliation account in the Infineon Technologies vendor master (SRC-01, PDF page 60) |
+| Account Group | Not visible in the vendor accounting screenshot |
+| Description | Not visible in the vendor accounting screenshot |
+| Reconciliation category | Vendors (procedure description) |
+| Company Code | HM11 is displayed in the Infineon Technologies vendor master (SRC-01, PDF page 60) |
+
+The account number 1002 is evidenced as the vendor master reconciliation-account value; the source screenshot does not show the full G/L account master definition. Confirm the account master, account group, and description separately.
 
 ## 6. Validation
 - [ ] Account is created as a Balance Sheet account.
