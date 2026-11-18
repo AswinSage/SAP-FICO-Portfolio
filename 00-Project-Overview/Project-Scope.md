@@ -26,6 +26,3 @@ The companion process document contains 27 numbered processes:
 
 ## 4. Other SAP Modules
 Sales and Distribution (SD), Materials Management (MM), Transportation Management (TM), and Production Planning (PP) are outside the documented FI/CO project scope.
-
-## 5. Assumptions and Verification
-Project-specific identifiers, configuration values, transaction results, and environment details must be populated from actual SAP evidence. Source-document inconsistencies are flagged in the relevant files rather than silently corrected.
