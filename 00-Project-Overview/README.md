@@ -22,6 +22,7 @@ This portfolio organizes an SAP FICO implementation case into configuration docu
 | [Implementation Roadmap](Implementation-Roadmap.md) | Phase-wise organization of the implementation documentation |
 | [Source Document Reference](Source-Document-Reference.md) | Source PDF page map, project-specific configuration values, and verification notes |
 | [Screenshot Page Index](Screenshot-Page-Index.md) | Screenshot page references for all 27 business processes in the source business-process PDF |
+| [Source Documents](../source-documents/README.md) | Phase-wise page map for both source PDFs and links to each module section |
 
 ## 4. Source Materials
 The repository is organized from two project documents supplied for this portfolio:
