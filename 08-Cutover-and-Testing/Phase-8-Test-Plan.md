@@ -52,7 +52,7 @@ The source sequence is organised into the following logical execution chain:
 
 | Transaction | Expected accounting effect | Core control assertion |
 |---|---|---|
-| Direct G/L expense posting | Debit expense / credit cash or bank, according to the source scenario | Total debits equal total credits; document is posted in the intended company code and period |
+| Direct G/L expense posting | Debit expense / credit cash or bank, as demonstrated in the direct G/L expense posting scenario | Total debits equal total credits; document is posted in the intended company code and period |
 | G/L reversal | Reversal entries offset the original accounting document | Original document remains traceable; reversal document is linked and balances offset |
 | Vendor invoice | Debit expense or asset (and input tax where applicable); credit vendor reconciliation account | Vendor open item and G/L impact agree; document balance is zero |
 | Vendor payment | Debit vendor liability; credit bank/cash | Payment amount is assigned to the intended open item; clearing result is correct |
