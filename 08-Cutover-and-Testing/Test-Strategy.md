@@ -1,43 +1,106 @@
-# Test Strategy
+# Test Strategy – Phase 8
 
 ## 1. Objective
-Define a structured approach for validating the SAP FICO configuration, master data, and business transactions documented in this portfolio.
 
-## 2. Testing Scope
-- Master data validation: G/L, vendor, customer, and asset masters.
-- Transaction validation: G/L postings, vendor invoices, customer invoices, and payments.
-- Control validation: G/L blocking/unblocking and document reversal.
-- Asset validation: asset master and asset acquisition.
-- Reporting validation: G/L, vendor, customer, asset, and CO reports referenced in the project documents.
+The Phase 8 test strategy defines the validation model for the G/L, AP, AR and Asset Accounting scenarios documented in the implementation report. It establishes a consistent basis for comparing source procedures, accounting outcomes, sub-ledger updates, and report results.
+
+## 2. Test Scope
+
+| Test domain | Included validation |
+|---|---|
+| G/L master data | Balance Sheet and Profit & Loss account master creation |
+| G/L posting | Direct and indirect posting, balancing and account assignment |
+| Reversal | Reversal document generation and audit traceability |
+| Accounts Payable | Vendor invoice recognition, outgoing payment and clearing |
+| Accounts Receivable | Customer invoice recognition, incoming payment and clearing |
+| Asset Accounting | Single, group and sub-asset master creation; external acquisition |
+| Cross-module accounting | Vendor/customer sub-ledger integration with G/L and asset acquisition accounting |
+| Reporting | G/L, vendor, customer, asset and relevant controlling report families |
 
 ## 3. Test Levels
-| Test level | Purpose |
+
+| Test level | Test objective | Evidence class |
+|---|---|---|
+| Master-data validation | Confirm identity, organisational assignment and control data | Master-record display |
+| Transaction validation | Confirm document header, line items, posting and document number | Posted accounting document |
+| Sub-ledger integration | Confirm vendor/customer open items and reconciliation-account impact | Sub-ledger and G/L line-item output |
+| Asset integration | Confirm asset master values and acquisition value updates | Asset master, Asset Explorer and accounting document |
+| Reversal control | Confirm original/reversal relationship and offsetting accounting impact | Original and reversal document |
+| Reporting validation | Confirm transaction records appear under the correct account and status | Relevant report output |
+
+## 4. Execution Order and Dependency Model
+
+The process dependency order is:
+
+1. G/L master data and required reconciliation / expense / revenue / asset accounts.
+2. G/L direct and indirect posting.
+3. Document reversal.
+4. Vendor master and reconciliation account, followed by vendor invoice.
+5. Vendor payment and open-item clearing.
+6. Customer master and reconciliation account, followed by customer invoice.
+7. Customer payment and open-item clearing.
+8. Asset master records, including single, group and sub-asset variants.
+9. External asset acquisition using the source-stated F-90 path.
+
+The sequence is a logical dependency model derived from the Phase 8 procedures and the related business-process documentation. It is not a production cutover calendar.
+
+## 5. Core Assertions
+
+- Master data is available under the intended organisational units.
+- Accounting documents contain valid dates, company code, currency, accounts and line-item values.
+- Debits and credits balance before posting.
+- A successfully posted document receives a document number.
+- Vendor and customer invoices create the expected open items.
+- Vendor and customer payments are assigned to the intended open items.
+- Reversal documents offset the original accounting impact without deleting the original record.
+- Asset acquisition updates the asset value and the related vendor / G/L balances through configured account determination.
+- The relevant line-item and asset reports reflect the underlying accounting records.
+
+## 6. Evidence Classes
+
+| Evidence class | Description | What it establishes |
+|---|---|---|
+| Source procedure | Textual procedure in the uploaded implementation PDF | Describes the intended process |
+| Source screenshot | SAP screen image embedded in the uploaded implementation PDF | Shows a screen state represented in the source project report |
+| Target-system execution | Current SAP tenant output with identifiable environment and execution reference | Establishes execution in the stated target environment |
+| Reconciliation output | G/L/sub-ledger/asset report tied to the transaction | Supports financial and integration assertions |
+| Review outcome | Dated review or approval record with accountable role | Establishes review/sign-off status |
+
+Source screenshots are not automatically equivalent to target-system test evidence. The distinction is maintained in the Phase 8 register.
+
+## 7. Test Status Definitions
+
+| Status | Meaning |
 |---|---|
-| Configuration validation | Confirm configuration entries and assignments |
-| Master data validation | Confirm required master records and organizational assignments |
-| Transaction testing | Confirm accounting documents and sub-ledger updates |
-| Integration validation | Confirm sub-ledger postings update the relevant G/L accounts |
-| Reporting validation | Confirm report outputs agree with source transactions |
-| Reversal / control testing | Confirm block controls and reversal behavior |
+| Not Started | No execution record exists |
+| In Progress | Execution has begun but the scenario is incomplete |
+| Passed | Expected results are supported by current target-system evidence |
+| Failed | Actual result differs from expected result |
+| Blocked | A prerequisite, authorisation, configuration or system issue prevents completion |
+| Not Independently Verified | Source procedure or screenshot exists, but current target-system execution is not established |
 
-## 4. Execution Rules
-1. Confirm prerequisites before starting each test.
-2. Use approved project or non-sensitive test data.
-3. Record the exact transaction or application used.
-4. Capture document numbers and relevant report output where appropriate.
-5. Compare expected and actual results.
-6. Record errors and resolution steps.
-7. Mark a test Passed only when the expected result is supported by evidence.
-8. Mark tests Not Executed when no execution evidence is available.
+For this portfolio update, the nine Phase 8 scenarios have source references, while target-environment execution remains **Not Independently Verified**.
 
-## 5. Status Definitions
-- Not Executed: No test execution evidence recorded.
-- Passed: Actual result matches expected result and evidence is attached.
-- Failed: Actual result does not match expected result.
-- Blocked: Test cannot proceed because a prerequisite is missing.
+## 8. Reporting References
 
-## 6. Evidence and Confidentiality
-Redact usernames, passwords, personal information, customer/vendor identifiers, company-sensitive data, and confidential financial amounts before publishing screenshots.
+| Functional area | Source report reference |
+|---|---|
+| General Ledger | FBL3N |
+| Accounts Payable | FBL1N |
+| Accounts Receivable | FBL5N |
+| Asset Accounting | AW01N, AR01, S_ALR_87011964, S_ALR_87011990 |
+| Controlling | KSB1, KOB1, KE5Z, KE5Y |
 
-## 7. Source Note
-Testing scope follows Phase 8 of the implementation project document and the business-process scenarios in the companion SAP FICO Business Processes document.
+These are transaction/report references appearing in the project documents. Availability and compatibility depend on the target SAP release and configuration.
+
+## 9. Source Limitations
+
+- Phase 8 does not specify a complete defect severity model or defect resolution workflow.
+- Phase 8 does not provide a formal test data catalogue or expected numeric balances for every scenario.
+- The Sub-Asset section has limited extractable procedure text.
+- The Vendor Invoice screenshots include captions F-02 and FB60; these source labels are preserved without treating them as a verified current-system mapping.
+- The test strategy does not imply production go-live approval or successful execution in a target SAP tenant.
+
+## 10. Source Note
+
+Based on Phase 8, pages 126–155 of the *SAP FICO Implementation Project Document*, cross-referenced with the 27 process descriptions in *SAP FICO Business Processes*.
