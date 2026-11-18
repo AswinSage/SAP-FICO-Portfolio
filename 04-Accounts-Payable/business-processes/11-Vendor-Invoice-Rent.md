@@ -54,7 +54,7 @@ The source identifies the invoice as a rent invoice for BE Solution Pvt Ltd.
 
 ## 7. Evidence
 
-**Source PDF screenshot pages:** 48-49 in *SAP FICO BUSINESS PROCESSES (1).pdf*. See the [Screenshot Page Index](../../00-Project-Overview/Screenshot-Page-Index.md).
+**Source PDF screenshot pages:** [PDF p.48](https://github.com/AswinSage/SAP-FICO-Portfolio/blob/main/source-documents/SAP%20FICO%20BUSINESS%20PROCESSES.pdf#page=48) · [PDF p.49](https://github.com/AswinSage/SAP-FICO-Portfolio/blob/main/source-documents/SAP%20FICO%20BUSINESS%20PROCESSES.pdf#page=49). See the [Screenshot Page Index](../../00-Project-Overview/Screenshot-Page-Index.md).
 
 `11-Vendor-Rent-Invoice.png`, plus vendor and G/L line-item reports.
 
