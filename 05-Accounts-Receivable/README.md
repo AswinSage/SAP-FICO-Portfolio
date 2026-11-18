@@ -27,3 +27,9 @@ Validate customer master data, invoice posting, incoming payment and clearing, r
 
 ## 6. Source Note
 Implementation project document, Phase 5; Business Processes document, Processes 14–19.
+
+## Source PDF References
+
+- **SRC-01 – Implementation Project Document:** Phase 5, Accounts Receivable configuration, pages 63–83; Phase 8 customer invoice and payment testing, pages 142–145.
+- **SRC-02 – Business Processes:** Processes 14–19, pages 54–69.
+- Central index: [Source Documents](../source-documents/README.md).
