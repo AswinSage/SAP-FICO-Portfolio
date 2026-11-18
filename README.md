@@ -16,7 +16,7 @@ A structured SAP FICO portfolio documenting implementation configuration, master
 
 | Section | Description |
 |---|---|
-| [00 – Project Overview](00-Project-Overview/README.md) | Project summary, scope, requirements, and roadmap |
+| [00 – Project Overview](00-Project-Overview/README.md) | Project summary, scope, requirements, roadmap, and source PDF reference |
 | [01 – Enterprise Structure](01-Enterprise-Structure/README.md) | Organizational units and assignments |
 | [02 – Global Settings](02-Global-Settings/README.md) | Financial accounting controls and periods |
 | [03 – General Ledger](03-General-Ledger/README.md) | G/L configuration, master data, and processes |
@@ -26,6 +26,10 @@ A structured SAP FICO portfolio documenting implementation configuration, master
 | [07 – Controlling](07-Controlling/README.md) | Cost elements, cost centres, profit centres, and orders |
 | [08 – Cutover and Testing](08-Cutover-and-Testing/README.md) | Test strategy, case register, and cutover checklist |
 | [09 – Reports and Validation](09-Reports-and-Validation/README.md) | Financial and controlling report references |
+
+## Source PDF Reference
+
+See [Source Document Reference](00-Project-Overview/Source-Document-Reference.md) for the project values transcribed from the supplied PDFs, source page references, and document inconsistencies requiring verification.
 
 ## About Me
 
