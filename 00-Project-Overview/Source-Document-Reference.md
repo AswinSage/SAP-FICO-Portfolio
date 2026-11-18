@@ -2,7 +2,7 @@
 
 ## 1. Purpose
 
-This document records the project-specific information visible in the two supplied SAP FICO PDFs. It links the source material to the portfolio sections and separates values that are visible in the PDFs from items that still require live-system verification.
+This document records the project-specific information in the two SAP FICO PDFs and maps the details to the relevant portfolio sections.
 
 **Important:** The values below are transcribed from the supplied source report and its embedded SAP screenshots. They are not a claim that the same configuration has been recreated or validated in a current SAP S/4HANA Private Cloud tenant.
 
@@ -85,7 +85,7 @@ Source: [SRC-01 PDF p.33](../source-documents/SAP%20FICO%20IMPLEMENTATION%20PROJ
 
 ### Sample G/L Master Records
 
-The following records are examples displayed in the source screenshots. The account numbers are preserved as shown; confirm them in the live project system before reuse.
+The following records are examples displayed in the source screenshots.
 
 | G/L account | Company Code | Short / long description | Account Group | Account type | Source location |
 |---:|---|---|---|---|---|
@@ -94,7 +94,7 @@ The following records are examples displayed in the source screenshots. The acco
 | 1001 | HM11 | Loan / Loan Account | LIAB LIABILITY | Balance Sheet | [SRC-01 PDF p.39](../source-documents/SAP%20FICO%20IMPLEMENTATION%20PROJECT%20DOCUMENT%201.pdf#page=39) |
 | 2001 | HM11 | Rent Account | EXP EXPENSES | P&L Statement | [SRC-01 PDF p.41](../source-documents/SAP%20FICO%20IMPLEMENTATION%20PROJECT%20DOCUMENT%201.pdf#page=41) |
 
-The screenshots also show INR as account currency and line-item display selected for these examples. The visible sort key is 001. The Machine, Cash Account, and Loan screenshots show the corresponding company-code currency / local-currency settings; verify individual account tabs before copying any additional values.
+The screenshots also show INR as account currency, line-item display selected, and sort key 001 for these examples.
 
 ## 6. Accounts Payable and Accounts Receivable Examples
 
@@ -105,7 +105,7 @@ The screenshots also show INR as account currency and line-item display selected
 | Infineon Technologies | Domestic Vendor - HM11 | Vendor number appears as 2026202601; company code HM11; reconciliation account 1002; sort key 001; address shown as Harpy Street 512, Chennai 600018, India |
 | Analog Devices Ltd | Foreign Vendor - HM12 | Named as the foreign-vendor example; the text does not provide a complete set of values |
 
-Source: SRC-01, PDF pages 60-61. Do not publish supplier contact details beyond what is necessary for a portfolio example.
+Source: SRC-01, PDF pages 60-61.
 
 ### Customer examples in the implementation report
 
@@ -137,7 +137,7 @@ Source: [SRC-01 PDF p.72](../source-documents/SAP%20FICO%20IMPLEMENTATION%20PROJ
 | Target Chart of Depreciation | HM11 |
 | Description | Chart of Depreciation - HM11 |
 
-The screenshot shows HM11 selected in the Chart of Depreciation list and a copy operation from reference chart OIN to target chart HM11. Source: [SRC-01 PDF p.85](../source-documents/SAP%20FICO%20IMPLEMENTATION%20PROJECT%20DOCUMENT%201.pdf#page=85). The screenshot does not provide a clear country value or a complete list of retained depreciation areas; verify these in the target system.
+The screenshot shows HM11 selected in the Chart of Depreciation list and a copy operation from reference chart OIN to target chart HM11. Source: [SRC-01 PDF p.85](../source-documents/SAP%20FICO%20IMPLEMENTATION%20PROJECT%20DOCUMENT%201.pdf#page=85).
 
 ### Depreciation Area
 
@@ -170,7 +170,7 @@ The same screenshot shows **All Values Allowed** for Acquisition Value, Net Book
 | Class | 0 - No assignment |
 | Acquisition allowed in capitalization year | No |
 
-The screenshot also shows Multiple Shift as "Increase in depreciation and expired useful life", Scrap Value as "0 - Consideration is controlled by custom value key", and Shutdown as "No". Source: [SRC-01 PDF p.94](../source-documents/SAP%20FICO%20IMPLEMENTATION%20PROJECT%20DOCUMENT%201.pdf#page=94). Since the status is shown as Inactive, verify the intended active status before using the key.
+The screenshot also shows Multiple Shift as "Increase in depreciation and expired useful life", Scrap Value as "0 - Consideration is controlled by custom value key", and Shutdown as "No". Source: [SRC-01 PDF p.94](../source-documents/SAP%20FICO%20IMPLEMENTATION%20PROJECT%20DOCUMENT%201.pdf#page=94).
 
 ### Account Determination Examples
 
@@ -233,7 +233,7 @@ Source: [SRC-01 PDF p.112](../source-documents/SAP%20FICO%20IMPLEMENTATION%20PRO
 | Cost Centre | HM11-1 | Production | Controlling Area HM11; validity 01.04.2026 to 31.12.9999; category 1 (Production); hierarchy area HM11-1; Business Area HM21; currency INR; Profit Centre HM11 | [SRC-01 PDF p.117](../source-documents/SAP%20FICO%20IMPLEMENTATION%20PROJECT%20DOCUMENT%201.pdf#page=117) |
 | Cost Centre | HM11-2 | Marketing | Controlling Area HM11; validity 01.04.2026 to 31.12.9999; category P (Marketing); hierarchy area HM11-1; Business Area HM21; currency INR; Profit Centre HM12 | [SRC-01 PDF p.118](../source-documents/SAP%20FICO%20IMPLEMENTATION%20PROJECT%20DOCUMENT%201.pdf#page=118) |
 
-The Cost Centre screenshots show Functional Area HM11 with the description Manufacturing for both examples. Preserve this source value as shown, but validate the intended functional-area assignment before implementation.
+The Cost Centre screenshots show Functional Area HM11 with the description Manufacturing for both examples.
 
 ## 9. Source-to-Portfolio Page Map
 
