@@ -41,12 +41,6 @@ The source describes this control as restricting use of a G/L account within a s
 
 **Source PDF screenshot pages:** 32 in *SAP FICO BUSINESS PROCESSES (1).pdf*. See the [Screenshot Page Index](../../00-Project-Overview/Screenshot-Page-Index.md).
 
-`05-Block-GL-Company-Code-Level.png`.
-
-## 8. Implementation Notes
-
-Do not confuse a company code-level block with a Chart of Accounts-level block. Record the exact block scope shown in the SAP system.
-
-## 9. Source Note
+## 8. Source Note
 
 Business Processes document, Process 5, pages 31–32.
