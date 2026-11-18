@@ -40,12 +40,6 @@ The source describes this activity as restoring the ability to use a previously 
 
 **Source PDF screenshot pages:** 33 in *SAP FICO BUSINESS PROCESSES (1).pdf*. See the [Screenshot Page Index](../../00-Project-Overview/Screenshot-Page-Index.md).
 
-`06-Unblock-GL-Company-Code-Level.png`.
-
-## 8. Implementation Notes
-
-Cross-reference Process 5. Capture the company code and G/L account details only if safe for public disclosure.
-
-## 9. Source Note
+## 8. Source Note
 
 Business Processes document, Process 6, pages 33–34.
