@@ -18,6 +18,7 @@ A structured SAP FICO portfolio documenting implementation configuration, master
 |---|---|
 | [00 – Project Overview](00-Project-Overview/README.md) | Project summary, scope, requirements, roadmap, and source PDF reference |
 | [Source Documents](source-documents/README.md) | Direct links to both original PDFs and the page map across all implementation phases and business processes |
+| [Implementation PDF Page Index](00-Project-Overview/Implementation-PDF-Page-Index.md) | Clickable page-by-page navigation for the 155-page implementation report |
 | [01 – Enterprise Structure](01-Enterprise-Structure/README.md) | Organizational units and assignments |
 | [02 – Global Settings](02-Global-Settings/README.md) | Financial accounting controls and periods |
 | [03 – General Ledger](03-General-Ledger/README.md) | G/L configuration, master data, and processes |
