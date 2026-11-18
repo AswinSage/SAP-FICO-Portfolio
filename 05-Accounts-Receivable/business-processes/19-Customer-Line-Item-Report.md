@@ -16,7 +16,7 @@ The source describes the Customer Line-item Report as displaying invoices, incom
 
 ## 4. Prerequisites
 
-- Configuration required: Nil, according to the source.
+- Configuration required: None.
 - Master data required: Customer Master Data (`XD01`).
 - Report stated in source: `FBL5N`.
 
@@ -44,7 +44,6 @@ The source describes the Customer Line-item Report as displaying invoices, incom
 
 ## 8. Implementation Notes
 
-The source's final report list includes `FS00` next to the G/L Line-item Report label. This appears inconsistent with the report transaction reference used elsewhere in the same document (`FBL3N)). Verify the actual report transaction from the project evidence before publishing it as the G/L report code.
 
 ## 9. Source Note
 
