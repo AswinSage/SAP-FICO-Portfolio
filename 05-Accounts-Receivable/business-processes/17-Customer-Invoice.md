@@ -54,7 +54,9 @@ The source example is a service invoice to Unisoft Infotech Pvt Ltd.
 
 ## 7. Evidence
 
-Suggested evidence: `17-Customer-Service-Invoice.png`, plus customer and G/L line-item reports.
+**Source PDF screenshot pages:** 62-65 in *SAP FICO BUSINESS PROCESSES (1).pdf*. See the [Screenshot Page Index](../../00-Project-Overview/Screenshot-Page-Index.md).
+
+`17-Customer-Service-Invoice.png`, plus customer and G/L line-item reports.
 
 ## 8. Implementation Notes
 
