@@ -61,7 +61,6 @@ The source identifies the Sub-Asset example on pages 151–152. The extracted te
 - Company code, asset class inheritance or assignment, and depreciation terms are consistent with the main asset and configured rules.
 - Main asset and sub-asset can be displayed as related records.
 
-The detailed sub-asset procedure is not inferred beyond the visible source scope.
 
 ## Preconditions
 
