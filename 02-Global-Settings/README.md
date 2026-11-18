@@ -25,3 +25,8 @@ Global Settings establish key financial accounting controls used by company code
 
 ## 4. Source Note
 Implementation project document, Phase 2, sections 2.1–2.4.1.
+
+## Source PDF References
+
+- **SRC-01 – Implementation Project Document:** Phase 2, Global Settings, pages 19–28.
+- Central index: [Source Documents](../source-documents/README.md).
