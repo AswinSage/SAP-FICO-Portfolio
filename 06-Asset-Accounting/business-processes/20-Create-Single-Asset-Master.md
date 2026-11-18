@@ -56,7 +56,6 @@ The implementation report (SRC-01) separately shows a Printout Machine asset mas
 | Time-dependent validity | 01.01.1900 to 31.12.9999 |
 | Cost Centre | No value visible |
 
-These are two different source examples; do not treat the Xerox Machine process scenario and Printout Machine master screenshot as the same record. Verify the asset number and organizational assignments in the target SAP system.
 
 ## 6. Validation and Reporting
 
