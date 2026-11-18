@@ -34,7 +34,5 @@ Organize the Accounts Payable configuration activities documented in Phase 4 of 
 - [ ] Vendor reconciliation account is created.
 - [ ] Vendor master data is created and verified.
 
-## 5. Source Notes
-The implementation document's Vendor Account Group to Number Range assignment section contains a navigation path referring to Customer Accounts / Customer Master Data, despite the activity being vendor-specific. Preserve this as a source-document inconsistency and verify the actual vendor configuration path in the SAP system before treating it as validated.
 
 Source: Implementation project document, Phase 4, sections 4.1–4.6.
