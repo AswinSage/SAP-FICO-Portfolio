@@ -18,17 +18,17 @@ Phase 8 validates the SAP FICO master-data records and accounting transactions e
 
 | Phase 8 section | Scenario | Source screenshot pages | Scenario document |
 |---|---|---:|---|
-| 8.1 | G/L Master Data | 127–129 | [G/L Master Data](test-scenarios/01-GL-Master-Data.md) |
-| 8.2 | G/L Posting – F-02 / FB50 | 131–132 | [G/L Posting](test-scenarios/02-GL-Posting.md) |
-| 8.3 | Document Reversal | 134 | [Document Reversal](test-scenarios/03-Document-Reversal.md) |
-| 8.4 | Vendor Invoice | 136–138 | [Vendor Invoice](test-scenarios/04-Vendor-Invoice.md) |
-| 8.5 | Vendor Payment | 140–141 | [Vendor Payment](test-scenarios/05-Vendor-Payment.md) |
-| 8.6 | Customer Invoice | 143 | [Customer Invoice](test-scenarios/06-Customer-Invoice.md) |
-| 8.7 | Customer Payment | 145 | [Customer Payment](test-scenarios/07-Customer-Payment.md) |
-| 8.8 | Asset Master Data – Single, Group and Sub-Asset | 147–152 | [Asset Master Data](test-scenarios/08-Asset-Master-Data.md) |
-| 8.9 | Asset Acquisition – F-90 | 154 | [Asset Acquisition](test-scenarios/09-Asset-Acquisition.md) |
+| 8.1 | G/L Master Data | [127](../source-documents/SAP%20FICO%20IMPLEMENTATION%20PROJECT%20DOCUMENT%201.pdf#page=127)–[129](../source-documents/SAP%20FICO%20IMPLEMENTATION%20PROJECT%20DOCUMENT%201.pdf#page=129) | [G/L Master Data](test-scenarios/01-GL-Master-Data.md) |
+| 8.2 | G/L Posting – F-02 / FB50 | [131](../source-documents/SAP%20FICO%20IMPLEMENTATION%20PROJECT%20DOCUMENT%201.pdf#page=131)–[132](../source-documents/SAP%20FICO%20IMPLEMENTATION%20PROJECT%20DOCUMENT%201.pdf#page=132) | [G/L Posting](test-scenarios/02-GL-Posting.md) |
+| 8.3 | Document Reversal | [134](../source-documents/SAP%20FICO%20IMPLEMENTATION%20PROJECT%20DOCUMENT%201.pdf#page=134) | [Document Reversal](test-scenarios/03-Document-Reversal.md) |
+| 8.4 | Vendor Invoice | [136](../source-documents/SAP%20FICO%20IMPLEMENTATION%20PROJECT%20DOCUMENT%201.pdf#page=136)–[138](../source-documents/SAP%20FICO%20IMPLEMENTATION%20PROJECT%20DOCUMENT%201.pdf#page=138) | [Vendor Invoice](test-scenarios/04-Vendor-Invoice.md) |
+| 8.5 | Vendor Payment | [140](../source-documents/SAP%20FICO%20IMPLEMENTATION%20PROJECT%20DOCUMENT%201.pdf#page=140)–[141](../source-documents/SAP%20FICO%20IMPLEMENTATION%20PROJECT%20DOCUMENT%201.pdf#page=141) | [Vendor Payment](test-scenarios/05-Vendor-Payment.md) |
+| 8.6 | Customer Invoice | [143](../source-documents/SAP%20FICO%20IMPLEMENTATION%20PROJECT%20DOCUMENT%201.pdf#page=143) | [Customer Invoice](test-scenarios/06-Customer-Invoice.md) |
+| 8.7 | Customer Payment | [145](../source-documents/SAP%20FICO%20IMPLEMENTATION%20PROJECT%20DOCUMENT%201.pdf#page=145) | [Customer Payment](test-scenarios/07-Customer-Payment.md) |
+| 8.8 | Asset Master Data – Single, Group and Sub-Asset | [147](../source-documents/SAP%20FICO%20IMPLEMENTATION%20PROJECT%20DOCUMENT%201.pdf#page=147)–[152](../source-documents/SAP%20FICO%20IMPLEMENTATION%20PROJECT%20DOCUMENT%201.pdf#page=152) | [Asset Master Data](test-scenarios/08-Asset-Master-Data.md) |
+| 8.9 | Asset Acquisition – F-90 | [154](../source-documents/SAP%20FICO%20IMPLEMENTATION%20PROJECT%20DOCUMENT%201.pdf#page=154) | [Asset Acquisition](test-scenarios/09-Asset-Acquisition.md) |
 
-Procedure pages are 126, 130, 133, 135, 139, 142, 144, 146 and 153 respectively. Source page references refer to the printed page numbers in the 155-page implementation PDF.
+Procedure PDF pages: [126](../source-documents/SAP%20FICO%20IMPLEMENTATION%20PROJECT%20DOCUMENT%201.pdf#page=126), [130](../source-documents/SAP%20FICO%20IMPLEMENTATION%20PROJECT%20DOCUMENT%201.pdf#page=130), [133](../source-documents/SAP%20FICO%20IMPLEMENTATION%20PROJECT%20DOCUMENT%201.pdf#page=133), [135](../source-documents/SAP%20FICO%20IMPLEMENTATION%20PROJECT%20DOCUMENT%201.pdf#page=135), [139](../source-documents/SAP%20FICO%20IMPLEMENTATION%20PROJECT%20DOCUMENT%201.pdf#page=139), [142](../source-documents/SAP%20FICO%20IMPLEMENTATION%20PROJECT%20DOCUMENT%201.pdf#page=142), [144](../source-documents/SAP%20FICO%20IMPLEMENTATION%20PROJECT%20DOCUMENT%201.pdf#page=144), [146](../source-documents/SAP%20FICO%20IMPLEMENTATION%20PROJECT%20DOCUMENT%201.pdf#page=146), [153](../source-documents/SAP%20FICO%20IMPLEMENTATION%20PROJECT%20DOCUMENT%201.pdf#page=153). Source page references refer to the printed page numbers in the 155-page implementation PDF.
 
 ## Related Business Process Coverage
 
