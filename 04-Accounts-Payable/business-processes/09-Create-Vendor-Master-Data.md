@@ -50,6 +50,8 @@ The source examples include BE Solution Pvt Ltd and Sun IT Solutions. Use these 
 
 ## 7. Evidence
 
+**Source PDF screenshot pages:** 40-42 in [SAP FICO BUSINESS PROCESSES (1).pdf](../../../../SAP%20FICO%20BUSINESS%20PROCESSES%20(1).pdf). See the [Screenshot Page Index](../../../00-Project-Overview/Screenshot-Page-Index.md) for the process-wise page map.
+
 Suggested evidence: `09-Create-Vendor-Master.png`.
 
 ## 8. Implementation Notes
