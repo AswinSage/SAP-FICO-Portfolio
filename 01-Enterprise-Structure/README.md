@@ -48,10 +48,7 @@ The source implementation report identifies the following activities:
 - [ ] Relationships match the project design.
 - [ ] Screenshots or configuration evidence are attached.
 
-## 6. Source-Document Verification
-The source document's Segment procedure refers to Functional Area fields. This is flagged in the corresponding configuration file and must be checked against the actual SAP system.
-
-## 7. Source Note
+## 6. Source Note
 Implementation project document, Phase 1, sections 1.1–1.8.
 
 ## Source PDF References
