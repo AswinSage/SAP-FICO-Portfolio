@@ -33,7 +33,6 @@ The assignment establishes the relationship between the accounting entity and th
 |---|---|
 | Company Code | HM11 is defined in SRC-01, PDF page 4 |
 | Company | Hindustan Motors Ltd (Company ID HM11) is defined in SRC-01, PDF page 2 |
-| Assignment result | The PDF describes the assignment procedure but does not show a saved assignment result. Verify the HM11-to-HM11 relationship in the target SAP system. |
 
 ## 6. Validation
 
