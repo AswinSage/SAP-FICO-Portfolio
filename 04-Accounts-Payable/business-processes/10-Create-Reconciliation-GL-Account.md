@@ -54,7 +54,9 @@ The source illustrates Sundry Debtors and Sundry Creditors reconciliation accoun
 
 ## 7. Evidence
 
-Suggested evidence: `10-Create-Reconciliation-GL-Debtors.png` and `10-Create-Reconciliation-GL-Creditors.png`.
+**Source PDF screenshot pages:** 44-46 in *SAP FICO BUSINESS PROCESSES (1).pdf*. See the [Screenshot Page Index](../../00-Project-Overview/Screenshot-Page-Index.md).
+
+`10-Create-Reconciliation-GL-Debtors.png` and `10-Create-Reconciliation-GL-Creditors.png`.
 
 ## 8. Implementation Notes
 
