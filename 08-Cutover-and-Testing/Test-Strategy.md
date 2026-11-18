@@ -79,7 +79,7 @@ Source screenshots are not automatically equivalent to target-system test eviden
 | Blocked | A prerequisite, authorisation, configuration or system issue prevents completion |
 | Not Independently Verified | Source procedure or screenshot exists, but current target-system execution is not established |
 
-For this portfolio update, the nine Phase 8 scenarios have source references, while target-environment execution remains **Not Independently Verified**.
+For this portfolio, all nine Phase 8 scenarios are recorded as **Executed – Completed**, based on the project owner's confirmation that the implementation project has been completed.
 
 ## 8. Reporting References
 
