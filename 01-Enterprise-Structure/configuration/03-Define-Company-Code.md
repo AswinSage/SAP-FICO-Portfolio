@@ -29,13 +29,18 @@ The company code is the organizational level at which the project maintains fina
 
 ## 5. Project Configuration Values
 
-| Field | Project value | Notes |
+| Field | Value visible in SRC-01 | Source |
 |---|---|---|
-| Company Code | To be entered from project evidence | Do not invent |
-| Company Code Name | To be entered from project evidence | Use approved project wording |
-| Country / region | To be entered from project evidence | Verify against system |
-| Currency | To be entered from project evidence | Verify against system |
-| Additional attributes | As shown in SAP evidence | Include only relevant fields |
+| Company Code | HM11 | PDF page 4 |
+| Company Code Name | Hindustan Motors Ltd | PDF page 4 |
+| City | Chennai | PDF page 4 |
+| Country / Region | IN / 22 | PDF page 4 |
+| Currency | INR | PDF page 4 |
+| Language | EN | PDF page 4 |
+| Street / House number | Ferry Street / 122 | PDF page 4 |
+| Postal Code / PO Box | 600122 / 600122 | PDF page 4 |
+
+These values are transcribed from the project report screenshot and are not a substitute for checking the target SAP configuration.
 
 ## 6. Validation
 
