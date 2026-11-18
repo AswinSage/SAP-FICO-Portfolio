@@ -16,6 +16,11 @@
 
 Validate an external asset acquisition from a vendor, including capitalisation of asset cost, vendor liability recognition, and the resulting Asset Accounting and General Ledger updates.
 
+## Direct PDF Page Links
+
+- **Procedure:** [PDF p.153](https://github.com/AswinSage/SAP-FICO-Portfolio/blob/main/source-documents/SAP%20FICO%20IMPLEMENTATION%20PROJECT%20DOCUMENT%201.pdf#page=153)
+- **Screenshots:** [PDF p.154](https://github.com/AswinSage/SAP-FICO-Portfolio/blob/main/source-documents/SAP%20FICO%20IMPLEMENTATION%20PROJECT%20DOCUMENT%201.pdf#page=154)
+
 ## Source Procedure
 
 1. Enter Document Date and Posting Date.
