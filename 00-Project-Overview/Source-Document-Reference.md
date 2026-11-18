@@ -127,7 +127,34 @@ A domestic customer reconciliation G/L example is visible as follows:
 
 Source: SRC-01, PDF page 72.
 
-## 7. Controlling Snapshot
+## 7. Asset Accounting Snapshot
+
+### Chart of Depreciation
+
+| Field | Value visible in source |
+|---|---|
+| Reference Chart of Depreciation | OIN |
+| Target Chart of Depreciation | HM11 |
+| Description | Chart of Depreciation - HM11 |
+
+The screenshot shows HM11 selected in the Chart of Depreciation list and a copy operation from reference chart OIN to target chart HM11. Source: SRC-01, PDF page 85. The screenshot does not provide a clear country value or a complete list of retained depreciation areas; verify these in the target system.
+
+### Depreciation Area
+
+| Field | Value visible in source |
+|---|---|
+| Chart of Depreciation | HM11 - Chart of Depreciation - HM11 |
+| Depreciation Area | 1 |
+| Description | Book depreciation |
+| Real Depreciation Area | Selected |
+| Posting in G/L | 1 - Area Posts in Realtime |
+| Target Ledger Group | Not entered / not visible |
+| Alternative Depreciation Area | Not entered / not visible |
+| Cross-system Depreciation Area | Not entered / not visible |
+
+The same screenshot shows **All Values Allowed** for Acquisition Value, Net Book Value, Investment Grants, Revaluation, Ordinary Depreciation, Special Depreciation, Unplanned Depreciation, Transfer of Reserves, Interest, and Revaluation Ordinary Depreciation. Source: SRC-01, PDF page 87. These are source-visible values, not confirmation of the current target system's configuration.
+
+## 8. Controlling Snapshot
 
 ### Controlling Area
 
@@ -159,7 +186,7 @@ Source: SRC-01, PDF page 112.
 
 The Cost Centre screenshots show Functional Area HM11 with the description Manufacturing for both examples. Preserve this source value as shown, but validate the intended functional-area assignment before implementation.
 
-## 8. Source-to-Portfolio Page Map
+## 9. Source-to-Portfolio Page Map
 
 ### SRC-01: Implementation report
 
@@ -184,7 +211,7 @@ The Cost Centre screenshots show Functional Area HM11 with the description Manuf
 | 20-22 | Asset Accounting | 70-80 | [Asset business processes](../06-Asset-Accounting/business-processes/README.md) |
 | 23-27 | Controlling | 81-92 | [CO business processes](../07-Controlling/business-processes/README.md) |
 
-## 9. Source Differences and Items to Verify
+## 10. Source Differences and Items to Verify
 
 The source reports are not perfectly consistent. These points are intentionally preserved rather than silently reconciled.
 
@@ -198,7 +225,7 @@ The source reports are not perfectly consistent. These points are intentionally 
 8. **Profit Centre prerequisite:** SRC-02 Process 27 lists Internal Order under Configuration Needed for Profit Centre creation. Confirm whether this is a project-specific dependency or a source-document error.
 9. **Classic SAP GUI navigation:** The PDFs show classic SAP GUI procedures and transaction references. They do not establish that every screen or step was executed and verified in SAP S/4HANA Private Cloud 2025 or newer.
 
-## 10. Evidence and Publication Rules
+## 11. Evidence and Publication Rules
 
 - Treat these values as **source-report examples**, not as automatically approved production configuration.
 - Revalidate identifiers, account assignments, validity dates, and financial settings in the target SAP tenant before implementation.
