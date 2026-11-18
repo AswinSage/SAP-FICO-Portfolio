@@ -51,12 +51,6 @@ The source includes examples for Cash, Sundry Debtors, Furniture, Plant & Machin
 
 **Source PDF screenshot pages:** 2-25 in *SAP FICO BUSINESS PROCESSES (1).pdf*. See the [Screenshot Page Index](../../00-Project-Overview/Screenshot-Page-Index.md).
 
-`01-Create-GL-Master-Data.png` and redacted account display screenshots.
-
-## 8. Implementation Notes
-
-Record actual G/L numbers, descriptions, account groups, and account types from the project system. Do not publish confidential account information.
-
-## 9. Source Note
+## 8. Source Note
 
 Business Processes document, Process 1, pages 1–25. The source names `FS00` for G/L master creation.
