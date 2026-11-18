@@ -34,7 +34,7 @@ See [Source Document Reference](00-Project-Overview/Source-Document-Reference.md
 
 ## Screenshot Page Index
 
-[Open the process-wise screenshot page index](00-Project-Overview/Screenshot-Page-Index.md) for PDF page references covering all 27 business processes.
+[Open the clickable screenshot page index](00-Project-Overview/Screenshot-Page-Index.md) to jump from each of the 27 business processes directly to its screenshot pages in the original PDF.
 
 ## About Me
 
