@@ -56,5 +56,5 @@ Implementation project document, Phase 1, sections 1.1–1.8.
 
 ## Source PDF References
 
-- **[SRC-01 – Implementation Project Document](../source-documents/SAP%20FICO%20IMPLEMENTATION%20PROJECT%20DOCUMENT%201.pdf):** Phase 1, Enterprise Structure, pages 1–18.
+- **[SRC-01 – Implementation Project Document](../source-documents/SAP%20FICO%20IMPLEMENTATION%20PROJECT%20DOCUMENT%201.pdf):** Phase 1, Enterprise Structure, [pages 1–18](../source-documents/SAP%20FICO%20IMPLEMENTATION%20PROJECT%20DOCUMENT%201.pdf#page=1).
 - Central index: [Source Documents](../source-documents/README.md).
