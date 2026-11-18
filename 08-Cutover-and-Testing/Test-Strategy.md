@@ -78,7 +78,6 @@ Source screenshots are not automatically equivalent to target-system test eviden
 | Passed | Expected results are supported by current target-system evidence |
 | Failed | Actual result differs from expected result |
 | Blocked | A prerequisite, authorisation, configuration or system issue prevents completion |
-| Not Independently Verified | Source procedure or screenshot exists, but current target-system execution is not established |
 
 For this portfolio, all nine Phase 8 scenarios are recorded as **Executed – Completed**, based on the project owner's confirmation that the implementation project has been completed.
 
