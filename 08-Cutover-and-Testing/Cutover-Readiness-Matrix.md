@@ -8,15 +8,15 @@ This matrix records the cutover-related control areas represented by Phase 8 of 
 
 | Control area | Readiness objective | Source coverage | Target-environment status |
 |---|---|---|---|
-| G/L master data | Required Balance Sheet and P&L accounts exist with the correct organisational and control data | Phase 8.1, pages 126–129 | Executed – Completed |
-| G/L posting | Direct and indirect postings balance and update the intended accounts | Phase 8.2, pages 130–132 | Executed – Completed |
-| Reversal | Reversal document offsets the original posting and preserves traceability | Phase 8.3, pages 133–134 | Executed – Completed |
-| Vendor invoice | Vendor liability and expense / asset accounting entries are recorded | Phase 8.4, pages 135–138 | Executed – Completed |
-| Vendor payment | Payment is assigned to vendor open item and clearing is correct | Phase 8.5, pages 139–141 | Executed – Completed |
-| Customer invoice | Customer receivable and revenue accounting entries are recorded | Phase 8.6, pages 142–143 | Executed – Completed |
-| Customer payment | Incoming payment is assigned to customer open item and clearing is correct | Phase 8.7, pages 144–145 | Executed – Completed |
-| Asset master | Single, group and sub-asset master records contain valid organisational and depreciation data | Phase 8.8, pages 146–152 | Executed – Completed |
-| Asset acquisition | External asset acquisition updates asset value, vendor liability and G/L | Phase 8.9, pages 153–155 | Executed – Completed |
+| G/L master data | Required Balance Sheet and P&L accounts exist with the correct organisational and control data | Phase 8.1, [pages 126–129](../source-documents/SAP%20FICO%20IMPLEMENTATION%20PROJECT%20DOCUMENT%201.pdf#page=126) | Executed – Completed |
+| G/L posting | Direct and indirect postings balance and update the intended accounts | Phase 8.2, [pages 130–132](../source-documents/SAP%20FICO%20IMPLEMENTATION%20PROJECT%20DOCUMENT%201.pdf#page=130) | Executed – Completed |
+| Reversal | Reversal document offsets the original posting and preserves traceability | Phase 8.3, [pages 133–134](../source-documents/SAP%20FICO%20IMPLEMENTATION%20PROJECT%20DOCUMENT%201.pdf#page=133) | Executed – Completed |
+| Vendor invoice | Vendor liability and expense / asset accounting entries are recorded | Phase 8.4, [pages 135–138](../source-documents/SAP%20FICO%20IMPLEMENTATION%20PROJECT%20DOCUMENT%201.pdf#page=135) | Executed – Completed |
+| Vendor payment | Payment is assigned to vendor open item and clearing is correct | Phase 8.5, [pages 139–141](../source-documents/SAP%20FICO%20IMPLEMENTATION%20PROJECT%20DOCUMENT%201.pdf#page=139) | Executed – Completed |
+| Customer invoice | Customer receivable and revenue accounting entries are recorded | Phase 8.6, [pages 142–143](../source-documents/SAP%20FICO%20IMPLEMENTATION%20PROJECT%20DOCUMENT%201.pdf#page=142) | Executed – Completed |
+| Customer payment | Incoming payment is assigned to customer open item and clearing is correct | Phase 8.7, [pages 144–145](../source-documents/SAP%20FICO%20IMPLEMENTATION%20PROJECT%20DOCUMENT%201.pdf#page=144) | Executed – Completed |
+| Asset master | Single, group and sub-asset master records contain valid organisational and depreciation data | Phase 8.8, [pages 146–152](../source-documents/SAP%20FICO%20IMPLEMENTATION%20PROJECT%20DOCUMENT%201.pdf#page=146) | Executed – Completed |
+| Asset acquisition | External asset acquisition updates asset value, vendor liability and G/L | Phase 8.9, [pages 153–155](../source-documents/SAP%20FICO%20IMPLEMENTATION%20PROJECT%20DOCUMENT%201.pdf#page=153) | Executed – Completed |
 
 ## 3. Financial Reconciliation Controls
 
