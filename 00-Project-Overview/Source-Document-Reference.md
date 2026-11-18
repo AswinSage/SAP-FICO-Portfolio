@@ -154,6 +154,55 @@ The screenshot shows HM11 selected in the Chart of Depreciation list and a copy 
 
 The same screenshot shows **All Values Allowed** for Acquisition Value, Net Book Value, Investment Grants, Revaluation, Ordinary Depreciation, Special Depreciation, Unplanned Depreciation, Transfer of Reserves, Interest, and Revaluation Ordinary Depreciation. Source: SRC-01, PDF page 87. These are source-visible values, not confirmation of the current target system's configuration.
 
+### Depreciation Key
+
+| Field | Value visible in source |
+|---|---|
+| Chart of Depreciation | HM11 |
+| Depreciation Key | HM11 |
+| Status | Inactive |
+| Depreciation Type | N - Ordinary depreciation |
+| Phase | 1 - From the start of depreciation |
+| Base Method | 001 |
+| Declining-Balance Method | 001 |
+| Period Control Method | 001 |
+| Multilevel Method | 001 |
+| Class | 0 - No assignment |
+| Acquisition allowed in capitalization year | No |
+
+The screenshot also shows Multiple Shift as "Increase in depreciation and expired useful life", Scrap Value as "0 - Consideration is controlled by custom value key", and Shutdown as "No". Source: SRC-01, PDF page 94. Since the status is shown as Inactive, verify the intended active status before using the key.
+
+### Account Determination Examples
+
+The screenshot shows Chart of Depreciation HM11 and Chart of Accounts HM11. The first clearly legible Account Determination entries are:
+
+| Account Determination Key | Description |
+|---|---|
+| HM11 | Machine |
+| HM12 | Building |
+| HM13 | Vehicle |
+
+Source: SRC-01, PDF page 99. The screenshot contains additional entries, but only these first three are included here as clearly legible examples.
+
+### Asset Master Example
+
+The implementation report shows a Printout Machine master record:
+
+| Field | Value visible in source |
+|---|---|
+| Asset / subnumber | 2 / 0 |
+| Asset Class | HM11 |
+| Description | Printout Machine |
+| Asset Class description | Machine |
+| Company Code | HM11 |
+| Account Determination | HM11 - Machine |
+| Business Area | HM21 |
+| Location shown | Chennai |
+| Time-dependent validity | 01.01.1900 to 31.12.9999 |
+| Cost Centre | No value visible |
+
+Source: SRC-01, PDF page 107. The second PDF has a separate Xerox Machine process example; it should not be confused with this Printout Machine master record.
+
 ## 8. Controlling Snapshot
 
 ### Controlling Area
