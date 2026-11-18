@@ -9,7 +9,7 @@
 | Source procedure page | 146 |
 | Source screenshot pages | 147–152 |
 | Scenario category | Asset master-data validation |
-| Execution status | Executed – Completed (project completion confirmed by project owner) |
+| Execution status | Executed – Completed |
 
 ## Objective
 
