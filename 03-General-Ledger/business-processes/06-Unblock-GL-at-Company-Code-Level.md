@@ -38,6 +38,8 @@ The source describes this activity as restoring the ability to use a previously 
 
 ## 7. Evidence
 
+**Source PDF screenshot pages:** 33 in [SAP FICO BUSINESS PROCESSES (1).pdf](../../../../SAP%20FICO%20BUSINESS%20PROCESSES%20(1).pdf). See the [Screenshot Page Index](../../../00-Project-Overview/Screenshot-Page-Index.md) for the process-wise page map.
+
 Suggested evidence: `06-Unblock-GL-Company-Code-Level.png`.
 
 ## 8. Implementation Notes
