@@ -40,5 +40,5 @@ The [Implementation PDF Page Index](../00-Project-Overview/Implementation-PDF-Pa
 
 The [Screenshot Page Index](../00-Project-Overview/Screenshot-Page-Index.md) provides clickable PDF page links for the screenshot pages of all 27 business processes in SRC-02.
 
-The [Source Document Reference](../00-Project-Overview/Source-Document-Reference.md) records source-visible project configuration values, sample master-data values, phase page mapping, and discrepancies that require interpretation.
+The [Source Document Reference](../00-Project-Overview/Source-Document-Reference.md) records project configuration values, sample master-data values, and phase-wise page mapping.
 
