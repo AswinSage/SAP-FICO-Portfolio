@@ -6,7 +6,7 @@ This index organises the SAP screen captures in **SAP FICO BUSINESS PROCESSES (1
 
 **Page-number convention:** The numbers below are the printed page numbers shown in the 92-page PDF. They match the corresponding PDF page sequence. A page range means that relevant SAP screen captures appear across those pages; a single page can contain multiple screen captures or both a screenshot and process text.
 
-This index covers the 27 numbered processes in the Business Processes PDF. Click any linked page number to open that exact page in the original PDF. Configuration screenshots in the separate 155-page implementation project PDF are linked from the Phase 8 scenario and phase documentation.
+This index covers the 27 numbered processes in the Business Processes PDF. Click any linked page number to open that exact page in the original PDF. The separate 155-page implementation project PDF is linked by phase from each phase README and by procedure / screenshot page from the Phase 8 scenario documentation.
 
 ## Process-wise Screenshot Page Map
 
