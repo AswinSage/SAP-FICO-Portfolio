@@ -31,6 +31,10 @@ A structured SAP FICO portfolio documenting implementation configuration, master
 
 See [Source Document Reference](00-Project-Overview/Source-Document-Reference.md) for the project values transcribed from the supplied PDFs, source page references, and document inconsistencies requiring verification.
 
+## Screenshot Page Index
+
+[Open the process-wise screenshot page index](00-Project-Overview/Screenshot-Page-Index.md) for PDF page references covering all 27 business processes.
+
 ## About Me
 
 **S.N. Aswin**  
