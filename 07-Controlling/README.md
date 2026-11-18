@@ -25,3 +25,9 @@ Validate Controlling Area assignments, cost element relationships, cost object m
 
 ## 6. Source Note
 Implementation project document, Phase 7; Business Processes document, Processes 23–27.
+
+## Source PDF References
+
+- **SRC-01 – Implementation Project Document:** Phase 7, Controlling, pages 111–125.
+- **SRC-02 – Business Processes:** Processes 23–27, pages 81–92.
+- Central index: [Source Documents](../source-documents/README.md).
