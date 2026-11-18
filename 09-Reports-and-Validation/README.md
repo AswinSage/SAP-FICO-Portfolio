@@ -30,6 +30,6 @@ Compiled from the report references in the SAP FICO Business Processes document,
 
 ## Source PDF References
 
-- **SRC-01 – Implementation Project Document:** Phase-specific configuration and Phase 8 testing references, pages 1–155.
-- **SRC-02 – Business Processes:** Process-specific validation and report references, pages 1–92.
+- **[SRC-01 – Implementation Project Document](../source-documents/SAP%20FICO%20IMPLEMENTATION%20PROJECT%20DOCUMENT%201.pdf):** Phase-specific configuration and Phase 8 testing references, pages 1–155.
+- **[SRC-02 – Business Processes](../source-documents/SAP%20FICO%20BUSINESS%20PROCESSES.pdf):** Process-specific validation and report references, pages 1–92.
 - Central index: [Source Documents](../source-documents/README.md).
