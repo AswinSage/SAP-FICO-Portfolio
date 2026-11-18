@@ -16,7 +16,7 @@ The source describes the G/L Line-item Report as a report used to display transa
 
 ## 4. Prerequisites
 
-- Configuration required: Nil, according to the source.
+- Configuration required: None.
 - Master data required: G/L Master Data.
 - Report stated in source: `FBL3N`.
 
