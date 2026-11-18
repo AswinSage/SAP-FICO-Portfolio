@@ -51,7 +51,6 @@ Reports stated in source: Profit Centre Line Items (`KE5Z`); Profit Centre Actua
 Suggested: `27-Create-Profit-Centre-Custom-Product.png`.
 
 ## 8. Implementation Notes
-The source lists Internal Order under Configuration Needed. Preserve this source reference, but verify the intended dependency against the actual project design before treating it as a mandatory prerequisite.
 
 ## 9. Source Note
 Business Processes document, Process 27, pages 90–92.
