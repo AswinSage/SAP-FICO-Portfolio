@@ -9,7 +9,7 @@
 | Source procedure page | 130 |
 | Source screenshot pages | 131–132 |
 | Scenario category | Financial transaction validation |
-| Execution status | Executed – Completed (project completion confirmed by project owner) |
+| Execution status | Executed – Completed |
 
 ## Objective
 
