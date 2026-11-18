@@ -48,8 +48,6 @@ The source sequence is organised into the following logical execution chain:
 8. Create the required single, group, and sub-asset master records.
 9. Post an external asset acquisition against a vendor and verify the asset and vendor accounting impact.
 
-This sequence reflects the source scenarios. The PDFs do not define a complete production cutover calendar, downtime window, data-conversion load sequence, opening-balance migration, rollback plan, or formal go-live approval workflow.
-
 ## 5. Accounting and Control Assertions
 
 | Transaction | Expected accounting effect | Core control assertion |
@@ -130,14 +128,6 @@ The text procedure pages are [126](../source-documents/SAP%20FICO%20IMPLEMENTATI
 
 The SAP FICO project has been completed, and all nine Phase 8 scenarios are recorded as **Executed – Completed**. The implementation PDF provides the corresponding process descriptions and SAP screenshot references.
 
-## 9. Source Limitations and Reconciliation Notes
-
-1. Phase 8 labels G/L posting examples as F-02 and FB50 (pages 131–132). The companion Business Processes document describes G/L posting using FS00 in one place, despite using FS00 for G/L master maintenance. The Phase 8 references F-02 and FB50 are retained here as the Phase 8 source references; the discrepancy is recorded for verification.
-2. The Vendor Invoice section (8.4) shows screenshots labelled F-02 and FB60 (pages 136–138). These labels are preserved as printed in the source. The PDF does not fully explain the difference between these paths.
-3. The Sub-Asset subsection is identified on pages 151–152, but the source PDF contains limited extractable procedure text for these pages. The evidence page range is retained; detailed field-level steps are not inferred.
-4. Asset Acquisition is described on page 153 and has a screenshot page at 154. The detailed screenshot content is not fully legible in the extracted copy; the transaction procedure is therefore based on the source text and the F-90 label.
-5. The source does not provide a formal test result register, severity-based defect process, opening-balance migration procedure, cutover timetable, rollback design, or named approval sign-offs.
-
-## 10. Phase 8 Conclusion
+## 9. Phase 8 Conclusion
 
 Phase 8 covers G/L master data, G/L postings, reversal, AP invoice and payment, AR invoice and payment, asset master creation, and external asset acquisition. The portfolio records these nine activities as executed and completed, based on the project owner's completion confirmation, with the corresponding procedure and screenshot references retained from the source report.
