@@ -52,12 +52,6 @@ The source illustrates Rent Paid and Telephone Charges Paid postings.
 
 **Source PDF screenshot pages:** 27 in *SAP FICO BUSINESS PROCESSES (1).pdf*. See the [Screenshot Page Index](../../00-Project-Overview/Screenshot-Page-Index.md).
 
-`02-Direct-GL-Posting-Rent.png`, `02-Direct-GL-Posting-Telephone.png`, and relevant redacted report output.
-
-## 8. Implementation Notes
-
-Record the actual transaction code used, document type, posting date, G/L accounts, and validation result. Do not copy the source's `FS00` posting reference without checking the project evidence.
-
-## 9. Source Note
+## 8. Source Note
 
 Business Processes document, Process 2, pages 26–27. The source lists the prerequisite configuration and examples of rent and telephone postings.
