@@ -35,7 +35,7 @@ Reports stated in source: `AW01N`, `AR01`, `S_ALR_87011964`, `S_ALR_87011990`.
 
 ## 7. Evidence
 
-**Source PDF screenshot pages:** 77-80 in *SAP FICO BUSINESS PROCESSES (1).pdf*. See the [Screenshot Page Index](../../00-Project-Overview/Screenshot-Page-Index.md).
+**Source PDF screenshot pages:** [PDF p.77](https://github.com/AswinSage/SAP-FICO-Portfolio/blob/main/source-documents/SAP%20FICO%20BUSINESS%20PROCESSES.pdf#page=77) · [PDF p.78](https://github.com/AswinSage/SAP-FICO-Portfolio/blob/main/source-documents/SAP%20FICO%20BUSINESS%20PROCESSES.pdf#page=78) · [PDF p.79](https://github.com/AswinSage/SAP-FICO-Portfolio/blob/main/source-documents/SAP%20FICO%20BUSINESS%20PROCESSES.pdf#page=79) · [PDF p.80](https://github.com/AswinSage/SAP-FICO-Portfolio/blob/main/source-documents/SAP%20FICO%20BUSINESS%20PROCESSES.pdf#page=80). See the [Screenshot Page Index](../../00-Project-Overview/Screenshot-Page-Index.md).
 Suggested: `22-Create-Sub-Asset-Keyboard.png`, `22-Create-Sub-Asset-Mouse.png`.
 
 ## 8. Implementation Notes
