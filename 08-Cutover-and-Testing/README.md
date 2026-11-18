@@ -49,6 +49,6 @@ The source report calls this phase “Cutover Activities – Testing” but desc
 
 ## Source PDF References
 
-- **SRC-01 – Implementation Project Document:** Phase 8, Cutover Activities – Testing, pages 126–155.
-- Related **SRC-02 – Business Processes:** G/L Processes 1–8 (pages 1–38), AP Processes 9–13 (pages 39–53), AR Processes 14–19 (pages 54–69), Asset Accounting Processes 20–22 (pages 70–80), and CO Processes 23–27 (pages 81–92).
+- **[SRC-01 – Implementation Project Document](../source-documents/SAP%20FICO%20IMPLEMENTATION%20PROJECT%20DOCUMENT%201.pdf):** Phase 8, Cutover Activities – Testing, pages 126–155.
+- Related **[SRC-02 – Business Processes](../source-documents/SAP%20FICO%20BUSINESS%20PROCESSES.pdf):** G/L Processes 1–8 (pages 1–38), AP Processes 9–13 (pages 39–53), AR Processes 14–19 (pages 54–69), Asset Accounting Processes 20–22 (pages 70–80), and CO Processes 23–27 (pages 81–92).
 - Central index: [Source Documents](../source-documents/README.md).
