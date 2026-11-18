@@ -16,7 +16,7 @@ The source describes this activity as restoring the ability to use a previously 
 
 ## 4. Prerequisites
 
-- Configuration required: Nil, according to the source.
+- Configuration required: None.
 - Master data required: G/L Master Data.
 - Transaction code stated in source: `FS00`.
 
