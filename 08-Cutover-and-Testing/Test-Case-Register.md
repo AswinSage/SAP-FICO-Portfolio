@@ -1,41 +1,43 @@
-# Test Case Register
+# Phase 8 Test Case Register
 
-## 1. Purpose
-This register tracks validation scenarios across the SAP FICO portfolio. All cases begin as Not Executed until actual SAP evidence is attached.
+## 1. Register Purpose
 
-## 2. Test Register
+This register maps each Phase 8 test scenario to its source procedure, source screenshot pages, scenario specification and target-environment verification status.
 
-| Test ID | Area | Scenario | Expected result | Status |
-|---|---|---|---|---|
-| TC-GL-001 | G/L | Create/display G/L master | G/L master exists with correct company code and control data | Not Executed |
-| TC-GL-002 | G/L | Direct G/L posting | Accounting document posts and balances | Not Executed |
-| TC-GL-003 | G/L | Block G/L at Chart of Accounts level | Posting restriction is reflected at the intended level | Not Executed |
-| TC-GL-004 | G/L | Unblock G/L at Chart of Accounts level | Restriction is removed | Not Executed |
-| TC-GL-005 | G/L | Block G/L at company code level | Company-code-level restriction is reflected | Not Executed |
-| TC-GL-006 | G/L | Unblock G/L at company code level | Restriction is removed | Not Executed |
-| TC-GL-007 | G/L | Reverse rent posting | Reversal document offsets original document | Not Executed |
-| TC-GL-008 | G/L | G/L line-item report | Selected account line items are displayed | Not Executed |
-| TC-AP-001 | AP | Create vendor master | Vendor master is saved with required company code data | Not Executed |
-| TC-AP-002 | AP | Create vendor reconciliation account | Vendor reconciliation account is available for assignment | Not Executed |
-| TC-AP-003 | AP | Post vendor rent invoice | Vendor liability and expense are recorded | Not Executed |
-| TC-AP-004 | AP | Vendor partial payment | Partial payment is reflected and remaining open item is correct | Not Executed |
-| TC-AP-005 | AP | Vendor residual payment | Original item and residual open item reflect the chosen clearing method | Not Executed |
-| TC-AP-006 | AP | Vendor line-item report | Vendor postings and open/cleared status are displayed | Not Executed |
-| TC-AR-001 | AR | Create customer master | Customer master is saved with required company code data | Not Executed |
-| TC-AR-002 | AR | Block customer | Customer block is maintained at the intended level | Not Executed |
-| TC-AR-003 | AR | Unblock customer | Customer block is removed | Not Executed |
-| TC-AR-004 | AR | Post customer invoice | Customer receivable and revenue are recorded | Not Executed |
-| TC-AR-005 | AR | Customer payment | Payment and clearing status are reflected correctly | Not Executed |
-| TC-AR-006 | AR | Customer line-item report | Customer invoices, payments, and open/cleared items are displayed | Not Executed |
-| TC-AA-001 | AA | Create single asset master | Asset master is saved with required depreciation terms | Not Executed |
-| TC-AA-002 | AA | Create group of assets | Individual asset records and numbers are available | Not Executed |
-| TC-AA-003 | AA | Create sub-asset | Sub-asset is linked to the correct main asset | Not Executed |
-| TC-AA-004 | AA | Asset acquisition | Acquisition posting updates asset values and relevant G/L accounts | Not Executed |
-| TC-CO-001 | CO | Create primary cost element | Primary cost element is available with corresponding G/L account | Not Executed |
-| TC-CO-002 | CO | Create secondary cost element | Secondary cost element is available for internal allocation | Not Executed |
-| TC-CO-003 | CO | Create internal order | Internal Order is saved and can collect costs | Not Executed |
-| TC-CO-004 | CO | Create cost centre | Cost Centre is saved with intended organizational assignments | Not Executed |
-| TC-CO-005 | CO | Create profit centre | Profit Centre is saved and available for assignment | Not Executed |
+## 2. Phase 8 Scenario Register
 
-## 3. Updating the Register
-After each test, update the status and link the relevant evidence file. Do not change a test to Passed based only on a procedure document or screenshot of a configuration screen.
+| Test ID | Source section | Test scenario | Procedure page | Screenshot pages | Scenario specification | Source screenshot status | Target environment status |
+|---|---|---|---:|---:|---|---|---|
+| P8-081 | 8.1 | G/L Master Data – Balance Sheet and P&L | 126 | 127–129 | [Scenario 8.1](test-scenarios/01-GL-Master-Data.md) | Present | Not Independently Verified |
+| P8-082 | 8.2 | G/L Posting – direct F-02 and indirect FB50 | 130 | 131–132 | [Scenario 8.2](test-scenarios/02-GL-Posting.md) | Present | Not Independently Verified |
+| P8-083 | 8.3 | Document Reversal | 133 | 134 | [Scenario 8.3](test-scenarios/03-Document-Reversal.md) | Present | Not Independently Verified |
+| P8-084 | 8.4 | Vendor Invoice | 135 | 136–138 | [Scenario 8.4](test-scenarios/04-Vendor-Invoice.md) | Present | Not Independently Verified |
+| P8-085 | 8.5 | Vendor Payment | 139 | 140–141 | [Scenario 8.5](test-scenarios/05-Vendor-Payment.md) | Present | Not Independently Verified |
+| P8-086 | 8.6 | Customer Invoice | 142 | 143 | [Scenario 8.6](test-scenarios/06-Customer-Invoice.md) | Present | Not Independently Verified |
+| P8-087 | 8.7 | Customer Payment | 144 | 145 | [Scenario 8.7](test-scenarios/07-Customer-Payment.md) | Present | Not Independently Verified |
+| P8-088 | 8.8 | Asset Master – single, group and sub-asset | 146 | 147–152 | [Scenario 8.8](test-scenarios/08-Asset-Master-Data.md) | Present | Not Independently Verified |
+| P8-089 | 8.9 | External Asset Acquisition – F-90 | 153 | 154 | [Scenario 8.9](test-scenarios/09-Asset-Acquisition.md) | Present | Not Independently Verified |
+
+## 3. Business Process Cross-Reference
+
+| Phase 8 scenario | Related process in companion Business Processes PDF |
+|---|---|
+| P8-081 – G/L Master Data | Process 1 – Create G/L Master Data |
+| P8-082 – G/L Posting | Process 2 – General Ledger Direct Posting; Process 8 – G/L Line-item Report |
+| P8-083 – Reversal | Process 7 – Reversal G/L Rent Paid |
+| P8-084 – Vendor Invoice | Process 9 – Vendor Master; Process 10 – Reconciliation G/L; Process 11 – Vendor Rent Invoice |
+| P8-085 – Vendor Payment | Process 12 – Vendor Payment; Process 13 – Vendor Line-item Report |
+| P8-086 – Customer Invoice | Process 14 – Customer Master; Process 17 – Customer Invoice |
+| P8-087 – Customer Payment | Process 18 – Customer Payment; Process 19 – Customer Line-item Report |
+| P8-088 – Asset Master | Processes 20–22 – Single Asset, Group of Assets and Sub-Asset |
+| P8-089 – Asset Acquisition | Asset master Processes 20–22 and the vendor accounting dependency; no separate numbered acquisition process appears in the 27-process index |
+
+## 4. Result Interpretation
+
+**Present** in the source screenshot column means that the implementation PDF contains an image on the referenced page. It does not mean the image independently establishes the current target tenant's execution status or a successful test outcome.
+
+**Not Independently Verified** in the target environment column means this repository update has not connected to or run the transaction in the intended SAP S/4HANA Private Cloud environment. No Passed or Failed result is asserted.
+
+## 5. Source Note
+
+*SAP FICO Implementation Project Document*, Phase 8, pages 126–155; *SAP FICO Business Processes*, Processes 1–27, pages 1–92.
