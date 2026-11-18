@@ -27,3 +27,9 @@ The Business Processes document labels the G/L Line-item Report as `FBL3N` in mu
 
 ## 5. Source Note
 Compiled from the report references in the SAP FICO Business Processes document, Processes 1–27, and the implementation project document.
+
+## Source PDF References
+
+- **SRC-01 – Implementation Project Document:** Phase-specific configuration and Phase 8 testing references, pages 1–155.
+- **SRC-02 – Business Processes:** Process-specific validation and report references, pages 1–92.
+- Central index: [Source Documents](../source-documents/README.md).
