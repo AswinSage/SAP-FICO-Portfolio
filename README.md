@@ -1,91 +1,72 @@
-# SAP-FICO-Portfolio
-SAP S/4HANA FICO portfolio showcasing end-to-end finance business processes, configuration concepts, accounting scenarios, and implementation documentation.
+# SAP FICO Implementation Portfolio
 
-# Hi, I'm S.N.Aswin
+A structured SAP FICO portfolio documenting implementation configuration, master data, end-to-end finance business processes, testing, and reporting.
 
-## MBA Finance | Aspiring SAP S/4HANA FICO Consultant
+## Project at a Glance
 
-![MBA Finance](https://img.shields.io/badge/MBA-Finance-blue)
-![SAP S/4HANA](https://img.shields.io/badge/SAP-S%2F4HANA-0FAAFF?logo=sap&logoColor=white)
-![SAP FICO](https://img.shields.io/badge/Module-FICO-blue)
-![Microsoft Excel](https://img.shields.io/badge/Microsoft-Excel-217346?logo=microsoft-excel&logoColor=white)
-![Power BI](https://img.shields.io/badge/Microsoft-Power%20BI-F2C811?logo=powerbi&logoColor=black)
-![NPTEL Top 2%](https://img.shields.io/badge/NPTEL-Top%202%25-success)
-![NPTEL Top 5%](https://img.shields.io/badge/NPTEL-Top%205%25-success)
-![BSmart Brand Canvas](https://img.shields.io/badge/BSmart_Brand_Canvas-National_5th_Place-success)
+| Item | Details |
+|---|---|
+| Project case | SAP FICO Implementation Project for Hindustan Motors Ltd |
+| Functional scope | FI, AP, AR, Asset Accounting, Controlling |
+| Documentation source | Implementation project report and business-process report |
+| Process coverage | 27 documented business processes |
+| Portfolio structure | 9 implementation and validation sections |
 
+## Project Navigation
 
-I'm an MBA Finance student passionate about Financial Accounting, Management Accounting, and SAP S/4HANA FICO. I enjoy learning how finance processes are transformed into efficient business solutions through SAP.
-
-Currently, I'm building a public portfolio of SAP FICO projects, business process documentation, and finance case studies to strengthen my implementation knowledge.
-
+| Section | Description |
+|---|---|
+| [00 – Project Overview](00-Project-Overview/README.md) | Project summary, scope, requirements, and roadmap |
+| [01 – Enterprise Structure](01-Enterprise-Structure/README.md) | Organizational units and assignments |
+| [02 – Global Settings](02-Global-Settings/README.md) | Financial accounting controls and periods |
+| [03 – General Ledger](03-General-Ledger/README.md) | G/L configuration, master data, and processes |
+| [04 – Accounts Payable](04-Accounts-Payable/README.md) | Vendor setup, invoices, payments, and reporting |
+| [05 – Accounts Receivable](05-Accounts-Receivable/README.md) | Customer setup, invoices, receipts, and dunning |
+| [06 – Asset Accounting](06-Asset-Accounting/README.md) | Depreciation setup and asset master processes |
+| [07 – Controlling](07-Controlling/README.md) | Cost elements, cost centres, profit centres, and orders |
+| [08 – Cutover and Testing](08-Cutover-and-Testing/README.md) | Test strategy, case register, and cutover checklist |
+| [09 – Reports and Validation](09-Reports-and-Validation/README.md) | Financial and controlling report references |
 
 ## About Me
 
-- 🎓 MBA in Finance
-- 📚 Learning SAP S/4HANA FICO
-- 📊 Interested in Financial Accounting & Controlling
-- 📈 Skilled in Microsoft Excel and Power BI
-- 🌱 Currently learning and applying SAP implementation concepts and end-to-end business processes
+**S.N. Aswin**  
+MBA – Finance | Aspiring SAP S/4HANA FICO Consultant
 
+I am interested in Financial Accounting, Management Accounting, SAP finance processes, and the practical use of ERP systems to support business operations and financial control.
 
+## Technical Areas
 
-## Technical Skills
-
-### SAP
-
+### SAP Functional Areas
 - Financial Accounting (FI)
-- General Ledger (GL)
+- General Ledger (G/L)
 - Accounts Payable (AP)
 - Accounts Receivable (AR)
-- Asset Accounting (AA)
-- Bank Accounting
-- Cost Centre Accounting
-- Internal Orders
+- Asset Accounting (FI-AA)
+- Controlling (CO)
 
-### Finance
-
+### Finance and Analytics
 - Financial Accounting
 - Management Accounting
 - Financial Reporting
 - Working Capital Management
 - Financial Statement Analysis
-
-### Tools
-
 - Microsoft Excel
 - Power BI
+- SPSS
+
+### Tools
+- SAP GUI
+- Git and GitHub
+- Microsoft Excel
 - Microsoft PowerPoint
-- Git & GitHub
+- Power BI
 
+## Important Documentation Note
 
-## Current Learning Roadmap
+This repository organizes the procedures and process scenarios contained in the supplied project reports. Documentation creation does not by itself prove successful execution in a specific SAP release or environment. Project-specific values and completion claims must be supported by actual SAP evidence.
 
-- Enterprise Structure
-- General Ledger
-- Accounts Payable
-- Accounts Receivable
-- Asset Accounting
-- Cost Centre Accounting
-- Internal Orders
-- Procure-to-Pay
-- Order-to-Cash
-- Month-End Closing
-- SAP S/4HANA
+The source reports document FI/CO scope. SD, MM, and TM are not represented as completed implementations in this repository.
 
+## Connect
 
-## Featured Repositories
-
-Coming Soon...
-
-
-## Goals
-
-My goal is to become an SAP S/4HANA FICO Consultant with strong business process knowledge and implementation skills.
-
----
-
-## Connect With Me
-
-- LinkedIn: (www.linkedin.com/in/aswinsn)
-- Email: (s.n.aswin.004@gmail.com)
+- LinkedIn: [linkedin.com/in/aswinsn](https://www.linkedin.com/in/aswinsn)
