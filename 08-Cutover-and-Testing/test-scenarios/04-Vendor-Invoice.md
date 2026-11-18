@@ -39,7 +39,6 @@ Validate vendor invoice posting, including liability recognition, corresponding 
 | 137 | Indirect Posting – FB60 |
 | 138 | Additional document / posting display |
 
-The captions are reproduced as they appear in the source PDF. The source does not fully explain the distinction between the paths. The F-02 caption is retained as a source label and is not treated here as a verified vendor-invoice transaction mapping.
 
 ## Preconditions
 
