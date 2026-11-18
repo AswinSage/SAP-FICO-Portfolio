@@ -124,7 +124,7 @@ The implementation report contains screenshot pages for the Phase 8 activities:
 | Asset master | [147](../source-documents/SAP%20FICO%20IMPLEMENTATION%20PROJECT%20DOCUMENT%201.pdf#page=147)–[152](../source-documents/SAP%20FICO%20IMPLEMENTATION%20PROJECT%20DOCUMENT%201.pdf#page=152) | Single asset, group asset, and sub-asset screens |
 | Asset acquisition | 154 | Screenshot page identified by the source as Asset Acquisition |
 
-The text procedure pages are 126, 130, 133–135, 139, 142, 144, 146, and 153 respectively. Page 155 is the end of the source PDF.
+The text procedure pages are [126](../source-documents/SAP%20FICO%20IMPLEMENTATION%20PROJECT%20DOCUMENT%201.pdf#page=126), [130](../source-documents/SAP%20FICO%20IMPLEMENTATION%20PROJECT%20DOCUMENT%201.pdf#page=130), [133](../source-documents/SAP%20FICO%20IMPLEMENTATION%20PROJECT%20DOCUMENT%201.pdf#page=133), [135](../source-documents/SAP%20FICO%20IMPLEMENTATION%20PROJECT%20DOCUMENT%201.pdf#page=135), [139](../source-documents/SAP%20FICO%20IMPLEMENTATION%20PROJECT%20DOCUMENT%201.pdf#page=139), [142](../source-documents/SAP%20FICO%20IMPLEMENTATION%20PROJECT%20DOCUMENT%201.pdf#page=142), [144](../source-documents/SAP%20FICO%20IMPLEMENTATION%20PROJECT%20DOCUMENT%201.pdf#page=144), [146](../source-documents/SAP%20FICO%20IMPLEMENTATION%20PROJECT%20DOCUMENT%201.pdf#page=146), [153](../source-documents/SAP%20FICO%20IMPLEMENTATION%20PROJECT%20DOCUMENT%201.pdf#page=153) respectively. Page 155 is the end of the source PDF.
 
 ## 8. Execution Status and Evidence Boundary
 
