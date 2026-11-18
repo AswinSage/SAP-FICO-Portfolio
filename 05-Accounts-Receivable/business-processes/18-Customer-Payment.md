@@ -52,7 +52,9 @@ The source describes customer payment as clearing an outstanding receivable and 
 
 ## 7. Evidence
 
-Suggested evidence: `18-Customer-Payment.png` and related line-item reports.
+**Source PDF screenshot pages:** 66-67 in *SAP FICO BUSINESS PROCESSES (1).pdf*. See the [Screenshot Page Index](../../00-Project-Overview/Screenshot-Page-Index.md).
+
+`18-Customer-Payment.png` and related line-item reports.
 
 ## 8. Implementation Notes
 
