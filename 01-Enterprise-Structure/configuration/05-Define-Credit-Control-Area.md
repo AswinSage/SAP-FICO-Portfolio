@@ -20,15 +20,16 @@ The source describes this organizational unit as supporting centralized monitori
 8. Verify mandatory fields and save.
 
 ## 5. Project Values
-| Field | Project value |
+| Field | Value visible in SRC-01 |
 |---|---|
-| Credit Control Area | Record from SAP |
-| Description | Record from SAP |
-| Currency | Record from SAP |
-| Update setting | Record from SAP |
-| Fiscal Year Variant | Record from SAP |
-| Credit Limit | Record from SAP |
-| Risk Category | Record if applicable |
+| Credit Control Area | HM11 |
+| Description | Credit Control Area - HM11 |
+| Currency | INR |
+| Fiscal Year Variant field | H1 |
+| Credit Limit | 1,500,000,000 |
+| Update setting / Risk Category | Not transcribed; value is not sufficiently clear in the screenshot |
+
+Source: implementation report, PDF page 7. Revalidate all entries in the target SAP system before reuse.
 
 ## 6. Validation
 - [ ] Credit Control Area exists.
