@@ -32,7 +32,7 @@ Report stated in source: Cost Element Line Items (`KSB1`).
 
 ## 7. Evidence
 
-**Source PDF screenshot pages:** 84-85 in *SAP FICO BUSINESS PROCESSES (1).pdf*. See the [Screenshot Page Index](../../00-Project-Overview/Screenshot-Page-Index.md).
+**Source PDF screenshot pages:** [PDF p.84](https://github.com/AswinSage/SAP-FICO-Portfolio/blob/main/source-documents/SAP%20FICO%20BUSINESS%20PROCESSES.pdf#page=84) · [PDF p.85](https://github.com/AswinSage/SAP-FICO-Portfolio/blob/main/source-documents/SAP%20FICO%20BUSINESS%20PROCESSES.pdf#page=85). See the [Screenshot Page Index](../../00-Project-Overview/Screenshot-Page-Index.md).
 Suggested: `24-Secondary-Cost-Element.png`.
 
 ## 8. Implementation Notes
