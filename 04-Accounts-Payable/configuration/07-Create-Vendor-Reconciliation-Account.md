@@ -31,8 +31,6 @@ The source explains that reconciliation accounts maintain synchronization betwee
 | Reconciliation category | Vendors (procedure description) |
 | Company Code | HM11 is displayed in the Infineon Technologies vendor master (SRC-01, PDF page 60) |
 
-The account number 1002 is evidenced as the vendor master reconciliation-account value; the source screenshot does not show the full G/L account master definition. Confirm the account master, account group, and description separately.
-
 ## 6. Validation
 - [ ] Account is created as a Balance Sheet account.
 - [ ] Reconciliation category is Vendors.
