@@ -60,7 +60,6 @@ The sequence above follows the topics listed in the source implementation docume
 - [ ] Assignment relationships are checked in the SAP system.
 - [ ] Configuration values are consistent with the approved project design.
 - [ ] Supporting screenshots are captured with sensitive information removed.
-- [ ] Any source-document inconsistency is resolved against the actual system configuration.
 
 ## 6. Evidence and Documentation Notes
 
