@@ -50,9 +50,9 @@ The source illustrates Rent Paid and Telephone Charges Paid postings.
 
 ## 7. Evidence
 
-**Source PDF screenshot pages:** 27 in [SAP FICO BUSINESS PROCESSES (1).pdf](../../../../SAP%20FICO%20BUSINESS%20PROCESSES%20(1).pdf). See the [Screenshot Page Index](../../../00-Project-Overview/Screenshot-Page-Index.md) for the process-wise page map.
+**Source PDF screenshot pages:** 27 in *SAP FICO BUSINESS PROCESSES (1).pdf*. See the [Screenshot Page Index](../../00-Project-Overview/Screenshot-Page-Index.md).
 
-Suggested evidence: `02-Direct-GL-Posting-Rent.png`, `02-Direct-GL-Posting-Telephone.png`, and relevant redacted report output.
+`02-Direct-GL-Posting-Rent.png`, `02-Direct-GL-Posting-Telephone.png`, and relevant redacted report output.
 
 ## 8. Implementation Notes
 
