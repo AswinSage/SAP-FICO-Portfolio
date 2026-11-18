@@ -1,39 +1,29 @@
 # General Ledger (G/L)
 
 ## 1. Overview
+General Ledger Accounting is the central accounting record for financial transactions. The project documents Chart of Accounts setup, account groups, retained earnings, G/L master data, and eight G/L business processes.
 
-General Ledger Accounting is the central accounting record for financial transactions. The uploaded SAP FICO implementation project identifies configuration activities for the Chart of Accounts, G/L Account Groups, Retained Earnings Account, and G/L Master Data.
+## 2. Configuration and Master Data
+- [Configuration Overview](configuration/01-General-Ledger-Configuration-Overview.md)
+- [Define Chart of Accounts](configuration/02-Define-Chart-of-Accounts.md)
+- [Assign Company Code to Chart of Accounts](configuration/03-Assign-Company-Code-to-Chart-of-Accounts.md)
+- [Define G/L Account Group](configuration/04-Define-GL-Account-Group.md)
+- [Define Retained Earnings Account](configuration/05-Define-Retained-Earnings-Account.md)
+- [Create G/L Master Record](master-data/01-Create-GL-Master-Record.md)
 
-The companion business-process document also describes operational G/L activities. These will be documented separately from configuration so that the project clearly distinguishes system setup from transaction execution.
+## 3. Business Processes
+See the [G/L Business Process Index](business-processes/README.md) for all eight source processes:
+1. Create G/L Master Data
+2. Direct G/L Posting
+3. Block G/L at Chart of Accounts Level
+4. Unblock G/L at Chart of Accounts Level
+5. Block G/L at Company Code Level
+6. Unblock G/L at Company Code Level
+7. Reversal of Rent Posting
+8. G/L Line-item Report
 
-## 2. Configuration Scope
-
-| No. | Activity | Purpose |
-|---:|---|---|
-| 1 | Define Chart of Accounts | Establish the structured list of G/L accounts |
-| 2 | Assign Company Code to Chart of Accounts | Link the company code to the account structure |
-| 3 | Define Account Groups | Classify G/L accounts and control number ranges and screen layout |
-| 4 | Define Retained Earnings Account | Maintain the account used for P&L balance carryforward |
-| 5 | Create G/L Master Data | Maintain G/L account records at the relevant organizational levels |
-
-## 3. Business Process Scope
-
-The business-process document contains eight numbered G/L processes. The detailed process files will preserve the source process names and steps, with transaction codes and system evidence recorded only where supported.
-
-## 4. Documentation Structure
-
-| Folder | Contents |
-|---|---|
-| `configuration` | Chart of Accounts, assignments, account groups and retained earnings |
-| `master-data` | G/L account master records |
-| `business-processes` | G/L transaction procedures from the business-process document |
-| `testing` | Test cases, expected results and actual evidence |
-| `screenshots` | Redacted SAP system evidence |
-
-## 5. Validation Approach
-
+## 4. Validation
 Configuration validation and transaction validation must be recorded separately. A saved configuration entry is not proof that a complete business transaction has been tested.
 
-## 6. Source and Scope Note
-
-Configuration scope is based on Phase 3, General Ledger, and the G/L master data activity in Phase 8 of the implementation project document. Operational G/L process scope is based on the G/L section of the companion business-process document.
+## 5. Source Note
+Implementation project document, Phase 3 and Phase 8 G/L master data; Business Processes document, Processes 1–8.
