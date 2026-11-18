@@ -54,7 +54,7 @@ The source illustrates Sundry Debtors and Sundry Creditors reconciliation accoun
 
 ## 7. Evidence
 
-**Source PDF screenshot pages:** 44-46 in *SAP FICO BUSINESS PROCESSES (1).pdf*. See the [Screenshot Page Index](../../00-Project-Overview/Screenshot-Page-Index.md).
+**Source PDF screenshot pages:** [PDF p.44](https://github.com/AswinSage/SAP-FICO-Portfolio/blob/main/source-documents/SAP%20FICO%20BUSINESS%20PROCESSES.pdf#page=44) · [PDF p.45](https://github.com/AswinSage/SAP-FICO-Portfolio/blob/main/source-documents/SAP%20FICO%20BUSINESS%20PROCESSES.pdf#page=45) · [PDF p.46](https://github.com/AswinSage/SAP-FICO-Portfolio/blob/main/source-documents/SAP%20FICO%20BUSINESS%20PROCESSES.pdf#page=46). See the [Screenshot Page Index](../../00-Project-Overview/Screenshot-Page-Index.md).
 
 ## 8. Source Note
 
