@@ -40,12 +40,6 @@ The source describes unblocking as the action taken when a previously restricted
 
 **Source PDF screenshot pages:** 31 in *SAP FICO BUSINESS PROCESSES (1).pdf*. See the [Screenshot Page Index](../../00-Project-Overview/Screenshot-Page-Index.md).
 
-`04-Unblock-GL-Chart-of-Accounts-Level.png`.
-
-## 8. Implementation Notes
-
-Link this evidence to the corresponding block activity in Process 3. Record the actual account and validation result.
-
-## 9. Source Note
+## 8. Source Note
 
 Business Processes document, Process 4, pages 30–31.
